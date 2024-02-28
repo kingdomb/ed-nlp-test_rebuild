@@ -1,0 +1,3434 @@
+[
+    {
+        "id": "1",
+        "job_title": "Web Designer",
+        "keyword_names": "HTML, CSS, MySQL",
+        "related_courses": "['MySQL:357:IT4423', 'MySQL:383:CYBR4423']"
+    },
+    {
+        "id": "2",
+        "job_title": "Web Developer",
+        "keyword_names": "HTML, CSS, MySQL, Android, JavaScript, SQL, OO, Python, iOS",
+        "related_courses": "['MySQL:357:IT4423', 'MySQL:383:CYBR4423', 'Android:71:CS4612', 'Android:186:CS4322', 'Android:187:CS4322', 'SQL:214:IT4733', 'SQL:234:CSE3153', 'SQL:357:IT4423', 'SQL:383:CYBR4423', 'SQL:508:CYBR3153', 'OO:64:SWE4743', 'OO:65:SWE4743', 'OO:325:SWE3683', 'Python:21:CS4742', 'Python:357:IT4423', 'Python:383:CYBR4423', 'iOS:71:CS4612']"
+    },
+    {
+        "id": "3",
+        "job_title": "Full Stack Developer",
+        "keyword_names": "HTML, CSS, MySQL, APIs, JavaScript",
+        "related_courses": "['MySQL:357:IT4423', 'MySQL:383:CYBR4423', 'APIs:632:IT4403']"
+    },
+    {
+        "id": "4",
+        "job_title": "Dev Ops",
+        "keyword_names": "HTML, CSS, MySQL, Unix, Linux, Python, Linux",
+        "related_courses": "['MySQL:357:IT4423', 'MySQL:383:CYBR4423', 'Python:21:CS4742', 'Python:357:IT4423', 'Python:383:CYBR4423', 'Linux:356:IT4423', 'Linux:357:IT4423', 'Linux:382:CYBR4423', 'Linux:383:CYBR4423']"
+    },
+    {
+        "id": "5",
+        "job_title": "Product Manager",
+        "keyword_names": "HTML, CSS, MySQL, Agile, Web Services, SDLC, NoSQL, AI, SQL",
+        "related_courses": "['MySQL:357:IT4423', 'MySQL:383:CYBR4423', 'SDLC:439:SWE3633', 'NoSQL:214:IT4733', 'AI:171:STAT7140', 'AI:655:CS3642', 'AI:657:CS3642', 'SQL:214:IT4733', 'SQL:234:CSE3153', 'SQL:357:IT4423', 'SQL:383:CYBR4423', 'SQL:508:CYBR3153']"
+    },
+    {
+        "id": "6",
+        "job_title": "Customer Service Representative",
+        "keyword_names": "HTML, CSS, MySQL",
+        "related_courses": "['MySQL:357:IT4423', 'MySQL:383:CYBR4423']"
+    },
+    {
+        "id": "29",
+        "job_title": "Software Engineer",
+        "keyword_names": "Linux, SQL, NoSQL, JavaScript, Python, APIs, API, iOS, Web Services, Web Services, Linux, CSS, HTML, OO, Python, UNIX, Unix, Android, Unix, MySQL, OpenGL, MVC, SAS, Agile, Graphical User Interface, Android, DBMS, Cloud Computing, TCP/IP",
+        "related_courses": "['Linux:356:IT4423', 'Linux:357:IT4423', 'Linux:382:CYBR4423', 'Linux:383:CYBR4423', 'SQL:214:IT4733', 'SQL:234:CSE3153', 'SQL:357:IT4423', 'SQL:383:CYBR4423', 'SQL:508:CYBR3153', 'NoSQL:214:IT4733', 'Python:21:CS4742', 'Python:357:IT4423', 'Python:383:CYBR4423', 'APIs:632:IT4403', 'API:270:CS4722', 'API:271:CS4722', 'API:632:IT4403', 'iOS:71:CS4612', 'OO:64:SWE4743', 'OO:65:SWE4743', 'OO:325:SWE3683', 'UNIX:527:CS4512', 'UNIX:529:CS4512', 'Android:71:CS4612', 'Android:186:CS4322', 'Android:187:CS4322', 'Unix:356:IT4423', 'Unix:382:CYBR4423', 'MySQL:357:IT4423', 'MySQL:383:CYBR4423', 'OpenGL:271:CS4722', 'MVC:535:CS4720', 'SAS:205:STAT3130', 'SAS:501:STAT7220', 'Graphical User Interface:340:CSE1322', 'Graphical User Interface:409:CSE1322', 'DBMS:538:CS3410', 'Cloud Computing:588:CS4524', 'TCP/IP:355:IT4423', 'TCP/IP:381:CYBR4423']"
+    },
+    {
+        "id": "31",
+        "job_title": "Software Development Engineer",
+        "keyword_names": "Linux, iOS, API, HTML, CSS, AJAX, OO, Python, UNIX, Unix, Unix, Python, JavaScript, Android, MVC, Agile, NoSQL, SQL, Web Services",
+        "related_courses": "['Linux:356:IT4423', 'Linux:357:IT4423', 'Linux:382:CYBR4423', 'Linux:383:CYBR4423', 'iOS:71:CS4612', 'API:270:CS4722', 'API:271:CS4722', 'API:632:IT4403', 'OO:64:SWE4743', 'OO:65:SWE4743', 'OO:325:SWE3683', 'UNIX:527:CS4512', 'UNIX:529:CS4512', 'Unix:356:IT4423', 'Unix:382:CYBR4423', 'Python:21:CS4742', 'Python:357:IT4423', 'Python:383:CYBR4423', 'Android:71:CS4612', 'Android:186:CS4322', 'Android:187:CS4322', 'MVC:535:CS4720', 'NoSQL:214:IT4733', 'SQL:214:IT4733', 'SQL:234:CSE3153', 'SQL:357:IT4423', 'SQL:383:CYBR4423', 'SQL:508:CYBR3153']"
+    },
+    {
+        "id": "34",
+        "job_title": "Business Analyst",
+        "keyword_names": "Android",
+        "related_courses": "['Android:71:CS4612', 'Android:186:CS4322', 'Android:187:CS4322']"
+    },
+    {
+        "id": "35",
+        "job_title": "Systems Analyst",
+        "keyword_names": "SQL",
+        "related_courses": "['SQL:214:IT4733', 'SQL:234:CSE3153', 'SQL:357:IT4423', 'SQL:383:CYBR4423', 'SQL:508:CYBR3153']"
+    },
+    {
+        "id": "42",
+        "job_title": "Marketing Manager",
+        "keyword_names": "IoT, iOS, Android, SQL, IT",
+        "related_courses": "['IoT:277:IT4893', 'IoT:279:IT4893', 'IoT:280:IT4893', 'IoT:281:IT4893', 'IoT:469:CYBR4893', 'IoT:471:CYBR4893', 'IoT:472:CYBR4893', 'IoT:473:CYBR4893', 'iOS:71:CS4612', 'Android:71:CS4612', 'Android:186:CS4322', 'Android:187:CS4322', 'SQL:214:IT4733', 'SQL:234:CSE3153', 'SQL:357:IT4423', 'SQL:383:CYBR4423', 'SQL:508:CYBR3153', 'IT:49:IT3423', 'IT:52:IT4683', 'IT:53:IT4683', 'IT:55:IT4683', 'IT:56:IT4683', 'IT:57:IT4683', 'IT:58:IT4683', 'IT:59:CYBR4883', 'IT:179:IT3003', 'IT:319:CYBR3423', 'IT:361:IT4883', 'IT:474:IT4673', 'IT:546:IT3503', 'IT:582:IT4983', 'IT:583:IT4983', 'IT:648:IT4723', 'IT:649:IT4723']"
+    },
+    {
+        "id": "54",
+        "job_title": "Vice President",
+        "keyword_names": "Linux, UNIX, MySQL, SQL, NoSQL",
+        "related_courses": "['Linux:356:IT4423', 'Linux:357:IT4423', 'Linux:382:CYBR4423', 'Linux:383:CYBR4423', 'UNIX:527:CS4512', 'UNIX:529:CS4512', 'MySQL:357:IT4423', 'MySQL:383:CYBR4423', 'SQL:214:IT4733', 'SQL:234:CSE3153', 'SQL:357:IT4423', 'SQL:383:CYBR4423', 'SQL:508:CYBR3153', 'NoSQL:214:IT4733']"
+    },
+    {
+        "id": "58",
+        "job_title": "Data Analyst",
+        "keyword_names": "SQL, Python, Python",
+        "related_courses": "['SQL:214:IT4733', 'SQL:234:CSE3153', 'SQL:357:IT4423', 'SQL:383:CYBR4423', 'SQL:508:CYBR3153', 'Python:21:CS4742', 'Python:357:IT4423', 'Python:383:CYBR4423']"
+    },
+    {
+        "id": "60",
+        "job_title": "Marketing Analyst",
+        "keyword_names": "SQL, SAS",
+        "related_courses": "['SQL:214:IT4733', 'SQL:234:CSE3153', 'SQL:357:IT4423', 'SQL:383:CYBR4423', 'SQL:508:CYBR3153', 'SAS:205:STAT3130', 'SAS:501:STAT7220']"
+    },
+    {
+        "id": "64",
+        "job_title": "Project Manager",
+        "keyword_names": "Agile, AI, IT, Agile",
+        "related_courses": "['AI:171:STAT7140', 'AI:655:CS3642', 'AI:657:CS3642', 'IT:49:IT3423', 'IT:52:IT4683', 'IT:53:IT4683', 'IT:55:IT4683', 'IT:56:IT4683', 'IT:57:IT4683', 'IT:58:IT4683', 'IT:59:CYBR4883', 'IT:179:IT3003', 'IT:319:CYBR3423', 'IT:361:IT4883', 'IT:474:IT4673', 'IT:546:IT3503', 'IT:582:IT4983', 'IT:583:IT4983', 'IT:648:IT4723', 'IT:649:IT4723']"
+    },
+    {
+        "id": "76",
+        "job_title": "Sales Manager",
+        "keyword_names": "IT, Hardware",
+        "related_courses": "['IT:49:IT3423', 'IT:52:IT4683', 'IT:53:IT4683', 'IT:55:IT4683', 'IT:56:IT4683', 'IT:57:IT4683', 'IT:58:IT4683', 'IT:59:CYBR4883', 'IT:179:IT3003', 'IT:319:CYBR3423', 'IT:361:IT4883', 'IT:474:IT4673', 'IT:546:IT3503', 'IT:582:IT4983', 'IT:583:IT4983', 'IT:648:IT4723', 'IT:649:IT4723', 'Hardware:173:CYBR3123', 'Hardware:252:CSE3203', 'Hardware:256:CYBR3210', 'Hardware:512:IT3123']"
+    },
+    {
+        "id": "78",
+        "job_title": "Business Development Manager",
+        "keyword_names": "IT",
+        "related_courses": "['IT:49:IT3423', 'IT:52:IT4683', 'IT:53:IT4683', 'IT:55:IT4683', 'IT:56:IT4683', 'IT:57:IT4683', 'IT:58:IT4683', 'IT:59:CYBR4883', 'IT:179:IT3003', 'IT:319:CYBR3423', 'IT:361:IT4883', 'IT:474:IT4673', 'IT:546:IT3503', 'IT:582:IT4983', 'IT:583:IT4983', 'IT:648:IT4723', 'IT:649:IT4723']"
+    },
+    {
+        "id": "87",
+        "job_title": "Front End Engineer",
+        "keyword_names": "JavaScript, API, CSS, HTML, Android",
+        "related_courses": "['API:270:CS4722', 'API:271:CS4722', 'API:632:IT4403']"
+    },
+    {
+        "id": "88",
+        "job_title": "FrontEnd Engineer",
+        "keyword_names": "JavaScript, API",
+        "related_courses": "['API:270:CS4722', 'API:271:CS4722', 'API:632:IT4403']"
+    },
+    {
+        "id": "93",
+        "job_title": "Hadoop Administrator",
+        "keyword_names": "Python",
+        "related_courses": "['Python:21:CS4742', 'Python:357:IT4423', 'Python:383:CYBR4423']"
+    },
+    {
+        "id": "95",
+        "job_title": "Big Data Engineer",
+        "keyword_names": "Python, SQL, MySQL, Unix, Linux, Python",
+        "related_courses": "['Python:21:CS4742', 'Python:357:IT4423', 'Python:383:CYBR4423', 'SQL:214:IT4733', 'SQL:234:CSE3153', 'SQL:357:IT4423', 'SQL:383:CYBR4423', 'SQL:508:CYBR3153', 'MySQL:357:IT4423', 'MySQL:383:CYBR4423', 'Unix:356:IT4423', 'Unix:382:CYBR4423', 'Linux:356:IT4423', 'Linux:357:IT4423', 'Linux:382:CYBR4423', 'Linux:383:CYBR4423']"
+    },
+    {
+        "id": "96",
+        "job_title": "Data Science",
+        "keyword_names": "SQL, Python",
+        "related_courses": "['SQL:214:IT4733', 'SQL:234:CSE3153', 'SQL:357:IT4423', 'SQL:383:CYBR4423', 'SQL:508:CYBR3153', 'Python:21:CS4742', 'Python:357:IT4423', 'Python:383:CYBR4423']"
+    },
+    {
+        "id": "99",
+        "job_title": "Business Development",
+        "keyword_names": "Hardware",
+        "related_courses": "['Hardware:173:CYBR3123', 'Hardware:252:CSE3203', 'Hardware:256:CYBR3210', 'Hardware:512:IT3123']"
+    },
+    {
+        "id": "109",
+        "job_title": "Data Scientist",
+        "keyword_names": "Python, SQL, Linux, Python, SAS",
+        "related_courses": "['Python:21:CS4742', 'Python:357:IT4423', 'Python:383:CYBR4423', 'SQL:214:IT4733', 'SQL:234:CSE3153', 'SQL:357:IT4423', 'SQL:383:CYBR4423', 'SQL:508:CYBR3153', 'Linux:356:IT4423', 'Linux:357:IT4423', 'Linux:382:CYBR4423', 'Linux:383:CYBR4423', 'SAS:205:STAT3130', 'SAS:501:STAT7220']"
+    },
+    {
+        "id": "122",
+        "job_title": "Product Analyst",
+        "keyword_names": "SQL",
+        "related_courses": "['SQL:214:IT4733', 'SQL:234:CSE3153', 'SQL:357:IT4423', 'SQL:383:CYBR4423', 'SQL:508:CYBR3153']"
+    },
+    {
+        "id": "175",
+        "job_title": "Technical Sales",
+        "keyword_names": "TCP/IP, Linux, Unix, IT",
+        "related_courses": "['TCP/IP:355:IT4423', 'TCP/IP:381:CYBR4423', 'Linux:356:IT4423', 'Linux:357:IT4423', 'Linux:382:CYBR4423', 'Linux:383:CYBR4423', 'Unix:356:IT4423', 'Unix:382:CYBR4423', 'IT:49:IT3423', 'IT:52:IT4683', 'IT:53:IT4683', 'IT:55:IT4683', 'IT:56:IT4683', 'IT:57:IT4683', 'IT:58:IT4683', 'IT:59:CYBR4883', 'IT:179:IT3003', 'IT:319:CYBR3423', 'IT:361:IT4883', 'IT:474:IT4673', 'IT:546:IT3503', 'IT:582:IT4983', 'IT:583:IT4983', 'IT:648:IT4723', 'IT:649:IT4723']"
+    },
+    {
+        "id": "177",
+        "job_title": "Security Consultant",
+        "keyword_names": "TCP/IP",
+        "related_courses": "['TCP/IP:355:IT4423', 'TCP/IP:381:CYBR4423']"
+    },
+    {
+        "id": "178",
+        "job_title": "Technical Account",
+        "keyword_names": "TCP/IP, Linux, Unix, IT",
+        "related_courses": "['TCP/IP:355:IT4423', 'TCP/IP:381:CYBR4423', 'Linux:356:IT4423', 'Linux:357:IT4423', 'Linux:382:CYBR4423', 'Linux:383:CYBR4423', 'Unix:356:IT4423', 'Unix:382:CYBR4423', 'IT:49:IT3423', 'IT:52:IT4683', 'IT:53:IT4683', 'IT:55:IT4683', 'IT:56:IT4683', 'IT:57:IT4683', 'IT:58:IT4683', 'IT:59:CYBR4883', 'IT:179:IT3003', 'IT:319:CYBR3423', 'IT:361:IT4883', 'IT:474:IT4673', 'IT:546:IT3503', 'IT:582:IT4983', 'IT:583:IT4983', 'IT:648:IT4723', 'IT:649:IT4723']"
+    },
+    {
+        "id": "180",
+        "job_title": "Desktop Support",
+        "keyword_names": "Hardware",
+        "related_courses": "['Hardware:396:CS4514']"
+    },
+    {
+        "id": "188",
+        "job_title": "Account Manager",
+        "keyword_names": "IT, Hardware",
+        "related_courses": "['IT:49:IT3423', 'IT:52:IT4683', 'IT:53:IT4683', 'IT:55:IT4683', 'IT:56:IT4683', 'IT:57:IT4683', 'IT:58:IT4683', 'IT:59:CYBR4883', 'IT:179:IT3003', 'IT:319:CYBR3423', 'IT:361:IT4883', 'IT:474:IT4673', 'IT:546:IT3503', 'IT:582:IT4983', 'IT:583:IT4983', 'IT:648:IT4723', 'IT:649:IT4723', 'Hardware:173:CYBR3123', 'Hardware:252:CSE3203', 'Hardware:256:CYBR3210', 'Hardware:512:IT3123']"
+    },
+    {
+        "id": "193",
+        "job_title": "Site Reliability Engineer",
+        "keyword_names": "Linux, Unix, Python, Unix, MySQL, TCP/IP, HTTP, Python",
+        "related_courses": "['Linux:356:IT4423', 'Linux:357:IT4423', 'Linux:382:CYBR4423', 'Linux:383:CYBR4423', 'Python:21:CS4742', 'Python:357:IT4423', 'Python:383:CYBR4423', 'Unix:356:IT4423', 'Unix:382:CYBR4423', 'MySQL:357:IT4423', 'MySQL:383:CYBR4423', 'TCP/IP:355:IT4423', 'TCP/IP:381:CYBR4423', 'HTTP:596:CYBR4323']"
+    },
+    {
+        "id": "194",
+        "job_title": "Systems Engineer",
+        "keyword_names": "Python, Linux, Unix, Cloud Computing, SQL",
+        "related_courses": "['Python:21:CS4742', 'Python:357:IT4423', 'Python:383:CYBR4423', 'Linux:356:IT4423', 'Linux:357:IT4423', 'Linux:382:CYBR4423', 'Linux:383:CYBR4423', 'Unix:356:IT4423', 'Unix:382:CYBR4423', 'Cloud Computing:588:CS4524', 'SQL:214:IT4733', 'SQL:234:CSE3153', 'SQL:357:IT4423', 'SQL:383:CYBR4423', 'SQL:508:CYBR3153']"
+    },
+    {
+        "id": "195",
+        "job_title": "Infrastructure Engineer",
+        "keyword_names": "Linux, Unix, Python",
+        "related_courses": "['Python:21:CS4742', 'Python:357:IT4423', 'Python:383:CYBR4423']"
+    },
+    {
+        "id": "196",
+        "job_title": "Operations Engineer",
+        "keyword_names": "Python",
+        "related_courses": "['Python:21:CS4742', 'Python:357:IT4423', 'Python:383:CYBR4423']"
+    },
+    {
+        "id": "209",
+        "job_title": "System Engineer",
+        "keyword_names": "Linux, Android, iOS, Unix, Python, MySQL",
+        "related_courses": "['Linux:356:IT4423', 'Linux:357:IT4423', 'Linux:382:CYBR4423', 'Linux:383:CYBR4423', 'Android:71:CS4612', 'Android:186:CS4322', 'Android:187:CS4322', 'iOS:71:CS4612', 'Unix:356:IT4423', 'Unix:382:CYBR4423', 'Python:21:CS4742', 'Python:357:IT4423', 'Python:383:CYBR4423', 'MySQL:357:IT4423', 'MySQL:383:CYBR4423']"
+    },
+    {
+        "id": "210",
+        "job_title": "Intergration Enginer",
+        "keyword_names": "Linux",
+        "related_courses": "['Linux:356:IT4423', 'Linux:357:IT4423', 'Linux:382:CYBR4423', 'Linux:383:CYBR4423']"
+    },
+    {
+        "id": "222",
+        "job_title": "Lead Quality Engineer",
+        "keyword_names": "Python",
+        "related_courses": "['Python:21:CS4742', 'Python:357:IT4423', 'Python:383:CYBR4423']"
+    },
+    {
+        "id": "223",
+        "job_title": "Lead QA Engineer",
+        "keyword_names": "Python, Linux, Unix",
+        "related_courses": "['Python:21:CS4742', 'Python:357:IT4423', 'Python:383:CYBR4423', 'Linux:356:IT4423', 'Linux:357:IT4423', 'Linux:382:CYBR4423', 'Linux:383:CYBR4423', 'Unix:356:IT4423', 'Unix:382:CYBR4423']"
+    },
+    {
+        "id": "229",
+        "job_title": "Statistical Programmer",
+        "keyword_names": "SAS",
+        "related_courses": "['SAS:205:STAT3130', 'SAS:501:STAT7220']"
+    },
+    {
+        "id": "230",
+        "job_title": "SAS Programmer",
+        "keyword_names": "SAS",
+        "related_courses": "['SAS:205:STAT3130', 'SAS:501:STAT7220']"
+    },
+    {
+        "id": "238",
+        "job_title": "Quality Assurance",
+        "keyword_names": "Python, API, APIs, iOS, Android, SQL, Python, Agile",
+        "related_courses": "['Python:21:CS4742', 'Python:357:IT4423', 'Python:383:CYBR4423', 'API:270:CS4722', 'API:271:CS4722', 'API:632:IT4403', 'APIs:632:IT4403', 'iOS:71:CS4612', 'Android:71:CS4612', 'Android:186:CS4322', 'Android:187:CS4322', 'SQL:214:IT4733', 'SQL:234:CSE3153', 'SQL:357:IT4423', 'SQL:383:CYBR4423', 'SQL:508:CYBR3153']"
+    },
+    {
+        "id": "256",
+        "job_title": "Engineering Manager",
+        "keyword_names": "Web Services, SQL, iOS, Android, HTML, CSS, Linux, Unix, Agile, Python, UNIX, JavaScript, Web Services, SDLC, Hardware, Agile, API, Python",
+        "related_courses": "['SQL:214:IT4733', 'SQL:234:CSE3153', 'SQL:357:IT4423', 'SQL:383:CYBR4423', 'SQL:508:CYBR3153', 'iOS:71:CS4612', 'Android:71:CS4612', 'Android:186:CS4322', 'Android:187:CS4322', 'Linux:356:IT4423', 'Linux:357:IT4423', 'Linux:382:CYBR4423', 'Linux:383:CYBR4423', 'Unix:356:IT4423', 'Unix:382:CYBR4423', 'UNIX:527:CS4512', 'UNIX:529:CS4512', 'SDLC:439:SWE3633', 'Hardware:396:CS4514', 'API:270:CS4722', 'API:271:CS4722', 'API:632:IT4403', 'Python:21:CS4742', 'Python:357:IT4423', 'Python:383:CYBR4423']"
+    },
+    {
+        "id": "308",
+        "job_title": "Senior Cloud Developer",
+        "keyword_names": "Linux, Python",
+        "related_courses": "['Python:21:CS4742', 'Python:357:IT4423', 'Python:383:CYBR4423']"
+    },
+    {
+        "id": "362",
+        "job_title": "Development Director",
+        "keyword_names": "iOS, Android, Web Services",
+        "related_courses": "['iOS:71:CS4612', 'Android:71:CS4612', 'Android:186:CS4322', 'Android:187:CS4322']"
+    },
+    {
+        "id": "364",
+        "job_title": "Technical Director",
+        "keyword_names": "iOS, Android",
+        "related_courses": "['iOS:71:CS4612', 'Android:71:CS4612', 'Android:186:CS4322', 'Android:187:CS4322']"
+    },
+    {
+        "id": "365",
+        "job_title": "Development Manager",
+        "keyword_names": "iOS, Android, HTML, CSS, Linux, Unix, SDLC, Web Services, Python",
+        "related_courses": "['iOS:71:CS4612', 'Android:71:CS4612', 'Android:186:CS4322', 'Android:187:CS4322', 'Linux:356:IT4423', 'Linux:357:IT4423', 'Linux:382:CYBR4423', 'Linux:383:CYBR4423', 'Unix:356:IT4423', 'Unix:382:CYBR4423', 'SDLC:439:SWE3633']"
+    },
+    {
+        "id": "378",
+        "job_title": "Art Director",
+        "keyword_names": "HTML, JavaScript, CSS, iOS, Android",
+        "related_courses": "['iOS:71:CS4612', 'Android:71:CS4612', 'Android:186:CS4322', 'Android:187:CS4322']"
+    },
+    {
+        "id": "381",
+        "job_title": "HR Manager",
+        "keyword_names": "Change Management",
+        "related_courses": "['Change Management:141:CYBR4810']"
+    },
+    {
+        "id": "421",
+        "job_title": "QA Engineer",
+        "keyword_names": "Android, iOS, CSS, Python, Python, SDLC, Android, TCP/IP, HTTP, UDP, FTP, Linux, Unix, SQL",
+        "related_courses": "['Android:71:CS4612', 'Android:186:CS4322', 'Android:187:CS4322', 'iOS:71:CS4612', 'Python:21:CS4742', 'Python:357:IT4423', 'Python:383:CYBR4423', 'SDLC:439:SWE3633', 'TCP/IP:355:IT4423', 'TCP/IP:381:CYBR4423', 'HTTP:596:CYBR4323', 'UDP:519:CS4504', 'UDP:597:CYBR4323', 'FTP:355:IT4423', 'FTP:381:CYBR4423', 'Linux:356:IT4423', 'Linux:357:IT4423', 'Linux:382:CYBR4423', 'Linux:383:CYBR4423', 'Unix:356:IT4423', 'Unix:382:CYBR4423', 'SQL:214:IT4733', 'SQL:234:CSE3153', 'SQL:357:IT4423', 'SQL:383:CYBR4423', 'SQL:508:CYBR3153']"
+    },
+    {
+        "id": "422",
+        "job_title": "Quality Assurance Engineer",
+        "keyword_names": "Python, SDLC, TCP/IP, HTTP, UDP, FTP, Python",
+        "related_courses": "['SDLC:439:SWE3633', 'TCP/IP:355:IT4423', 'TCP/IP:381:CYBR4423', 'HTTP:596:CYBR4323', 'UDP:519:CS4504', 'UDP:597:CYBR4323', 'FTP:355:IT4423', 'FTP:381:CYBR4423', 'Python:21:CS4742', 'Python:357:IT4423', 'Python:383:CYBR4423']"
+    },
+    {
+        "id": "423",
+        "job_title": "Quality Engineer",
+        "keyword_names": "Python, SDLC, SQL, Android, Android, Linux, Python, Unix, Agile",
+        "related_courses": "['SDLC:439:SWE3633', 'SQL:214:IT4733', 'SQL:234:CSE3153', 'SQL:357:IT4423', 'SQL:383:CYBR4423', 'SQL:508:CYBR3153', 'Android:71:CS4612', 'Android:186:CS4322', 'Android:187:CS4322', 'Linux:356:IT4423', 'Linux:357:IT4423', 'Linux:382:CYBR4423', 'Linux:383:CYBR4423', 'Python:21:CS4742', 'Python:357:IT4423', 'Python:383:CYBR4423', 'Unix:356:IT4423', 'Unix:382:CYBR4423']"
+    },
+    {
+        "id": "474",
+        "job_title": "Data Science Analyst",
+        "keyword_names": "SQL, Python",
+        "related_courses": "['SQL:214:IT4733', 'SQL:234:CSE3153', 'SQL:357:IT4423', 'SQL:383:CYBR4423', 'SQL:508:CYBR3153', 'Python:21:CS4742', 'Python:357:IT4423', 'Python:383:CYBR4423']"
+    },
+    {
+        "id": "506",
+        "job_title": "Software Developer",
+        "keyword_names": "JavaScript, Web Services, API, Python, UNIX, Linux, iOS, Android, SQL, MySQL, OpenGL, MVC, Unix, HTML, CSS, Web Services, Agile, Graphical User Interface, Python, NoSQL, Cloud Computing, OO",
+        "related_courses": "['API:270:CS4722', 'API:271:CS4722', 'API:632:IT4403', 'Python:21:CS4742', 'Python:357:IT4423', 'Python:383:CYBR4423', 'UNIX:527:CS4512', 'UNIX:529:CS4512', 'Linux:356:IT4423', 'Linux:357:IT4423', 'Linux:382:CYBR4423', 'Linux:383:CYBR4423', 'iOS:71:CS4612', 'Android:71:CS4612', 'Android:186:CS4322', 'Android:187:CS4322', 'SQL:214:IT4733', 'SQL:234:CSE3153', 'SQL:357:IT4423', 'SQL:383:CYBR4423', 'SQL:508:CYBR3153', 'MySQL:357:IT4423', 'MySQL:383:CYBR4423', 'OpenGL:271:CS4722', 'MVC:535:CS4720', 'Unix:356:IT4423', 'Unix:382:CYBR4423', 'Graphical User Interface:340:CSE1322', 'Graphical User Interface:409:CSE1322', 'NoSQL:214:IT4733', 'Cloud Computing:588:CS4524', 'OO:64:SWE4743', 'OO:65:SWE4743', 'OO:325:SWE3683']"
+    },
+    {
+        "id": "507",
+        "job_title": "Java Developer",
+        "keyword_names": "Web Services, API, JavaScript, CSS, HTML, Python, MySQL, SQL, Linux, Unix, NoSQL, Web Services, Agile",
+        "related_courses": "['API:270:CS4722', 'API:271:CS4722', 'API:632:IT4403', 'Python:21:CS4742', 'Python:357:IT4423', 'Python:383:CYBR4423', 'MySQL:357:IT4423', 'MySQL:383:CYBR4423', 'SQL:214:IT4733', 'SQL:234:CSE3153', 'SQL:357:IT4423', 'SQL:383:CYBR4423', 'SQL:508:CYBR3153', 'Linux:356:IT4423', 'Linux:357:IT4423', 'Linux:382:CYBR4423', 'Linux:383:CYBR4423', 'Unix:356:IT4423', 'Unix:382:CYBR4423', 'NoSQL:214:IT4733']"
+    },
+    {
+        "id": "542",
+        "job_title": "Insights Analyst",
+        "keyword_names": "SAS, SQL",
+        "related_courses": "['SAS:205:STAT3130', 'SAS:501:STAT7220', 'SQL:214:IT4733', 'SQL:234:CSE3153', 'SQL:357:IT4423', 'SQL:383:CYBR4423', 'SQL:508:CYBR3153']"
+    },
+    {
+        "id": "543",
+        "job_title": "Customer Analytics",
+        "keyword_names": "SAS, SQL",
+        "related_courses": "['SAS:205:STAT3130', 'SAS:501:STAT7220', 'SQL:214:IT4733', 'SQL:234:CSE3153', 'SQL:357:IT4423', 'SQL:383:CYBR4423', 'SQL:508:CYBR3153']"
+    },
+    {
+        "id": "547",
+        "job_title": "Clinical Data Manager",
+        "keyword_names": "SQL",
+        "related_courses": "['SQL:214:IT4733', 'SQL:234:CSE3153', 'SQL:357:IT4423', 'SQL:383:CYBR4423', 'SQL:508:CYBR3153']"
+    },
+    {
+        "id": "601",
+        "job_title": "Business Intelligence Analyst",
+        "keyword_names": "SQL",
+        "related_courses": "['SQL:214:IT4733', 'SQL:234:CSE3153', 'SQL:357:IT4423', 'SQL:383:CYBR4423', 'SQL:508:CYBR3153']"
+    },
+    {
+        "id": "602",
+        "job_title": "BI Analyst",
+        "keyword_names": "SQL",
+        "related_courses": "['SQL:214:IT4733', 'SQL:234:CSE3153', 'SQL:357:IT4423', 'SQL:383:CYBR4423', 'SQL:508:CYBR3153']"
+    },
+    {
+        "id": "603",
+        "job_title": "Mission Designer",
+        "keyword_names": "OpenCV, Python, Unix",
+        "related_courses": "['OpenCV:210:CS4732']"
+    },
+    {
+        "id": "610",
+        "job_title": "Digital Marketing",
+        "keyword_names": "SAS",
+        "related_courses": "['SAS:205:STAT3130', 'SAS:501:STAT7220']"
+    },
+    {
+        "id": "611",
+        "job_title": "Product Management",
+        "keyword_names": "SAS, Agile, SQL, MySQL",
+        "related_courses": "['SAS:205:STAT3130', 'SAS:501:STAT7220', 'SQL:214:IT4733', 'SQL:234:CSE3153', 'SQL:357:IT4423', 'SQL:383:CYBR4423', 'SQL:508:CYBR3153', 'MySQL:357:IT4423', 'MySQL:383:CYBR4423']"
+    },
+    {
+        "id": "612",
+        "job_title": "Quality Control",
+        "keyword_names": "API",
+        "related_courses": "['API:270:CS4722', 'API:271:CS4722', 'API:632:IT4403']"
+    },
+    {
+        "id": "619",
+        "job_title": "Engine Developer",
+        "keyword_names": "APIs, OpenGL, Python",
+        "related_courses": "['APIs:632:IT4403', 'OpenGL:271:CS4722', 'Python:21:CS4742', 'Python:357:IT4423', 'Python:383:CYBR4423']"
+    },
+    {
+        "id": "638",
+        "job_title": "Program Manager",
+        "keyword_names": "Android, iOS, Agile, Web Services, SDLC, NoSQL, AI, IT, Agile",
+        "related_courses": "['Android:71:CS4612', 'Android:186:CS4322', 'Android:187:CS4322', 'iOS:71:CS4612', 'SDLC:439:SWE3633', 'NoSQL:214:IT4733', 'AI:171:STAT7140', 'AI:655:CS3642', 'AI:657:CS3642', 'IT:49:IT3423', 'IT:52:IT4683', 'IT:53:IT4683', 'IT:55:IT4683', 'IT:56:IT4683', 'IT:57:IT4683', 'IT:58:IT4683', 'IT:59:CYBR4883', 'IT:179:IT3003', 'IT:319:CYBR3423', 'IT:361:IT4883', 'IT:474:IT4673', 'IT:546:IT3503', 'IT:582:IT4983', 'IT:583:IT4983', 'IT:648:IT4723', 'IT:649:IT4723']"
+    },
+    {
+        "id": "654",
+        "job_title": "Technical Artist",
+        "keyword_names": "Python, SQL",
+        "related_courses": "['Python:21:CS4742', 'Python:357:IT4423', 'Python:383:CYBR4423', 'SQL:214:IT4733', 'SQL:234:CSE3153', 'SQL:357:IT4423', 'SQL:383:CYBR4423', 'SQL:508:CYBR3153']"
+    },
+    {
+        "id": "655",
+        "job_title": "Distributed Systems Engineer",
+        "keyword_names": "SQL, Python, Linux",
+        "related_courses": "['SQL:214:IT4733', 'SQL:234:CSE3153', 'SQL:357:IT4423', 'SQL:383:CYBR4423', 'SQL:508:CYBR3153', 'Python:21:CS4742', 'Python:357:IT4423', 'Python:383:CYBR4423', 'Linux:356:IT4423', 'Linux:357:IT4423', 'Linux:382:CYBR4423', 'Linux:383:CYBR4423']"
+    },
+    {
+        "id": "660",
+        "job_title": "Front End",
+        "keyword_names": "CSS, JavaScript, API, APIs, HTML",
+        "related_courses": "['API:270:CS4722', 'API:271:CS4722', 'API:632:IT4403', 'APIs:632:IT4403']"
+    },
+    {
+        "id": "671",
+        "job_title": "Marketing Manage",
+        "keyword_names": "IoT",
+        "related_courses": "['IoT:277:IT4893', 'IoT:279:IT4893', 'IoT:280:IT4893', 'IoT:281:IT4893', 'IoT:469:CYBR4893', 'IoT:471:CYBR4893', 'IoT:472:CYBR4893', 'IoT:473:CYBR4893']"
+    },
+    {
+        "id": "672",
+        "job_title": "Marketing Management",
+        "keyword_names": "IoT",
+        "related_courses": "['IoT:277:IT4893', 'IoT:279:IT4893', 'IoT:280:IT4893', 'IoT:281:IT4893', 'IoT:469:CYBR4893', 'IoT:471:CYBR4893', 'IoT:472:CYBR4893', 'IoT:473:CYBR4893']"
+    },
+    {
+        "id": "703",
+        "job_title": "Media Analyst",
+        "keyword_names": "SQL",
+        "related_courses": "['SQL:214:IT4733', 'SQL:234:CSE3153', 'SQL:357:IT4423', 'SQL:383:CYBR4423', 'SQL:508:CYBR3153']"
+    },
+    {
+        "id": "709",
+        "job_title": "Online Advertising",
+        "keyword_names": "SAS",
+        "related_courses": "['SAS:205:STAT3130', 'SAS:501:STAT7220']"
+    },
+    {
+        "id": "711",
+        "job_title": "QA Analyst",
+        "keyword_names": "Android, iOS, Android",
+        "related_courses": "['Android:71:CS4612', 'Android:186:CS4322', 'Android:187:CS4322', 'iOS:71:CS4612']"
+    },
+    {
+        "id": "712",
+        "job_title": "Test Engineer",
+        "keyword_names": "Android, iOS, Agile, CSS, Python, SDLC, TCP/IP, HTTP, UDP, FTP, Linux, Unix, Python",
+        "related_courses": "['Android:71:CS4612', 'Android:186:CS4322', 'Android:187:CS4322', 'iOS:71:CS4612', 'Python:21:CS4742', 'Python:357:IT4423', 'Python:383:CYBR4423', 'SDLC:439:SWE3633', 'TCP/IP:355:IT4423', 'TCP/IP:381:CYBR4423', 'HTTP:596:CYBR4323', 'UDP:519:CS4504', 'UDP:597:CYBR4323', 'FTP:355:IT4423', 'FTP:381:CYBR4423', 'Linux:356:IT4423', 'Linux:357:IT4423', 'Linux:382:CYBR4423', 'Linux:383:CYBR4423', 'Unix:356:IT4423', 'Unix:382:CYBR4423']"
+    },
+    {
+        "id": "733",
+        "job_title": "Computer System Validation",
+        "keyword_names": "SDLC",
+        "related_courses": "['SDLC:439:SWE3633']"
+    },
+    {
+        "id": "755",
+        "job_title": "Inside Sales Manager",
+        "keyword_names": "IT",
+        "related_courses": "['IT:49:IT3423', 'IT:52:IT4683', 'IT:53:IT4683', 'IT:55:IT4683', 'IT:56:IT4683', 'IT:57:IT4683', 'IT:58:IT4683', 'IT:59:CYBR4883', 'IT:179:IT3003', 'IT:319:CYBR3423', 'IT:361:IT4883', 'IT:474:IT4673', 'IT:546:IT3503', 'IT:582:IT4983', 'IT:583:IT4983', 'IT:648:IT4723', 'IT:649:IT4723']"
+    },
+    {
+        "id": "770",
+        "job_title": "Principal Engineer",
+        "keyword_names": "Web Services, OO, Python, Linux, Android, iOS, API, APIs, Python",
+        "related_courses": "['OO:64:SWE4743', 'OO:65:SWE4743', 'OO:325:SWE3683', 'Linux:356:IT4423', 'Linux:357:IT4423', 'Linux:382:CYBR4423', 'Linux:383:CYBR4423', 'Android:71:CS4612', 'Android:186:CS4322', 'Android:187:CS4322', 'iOS:71:CS4612', 'API:270:CS4722', 'API:271:CS4722', 'API:632:IT4403', 'APIs:632:IT4403', 'Python:21:CS4742', 'Python:357:IT4423', 'Python:383:CYBR4423']"
+    },
+    {
+        "id": "771",
+        "job_title": "Principal Software Engineer",
+        "keyword_names": "Web Services, API, OO, Python, iOS, Android, DBMS, NoSQL, SQL, MySQL, AI",
+        "related_courses": "['API:270:CS4722', 'API:271:CS4722', 'API:632:IT4403', 'OO:64:SWE4743', 'OO:65:SWE4743', 'OO:325:SWE3683', 'iOS:71:CS4612', 'Android:71:CS4612', 'Android:186:CS4322', 'Android:187:CS4322', 'DBMS:538:CS3410', 'NoSQL:214:IT4733', 'SQL:214:IT4733', 'SQL:234:CSE3153', 'SQL:357:IT4423', 'SQL:383:CYBR4423', 'SQL:508:CYBR3153', 'MySQL:357:IT4423', 'MySQL:383:CYBR4423', 'AI:171:STAT7140', 'AI:655:CS3642', 'AI:657:CS3642']"
+    },
+    {
+        "id": "773",
+        "job_title": "Java Engineer",
+        "keyword_names": "Web Services, JavaScript, CSS, HTML, SQL, NoSQL",
+        "related_courses": "['SQL:214:IT4733', 'SQL:234:CSE3153', 'SQL:357:IT4423', 'SQL:383:CYBR4423', 'SQL:508:CYBR3153', 'NoSQL:214:IT4733']"
+    },
+    {
+        "id": "774",
+        "job_title": "Staff Engineer",
+        "keyword_names": "Web Services, API, NoSQL, SQL, OpenCV, Python",
+        "related_courses": "['API:270:CS4722', 'API:271:CS4722', 'API:632:IT4403', 'NoSQL:214:IT4733', 'SQL:214:IT4733', 'SQL:234:CSE3153', 'SQL:357:IT4423', 'SQL:383:CYBR4423', 'SQL:508:CYBR3153', 'OpenCV:210:CS4732', 'Python:21:CS4742', 'Python:357:IT4423', 'Python:383:CYBR4423']"
+    },
+    {
+        "id": "777",
+        "job_title": "Senior Staff Engineer",
+        "keyword_names": "Web Services, Python",
+        "related_courses": "['Python:21:CS4742', 'Python:357:IT4423', 'Python:383:CYBR4423']"
+    },
+    {
+        "id": "811",
+        "job_title": "Devops Engineer",
+        "keyword_names": "Python, Linux, Unix, SQL, OO, NoSQL, MySQL",
+        "related_courses": "['Python:21:CS4742', 'Python:357:IT4423', 'Python:383:CYBR4423', 'SQL:214:IT4733', 'SQL:234:CSE3153', 'SQL:357:IT4423', 'SQL:383:CYBR4423', 'SQL:508:CYBR3153', 'OO:64:SWE4743', 'OO:65:SWE4743', 'OO:325:SWE3683', 'NoSQL:214:IT4733', 'MySQL:357:IT4423', 'MySQL:383:CYBR4423']"
+    },
+    {
+        "id": "812",
+        "job_title": "Release Engineer",
+        "keyword_names": "Linux, Unix, Python, Android, Linux, Unix",
+        "related_courses": "['Python:21:CS4742', 'Python:357:IT4423', 'Python:383:CYBR4423', 'Linux:356:IT4423', 'Linux:357:IT4423', 'Linux:382:CYBR4423', 'Linux:383:CYBR4423', 'Unix:356:IT4423', 'Unix:382:CYBR4423']"
+    },
+    {
+        "id": "814",
+        "job_title": "Reliability Engineering",
+        "keyword_names": "Python",
+        "related_courses": "['Python:21:CS4742', 'Python:357:IT4423', 'Python:383:CYBR4423']"
+    },
+    {
+        "id": "815",
+        "job_title": "Technical Writer",
+        "keyword_names": "API, APIs",
+        "related_courses": "['API:270:CS4722', 'API:271:CS4722', 'API:632:IT4403', 'APIs:632:IT4403']"
+    },
+    {
+        "id": "816",
+        "job_title": "Technical Writing",
+        "keyword_names": "API, APIs",
+        "related_courses": "['API:270:CS4722', 'API:271:CS4722', 'API:632:IT4403', 'APIs:632:IT4403']"
+    },
+    {
+        "id": "817",
+        "job_title": "Tech Writer",
+        "keyword_names": "API, APIs",
+        "related_courses": "['API:270:CS4722', 'API:271:CS4722', 'API:632:IT4403', 'APIs:632:IT4403']"
+    },
+    {
+        "id": "818",
+        "job_title": "Tech Writing",
+        "keyword_names": "API, APIs",
+        "related_courses": "['API:270:CS4722', 'API:271:CS4722', 'API:632:IT4403', 'APIs:632:IT4403']"
+    },
+    {
+        "id": "819",
+        "job_title": "Web Engineer",
+        "keyword_names": "HTML, JavaScript, CSS, iOS, Android, SQL",
+        "related_courses": "['iOS:71:CS4612', 'Android:71:CS4612', 'Android:186:CS4322', 'Android:187:CS4322', 'SQL:214:IT4733', 'SQL:234:CSE3153', 'SQL:357:IT4423', 'SQL:383:CYBR4423', 'SQL:508:CYBR3153']"
+    },
+    {
+        "id": "827",
+        "job_title": "Front End Software Engineer",
+        "keyword_names": "JavaScript, CSS, HTML, Python",
+        "related_courses": "['Python:21:CS4742', 'Python:357:IT4423', 'Python:383:CYBR4423']"
+    },
+    {
+        "id": "828",
+        "job_title": "UI Engineer",
+        "keyword_names": "HTML, CSS, AJAX, JavaScript, Python",
+        "related_courses": "['Python:21:CS4742', 'Python:357:IT4423', 'Python:383:CYBR4423']"
+    },
+    {
+        "id": "829",
+        "job_title": "UX Engineer",
+        "keyword_names": "HTML, CSS, AJAX, JavaScript, Python, iOS, Android",
+        "related_courses": "['Python:21:CS4742', 'Python:357:IT4423', 'Python:383:CYBR4423', 'iOS:71:CS4612', 'Android:71:CS4612', 'Android:186:CS4322', 'Android:187:CS4322']"
+    },
+    {
+        "id": "831",
+        "job_title": "Frontend Engineer",
+        "keyword_names": "HTML, CSS, AJAX, JavaScript, Python",
+        "related_courses": "['Python:21:CS4742', 'Python:357:IT4423', 'Python:383:CYBR4423']"
+    },
+    {
+        "id": "833",
+        "job_title": "Web Applications Engineer",
+        "keyword_names": "JavaScript, HTML, CSS, Python",
+        "related_courses": "['Python:21:CS4742', 'Python:357:IT4423', 'Python:383:CYBR4423']"
+    },
+    {
+        "id": "834",
+        "job_title": "J2EE Developer",
+        "keyword_names": "NoSQL, SQL, Web Services, HTML, CSS",
+        "related_courses": "['NoSQL:214:IT4733', 'SQL:214:IT4733', 'SQL:234:CSE3153', 'SQL:357:IT4423', 'SQL:383:CYBR4423', 'SQL:508:CYBR3153']"
+    },
+    {
+        "id": "836",
+        "job_title": "Application Developer",
+        "keyword_names": "Android, JavaScript, SQL",
+        "related_courses": "['Android:71:CS4612', 'Android:186:CS4322', 'Android:187:CS4322', 'SQL:214:IT4733', 'SQL:234:CSE3153', 'SQL:357:IT4423', 'SQL:383:CYBR4423', 'SQL:508:CYBR3153']"
+    },
+    {
+        "id": "838",
+        "job_title": "Technical Support Engineer",
+        "keyword_names": "Linux",
+        "related_courses": "['Linux:356:IT4423', 'Linux:357:IT4423', 'Linux:382:CYBR4423', 'Linux:383:CYBR4423']"
+    },
+    {
+        "id": "847",
+        "job_title": "Technical Architect",
+        "keyword_names": "NoSQL, MVC, Agile",
+        "related_courses": "['NoSQL:214:IT4733', 'MVC:535:CS4720']"
+    },
+    {
+        "id": "851",
+        "job_title": "Senior Application Developer",
+        "keyword_names": "SQL, API, MVC",
+        "related_courses": "['SQL:214:IT4733', 'SQL:234:CSE3153', 'SQL:357:IT4423', 'SQL:383:CYBR4423', 'SQL:508:CYBR3153', 'API:270:CS4722', 'API:271:CS4722', 'API:632:IT4403', 'MVC:535:CS4720']"
+    },
+    {
+        "id": "853",
+        "job_title": "Software Architect",
+        "keyword_names": "iOS, Android, SQL, MySQL, Python, JavaScript, Linux, Unix, Android, Python",
+        "related_courses": "['iOS:71:CS4612', 'Android:71:CS4612', 'Android:186:CS4322', 'Android:187:CS4322', 'SQL:214:IT4733', 'SQL:234:CSE3153', 'SQL:357:IT4423', 'SQL:383:CYBR4423', 'SQL:508:CYBR3153', 'MySQL:357:IT4423', 'MySQL:383:CYBR4423', 'Python:21:CS4742', 'Python:357:IT4423', 'Python:383:CYBR4423', 'Linux:356:IT4423', 'Linux:357:IT4423', 'Linux:382:CYBR4423', 'Linux:383:CYBR4423', 'Unix:356:IT4423', 'Unix:382:CYBR4423']"
+    },
+    {
+        "id": "859",
+        "job_title": "Cocoa Engineer",
+        "keyword_names": "iOS",
+        "related_courses": "['iOS:71:CS4612']"
+    },
+    {
+        "id": "861",
+        "job_title": "OSX Engineer",
+        "keyword_names": "iOS",
+        "related_courses": "['iOS:71:CS4612']"
+    },
+    {
+        "id": "862",
+        "job_title": "Data Engineer",
+        "keyword_names": "SQL, SAS, Python, Linux, Unix, Python",
+        "related_courses": "['SQL:214:IT4733', 'SQL:234:CSE3153', 'SQL:357:IT4423', 'SQL:383:CYBR4423', 'SQL:508:CYBR3153', 'SAS:205:STAT3130', 'SAS:501:STAT7220', 'Python:21:CS4742', 'Python:357:IT4423', 'Python:383:CYBR4423', 'Unix:356:IT4423', 'Unix:382:CYBR4423']"
+    },
+    {
+        "id": "883",
+        "job_title": "Lead Software Engineer",
+        "keyword_names": "NoSQL, Web Services, iOS, Android, AI",
+        "related_courses": "['NoSQL:214:IT4733', 'iOS:71:CS4612', 'Android:71:CS4612', 'Android:186:CS4322', 'Android:187:CS4322', 'AI:171:STAT7140', 'AI:655:CS3642', 'AI:657:CS3642']"
+    },
+    {
+        "id": "884",
+        "job_title": "Senior Software Engineer",
+        "keyword_names": "iOS, Python, CSS, JavaScript, Web Services, API, APIs, DBMS, NoSQL, SQL, Web Services, Linux, MySQL, Unix, TCP/IP, Linux, Unix, Python, SAS, CPU",
+        "related_courses": "['iOS:71:CS4612', 'Python:21:CS4742', 'Python:357:IT4423', 'Python:383:CYBR4423', 'API:270:CS4722', 'API:271:CS4722', 'API:632:IT4403', 'APIs:632:IT4403', 'DBMS:538:CS3410', 'NoSQL:214:IT4733', 'SQL:214:IT4733', 'SQL:234:CSE3153', 'SQL:357:IT4423', 'SQL:383:CYBR4423', 'SQL:508:CYBR3153', 'Linux:356:IT4423', 'Linux:357:IT4423', 'Linux:382:CYBR4423', 'Linux:383:CYBR4423', 'MySQL:357:IT4423', 'MySQL:383:CYBR4423', 'Unix:356:IT4423', 'Unix:382:CYBR4423', 'TCP/IP:355:IT4423', 'TCP/IP:381:CYBR4423', 'SAS:205:STAT3130', 'SAS:501:STAT7220', 'CPU:173:CYBR3123', 'CPU:346:CS3503', 'CPU:512:IT3123']"
+    },
+    {
+        "id": "887",
+        "job_title": "Tech Lead",
+        "keyword_names": "OO, Python, UDP, API, APIs, IaaS",
+        "related_courses": "['OO:64:SWE4743', 'OO:65:SWE4743', 'OO:325:SWE3683', 'UDP:519:CS4504', 'UDP:597:CYBR4323', 'API:270:CS4722', 'API:271:CS4722', 'API:632:IT4403', 'APIs:632:IT4403', 'IaaS:589:CS4524']"
+    },
+    {
+        "id": "888",
+        "job_title": "Member Technical Staff",
+        "keyword_names": "Python",
+        "related_courses": "['Python:21:CS4742', 'Python:357:IT4423', 'Python:383:CYBR4423']"
+    },
+    {
+        "id": "890",
+        "job_title": "Technical Lead",
+        "keyword_names": "Linux, MVC, Agile",
+        "related_courses": "['Linux:356:IT4423', 'Linux:357:IT4423', 'Linux:382:CYBR4423', 'Linux:383:CYBR4423', 'MVC:535:CS4720']"
+    },
+    {
+        "id": "892",
+        "job_title": "Staff Software Engineer",
+        "keyword_names": "OO, Python, DBMS, MySQL, SQL",
+        "related_courses": "['OO:64:SWE4743', 'OO:65:SWE4743', 'OO:325:SWE3683', 'DBMS:538:CS3410', 'MySQL:357:IT4423', 'MySQL:383:CYBR4423', 'SQL:214:IT4733', 'SQL:234:CSE3153', 'SQL:357:IT4423', 'SQL:383:CYBR4423', 'SQL:508:CYBR3153']"
+    },
+    {
+        "id": "893",
+        "job_title": "Java Architect",
+        "keyword_names": "API",
+        "related_courses": "['API:270:CS4722', 'API:271:CS4722', 'API:632:IT4403']"
+    },
+    {
+        "id": "894",
+        "job_title": "Lead Developer",
+        "keyword_names": "API, JavaScript, Web Services, Python, Linux, HTML, CSS, AJAX, Agile, Android, iOS, APIs, Web Services",
+        "related_courses": "['API:270:CS4722', 'API:271:CS4722', 'API:632:IT4403', 'Python:21:CS4742', 'Python:357:IT4423', 'Python:383:CYBR4423', 'Linux:356:IT4423', 'Linux:357:IT4423', 'Linux:382:CYBR4423', 'Linux:383:CYBR4423', 'Android:71:CS4612', 'Android:186:CS4322', 'Android:187:CS4322', 'iOS:71:CS4612', 'APIs:632:IT4403']"
+    },
+    {
+        "id": "895",
+        "job_title": "Sr Technical Architect",
+        "keyword_names": "API",
+        "related_courses": "['API:270:CS4722', 'API:271:CS4722', 'API:632:IT4403']"
+    },
+    {
+        "id": "896",
+        "job_title": "Java Enterprise Architect",
+        "keyword_names": "API",
+        "related_courses": "['API:270:CS4722', 'API:271:CS4722', 'API:632:IT4403']"
+    },
+    {
+        "id": "897",
+        "job_title": "Team Lead",
+        "keyword_names": "API, Linux, Python, Web Services, IT, Change Management",
+        "related_courses": "['API:270:CS4722', 'API:271:CS4722', 'API:632:IT4403', 'Linux:356:IT4423', 'Linux:357:IT4423', 'Linux:382:CYBR4423', 'Linux:383:CYBR4423', 'Python:21:CS4742', 'Python:357:IT4423', 'Python:383:CYBR4423', 'IT:49:IT3423', 'IT:52:IT4683', 'IT:53:IT4683', 'IT:55:IT4683', 'IT:56:IT4683', 'IT:57:IT4683', 'IT:58:IT4683', 'IT:59:CYBR4883', 'IT:179:IT3003', 'IT:319:CYBR3423', 'IT:361:IT4883', 'IT:474:IT4673', 'IT:546:IT3503', 'IT:582:IT4983', 'IT:583:IT4983', 'IT:648:IT4723', 'IT:649:IT4723', 'Change Management:141:CYBR4810']"
+    },
+    {
+        "id": "898",
+        "job_title": "Senior Engineer",
+        "keyword_names": "API, NoSQL, SQL, Web Services, Linux, Python, Linux, JavaScript, Unix",
+        "related_courses": "['API:270:CS4722', 'API:271:CS4722', 'API:632:IT4403', 'NoSQL:214:IT4733', 'SQL:214:IT4733', 'SQL:234:CSE3153', 'SQL:357:IT4423', 'SQL:383:CYBR4423', 'SQL:508:CYBR3153', 'Linux:356:IT4423', 'Linux:357:IT4423', 'Linux:382:CYBR4423', 'Linux:383:CYBR4423', 'Python:21:CS4742', 'Python:357:IT4423', 'Python:383:CYBR4423', 'Unix:356:IT4423', 'Unix:382:CYBR4423']"
+    },
+    {
+        "id": "899",
+        "job_title": "Backend Engineer",
+        "keyword_names": "API, Python, Python, APIs, NoSQL, SQL, Web Services",
+        "related_courses": "['API:270:CS4722', 'API:271:CS4722', 'API:632:IT4403', 'Python:21:CS4742', 'Python:357:IT4423', 'Python:383:CYBR4423', 'APIs:632:IT4403', 'NoSQL:214:IT4733', 'SQL:214:IT4733', 'SQL:234:CSE3153', 'SQL:357:IT4423', 'SQL:383:CYBR4423', 'SQL:508:CYBR3153']"
+    },
+    {
+        "id": "900",
+        "job_title": "Senior Developer",
+        "keyword_names": "API, NoSQL, SQL, Web Services, MySQL",
+        "related_courses": "['API:270:CS4722', 'API:271:CS4722', 'API:632:IT4403', 'NoSQL:214:IT4733', 'SQL:214:IT4733', 'SQL:234:CSE3153', 'SQL:357:IT4423', 'SQL:383:CYBR4423', 'SQL:508:CYBR3153', 'MySQL:357:IT4423', 'MySQL:383:CYBR4423']"
+    },
+    {
+        "id": "902",
+        "job_title": "Senior Data Scientist",
+        "keyword_names": "Python, SQL",
+        "related_courses": "['Python:21:CS4742', 'Python:357:IT4423', 'Python:383:CYBR4423', 'SQL:214:IT4733', 'SQL:234:CSE3153', 'SQL:357:IT4423', 'SQL:383:CYBR4423', 'SQL:508:CYBR3153']"
+    },
+    {
+        "id": "906",
+        "job_title": "Principal Data Scientist",
+        "keyword_names": "Python",
+        "related_courses": "['Python:21:CS4742', 'Python:357:IT4423', 'Python:383:CYBR4423']"
+    },
+    {
+        "id": "912",
+        "job_title": "Performance Architect",
+        "keyword_names": "Web Services, CPU",
+        "related_courses": "['CPU:173:CYBR3123', 'CPU:346:CS3503', 'CPU:512:IT3123']"
+    },
+    {
+        "id": "913",
+        "job_title": "Senior Software Developer",
+        "keyword_names": "Web Services, MySQL, Linux, Unix, TCP/IP",
+        "related_courses": "['MySQL:357:IT4423', 'MySQL:383:CYBR4423', 'Linux:356:IT4423', 'Linux:357:IT4423', 'Linux:382:CYBR4423', 'Linux:383:CYBR4423', 'Unix:356:IT4423', 'Unix:382:CYBR4423', 'TCP/IP:355:IT4423', 'TCP/IP:381:CYBR4423']"
+    },
+    {
+        "id": "934",
+        "job_title": "Sr Staff Engineer",
+        "keyword_names": "OO, Python, OpenCV",
+        "related_courses": "['OO:64:SWE4743', 'OO:65:SWE4743', 'OO:325:SWE3683', 'OpenCV:210:CS4732']"
+    },
+    {
+        "id": "936",
+        "job_title": "Engineering Lead",
+        "keyword_names": "OO, Python, JavaScript, OpenGL, Web Services",
+        "related_courses": "['OO:64:SWE4743', 'OO:65:SWE4743', 'OO:325:SWE3683', 'OpenGL:271:CS4722']"
+    },
+    {
+        "id": "937",
+        "job_title": "Principal Architect",
+        "keyword_names": "Linux, Unix, OO, Python, SQL, NoSQL",
+        "related_courses": "['Linux:356:IT4423', 'Linux:357:IT4423', 'Linux:382:CYBR4423', 'Linux:383:CYBR4423', 'Unix:356:IT4423', 'Unix:382:CYBR4423', 'OO:64:SWE4743', 'OO:65:SWE4743', 'OO:325:SWE3683', 'SQL:214:IT4733', 'SQL:234:CSE3153', 'SQL:357:IT4423', 'SQL:383:CYBR4423', 'SQL:508:CYBR3153', 'NoSQL:214:IT4733']"
+    },
+    {
+        "id": "939",
+        "job_title": "Senior Systems Engineer",
+        "keyword_names": "Linux, Unix, Linux",
+        "related_courses": "['Linux:356:IT4423', 'Linux:357:IT4423', 'Linux:382:CYBR4423', 'Linux:383:CYBR4423']"
+    },
+    {
+        "id": "950",
+        "job_title": "Firmware Configuration Manager",
+        "keyword_names": "Linux, Agile",
+        "related_courses": "['Linux:356:IT4423', 'Linux:357:IT4423', 'Linux:382:CYBR4423', 'Linux:383:CYBR4423']"
+    },
+    {
+        "id": "953",
+        "job_title": "Mobile Engineering Lead",
+        "keyword_names": "iOS",
+        "related_courses": "['iOS:71:CS4612']"
+    },
+    {
+        "id": "957",
+        "job_title": "Senior Application Engineer",
+        "keyword_names": "iOS",
+        "related_courses": "['iOS:71:CS4612']"
+    },
+    {
+        "id": "958",
+        "job_title": "IOS Swift Mentor",
+        "keyword_names": "iOS",
+        "related_courses": "['iOS:71:CS4612']"
+    },
+    {
+        "id": "959",
+        "job_title": "Mobile Engineer",
+        "keyword_names": "iOS, Android",
+        "related_courses": "['iOS:71:CS4612', 'Android:71:CS4612', 'Android:186:CS4322', 'Android:187:CS4322']"
+    },
+    {
+        "id": "960",
+        "job_title": "Mobile Application Developer",
+        "keyword_names": "iOS",
+        "related_courses": "['iOS:71:CS4612']"
+    },
+    {
+        "id": "962",
+        "job_title": "Senior Mobile Developer",
+        "keyword_names": "iOS",
+        "related_courses": "['iOS:71:CS4612']"
+    },
+    {
+        "id": "963",
+        "job_title": "PHP Developer",
+        "keyword_names": "Agile, MySQL, MVC",
+        "related_courses": "['MySQL:357:IT4423', 'MySQL:383:CYBR4423', 'MVC:535:CS4720']"
+    },
+    {
+        "id": "965",
+        "job_title": "Software Engineer Quality",
+        "keyword_names": "CSS, Python",
+        "related_courses": "['Python:21:CS4742', 'Python:357:IT4423', 'Python:383:CYBR4423']"
+    },
+    {
+        "id": "967",
+        "job_title": "Test Architect",
+        "keyword_names": "CSS, Python",
+        "related_courses": "['Python:21:CS4742', 'Python:357:IT4423', 'Python:383:CYBR4423']"
+    },
+    {
+        "id": "969",
+        "job_title": "Software QA Engineer",
+        "keyword_names": "CSS, Python, Linux, Unix",
+        "related_courses": "['Python:21:CS4742', 'Python:357:IT4423', 'Python:383:CYBR4423', 'Linux:356:IT4423', 'Linux:357:IT4423', 'Linux:382:CYBR4423', 'Linux:383:CYBR4423', 'Unix:356:IT4423', 'Unix:382:CYBR4423']"
+    },
+    {
+        "id": "970",
+        "job_title": "Software Automation Engineer",
+        "keyword_names": "CSS, Python",
+        "related_courses": "['Python:21:CS4742', 'Python:357:IT4423', 'Python:383:CYBR4423']"
+    },
+    {
+        "id": "971",
+        "job_title": "Java Automation Engineer",
+        "keyword_names": "CSS, Python",
+        "related_courses": "['Python:21:CS4742', 'Python:357:IT4423', 'Python:383:CYBR4423']"
+    },
+    {
+        "id": "972",
+        "job_title": "Quality Assurance Test Lead",
+        "keyword_names": "CSS, Python",
+        "related_courses": "['Python:21:CS4742', 'Python:357:IT4423', 'Python:383:CYBR4423']"
+    },
+    {
+        "id": "973",
+        "job_title": "SQA Engineer",
+        "keyword_names": "CSS, Python, Linux, Unix",
+        "related_courses": "['Python:21:CS4742', 'Python:357:IT4423', 'Python:383:CYBR4423', 'Linux:356:IT4423', 'Linux:357:IT4423', 'Linux:382:CYBR4423', 'Linux:383:CYBR4423', 'Unix:356:IT4423', 'Unix:382:CYBR4423']"
+    },
+    {
+        "id": "974",
+        "job_title": "Software Test Specialist",
+        "keyword_names": "CSS, Python",
+        "related_courses": "['Python:21:CS4742', 'Python:357:IT4423', 'Python:383:CYBR4423']"
+    },
+    {
+        "id": "975",
+        "job_title": "Quality Assurance Lead",
+        "keyword_names": "CSS, Python",
+        "related_courses": "['Python:21:CS4742', 'Python:357:IT4423', 'Python:383:CYBR4423']"
+    },
+    {
+        "id": "976",
+        "job_title": "QE Lead",
+        "keyword_names": "CSS, Python",
+        "related_courses": "['Python:21:CS4742', 'Python:357:IT4423', 'Python:383:CYBR4423']"
+    },
+    {
+        "id": "977",
+        "job_title": "Test Automation Engineer",
+        "keyword_names": "CSS, Python, Android, Agile",
+        "related_courses": "['Python:21:CS4742', 'Python:357:IT4423', 'Python:383:CYBR4423', 'Android:71:CS4612', 'Android:186:CS4322', 'Android:187:CS4322']"
+    },
+    {
+        "id": "978",
+        "job_title": "QA Automation Engineer",
+        "keyword_names": "CSS, Python, Android, Linux, Unix",
+        "related_courses": "['Python:21:CS4742', 'Python:357:IT4423', 'Python:383:CYBR4423', 'Android:71:CS4612', 'Android:186:CS4322', 'Android:187:CS4322', 'Linux:356:IT4423', 'Linux:357:IT4423', 'Linux:382:CYBR4423', 'Linux:383:CYBR4423', 'Unix:356:IT4423', 'Unix:382:CYBR4423']"
+    },
+    {
+        "id": "979",
+        "job_title": "Automation Lead",
+        "keyword_names": "CSS, Python",
+        "related_courses": "['Python:21:CS4742', 'Python:357:IT4423', 'Python:383:CYBR4423']"
+    },
+    {
+        "id": "980",
+        "job_title": "Test Automation Architect",
+        "keyword_names": "CSS, Python",
+        "related_courses": "['Python:21:CS4742', 'Python:357:IT4423', 'Python:383:CYBR4423']"
+    },
+    {
+        "id": "983",
+        "job_title": "UI Developer",
+        "keyword_names": "Graphical User Interface, JavaScript, HTML, CSS",
+        "related_courses": "['Graphical User Interface:340:CSE1322', 'Graphical User Interface:409:CSE1322']"
+    },
+    {
+        "id": "984",
+        "job_title": "UX Designer",
+        "keyword_names": "HTML, CSS, JavaScript, Agile, iOS, Android",
+        "related_courses": "['iOS:71:CS4612', 'Android:71:CS4612', 'Android:186:CS4322', 'Android:187:CS4322']"
+    },
+    {
+        "id": "985",
+        "job_title": "UI Designer",
+        "keyword_names": "JavaScript, HTML, CSS, Graphical User Interface",
+        "related_courses": "['Graphical User Interface:340:CSE1322', 'Graphical User Interface:409:CSE1322']"
+    },
+    {
+        "id": "1002",
+        "job_title": "Lead UI Engineer",
+        "keyword_names": "HTML, CSS, JavaScript, OpenGL",
+        "related_courses": "['OpenGL:271:CS4722']"
+    },
+    {
+        "id": "1003",
+        "job_title": "Front End Architect",
+        "keyword_names": "HTML, CSS, MVC",
+        "related_courses": "['MVC:535:CS4720']"
+    },
+    {
+        "id": "1039",
+        "job_title": "Lead QA",
+        "keyword_names": "Android",
+        "related_courses": "['Android:71:CS4612', 'Android:186:CS4322', 'Android:187:CS4322']"
+    },
+    {
+        "id": "1059",
+        "job_title": "DevOps Engineer",
+        "keyword_names": "Linux, Unix, Python, MySQL, Cloud Computing, TCP/IP, Python, Linux, SQL",
+        "related_courses": "['Linux:356:IT4423', 'Linux:357:IT4423', 'Linux:382:CYBR4423', 'Linux:383:CYBR4423', 'Python:21:CS4742', 'Python:357:IT4423', 'Python:383:CYBR4423', 'MySQL:357:IT4423', 'MySQL:383:CYBR4423', 'Cloud Computing:588:CS4524', 'TCP/IP:355:IT4423', 'TCP/IP:381:CYBR4423', 'SQL:214:IT4733', 'SQL:234:CSE3153', 'SQL:357:IT4423', 'SQL:383:CYBR4423', 'SQL:508:CYBR3153']"
+    },
+    {
+        "id": "1061",
+        "job_title": "Lead Software Developer",
+        "keyword_names": "NoSQL, Linux, MySQL, JavaScript",
+        "related_courses": "['NoSQL:214:IT4733', 'Linux:356:IT4423', 'Linux:357:IT4423', 'Linux:382:CYBR4423', 'Linux:383:CYBR4423', 'MySQL:357:IT4423', 'MySQL:383:CYBR4423']"
+    },
+    {
+        "id": "1074",
+        "job_title": "Sales Engineer",
+        "keyword_names": "IT",
+        "related_courses": "['IT:49:IT3423', 'IT:52:IT4683', 'IT:53:IT4683', 'IT:55:IT4683', 'IT:56:IT4683', 'IT:57:IT4683', 'IT:58:IT4683', 'IT:59:CYBR4883', 'IT:179:IT3003', 'IT:319:CYBR3423', 'IT:361:IT4883', 'IT:474:IT4673', 'IT:546:IT3503', 'IT:582:IT4983', 'IT:583:IT4983', 'IT:648:IT4723', 'IT:649:IT4723']"
+    },
+    {
+        "id": "1091",
+        "job_title": "Information Security",
+        "keyword_names": "Incident Response",
+        "related_courses": "['Incident Response:74:CYBR3100', 'Incident Response:387:CYBR4350', 'Incident Response:502:CYBR4853', 'Incident Response:598:CYBR4330', 'Incident Response:667:IT4853']"
+    },
+    {
+        "id": "1093",
+        "job_title": "Software Quality Assurance",
+        "keyword_names": "Python, SDLC, SQL",
+        "related_courses": "['SDLC:439:SWE3633', 'SQL:214:IT4733', 'SQL:234:CSE3153', 'SQL:357:IT4423', 'SQL:383:CYBR4423', 'SQL:508:CYBR3153']"
+    },
+    {
+        "id": "1124",
+        "job_title": "Principal Data Architect",
+        "keyword_names": "Linux, Unix",
+        "related_courses": "['Linux:356:IT4423', 'Linux:357:IT4423', 'Linux:382:CYBR4423', 'Linux:383:CYBR4423', 'Unix:356:IT4423', 'Unix:382:CYBR4423']"
+    },
+    {
+        "id": "1125",
+        "job_title": "Senior Data Architect",
+        "keyword_names": "Linux, Unix",
+        "related_courses": "['Linux:356:IT4423', 'Linux:357:IT4423', 'Linux:382:CYBR4423', 'Linux:383:CYBR4423', 'Unix:356:IT4423', 'Unix:382:CYBR4423']"
+    },
+    {
+        "id": "1126",
+        "job_title": "Lead Data Architect",
+        "keyword_names": "Linux, Unix",
+        "related_courses": "['Linux:356:IT4423', 'Linux:357:IT4423', 'Linux:382:CYBR4423', 'Linux:383:CYBR4423', 'Unix:356:IT4423', 'Unix:382:CYBR4423']"
+    },
+    {
+        "id": "1153",
+        "job_title": "Visual Designer",
+        "keyword_names": "HTML, iOS, CSS, Android",
+        "related_courses": "['iOS:71:CS4612']"
+    },
+    {
+        "id": "1155",
+        "job_title": "Technical Program Manager",
+        "keyword_names": "Agile, Android, Web Services, SDLC, NoSQL, Agile",
+        "related_courses": "['Android:71:CS4612', 'Android:186:CS4322', 'Android:187:CS4322', 'SDLC:439:SWE3633', 'NoSQL:214:IT4733']"
+    },
+    {
+        "id": "1174",
+        "job_title": "Marketing Analytics",
+        "keyword_names": "SQL",
+        "related_courses": "['SQL:214:IT4733', 'SQL:234:CSE3153', 'SQL:357:IT4423', 'SQL:383:CYBR4423', 'SQL:508:CYBR3153']"
+    },
+    {
+        "id": "1184",
+        "job_title": "Business Intelligence",
+        "keyword_names": "SQL",
+        "related_courses": "['SQL:214:IT4733', 'SQL:234:CSE3153', 'SQL:357:IT4423', 'SQL:383:CYBR4423', 'SQL:508:CYBR3153']"
+    },
+    {
+        "id": "1272",
+        "job_title": "Managing Consultant",
+        "keyword_names": "IT, Change Management, Python",
+        "related_courses": "['IT:49:IT3423', 'IT:52:IT4683', 'IT:53:IT4683', 'IT:55:IT4683', 'IT:56:IT4683', 'IT:57:IT4683', 'IT:58:IT4683', 'IT:59:CYBR4883', 'IT:179:IT3003', 'IT:319:CYBR3423', 'IT:361:IT4883', 'IT:474:IT4673', 'IT:546:IT3503', 'IT:582:IT4983', 'IT:583:IT4983', 'IT:648:IT4723', 'IT:649:IT4723', 'Change Management:141:CYBR4810', 'Python:21:CS4742', 'Python:357:IT4423', 'Python:383:CYBR4423']"
+    },
+    {
+        "id": "1288",
+        "job_title": "Clinical Data Analyst",
+        "keyword_names": "SAS",
+        "related_courses": "['SAS:205:STAT3130', 'SAS:501:STAT7220']"
+    },
+    {
+        "id": "1289",
+        "job_title": "Product Analytics",
+        "keyword_names": "Python, SQL",
+        "related_courses": "['Python:21:CS4742', 'Python:357:IT4423', 'Python:383:CYBR4423', 'SQL:214:IT4733', 'SQL:234:CSE3153', 'SQL:357:IT4423', 'SQL:383:CYBR4423', 'SQL:508:CYBR3153']"
+    },
+    {
+        "id": "1302",
+        "job_title": "Human Resources Generalist",
+        "keyword_names": "Change Management",
+        "related_courses": "['Change Management:141:CYBR4810']"
+    },
+    {
+        "id": "1334",
+        "job_title": "Test Automation",
+        "keyword_names": "Agile, Python, Android",
+        "related_courses": "['Python:21:CS4742', 'Python:357:IT4423', 'Python:383:CYBR4423', 'Android:71:CS4612', 'Android:186:CS4322', 'Android:187:CS4322']"
+    },
+    {
+        "id": "1357",
+        "job_title": "Android Engineer",
+        "keyword_names": "Android, MVC, SQL, Agile",
+        "related_courses": "['Android:71:CS4612', 'Android:186:CS4322', 'Android:187:CS4322', 'MVC:535:CS4720', 'SQL:214:IT4733', 'SQL:234:CSE3153', 'SQL:357:IT4423', 'SQL:383:CYBR4423', 'SQL:508:CYBR3153']"
+    },
+    {
+        "id": "1358",
+        "job_title": "Android Dveloper",
+        "keyword_names": "Android",
+        "related_courses": "['Android:71:CS4612', 'Android:186:CS4322', 'Android:187:CS4322']"
+    },
+    {
+        "id": "1361",
+        "job_title": "Python Engineer",
+        "keyword_names": "Python, JavaScript",
+        "related_courses": "['Python:21:CS4742', 'Python:357:IT4423', 'Python:383:CYBR4423']"
+    },
+    {
+        "id": "1362",
+        "job_title": "Python Developer",
+        "keyword_names": "Python, MySQL, SQL",
+        "related_courses": "['Python:21:CS4742', 'Python:357:IT4423', 'Python:383:CYBR4423', 'MySQL:357:IT4423', 'MySQL:383:CYBR4423', 'SQL:214:IT4733', 'SQL:234:CSE3153', 'SQL:357:IT4423', 'SQL:383:CYBR4423', 'SQL:508:CYBR3153']"
+    },
+    {
+        "id": "1365",
+        "job_title": "Software Quality Engineer",
+        "keyword_names": "Android, Python",
+        "related_courses": "['Android:71:CS4612', 'Android:186:CS4322', 'Android:187:CS4322']"
+    },
+    {
+        "id": "1369",
+        "job_title": "Mobile Developer",
+        "keyword_names": "iOS, Android, SQL",
+        "related_courses": "['iOS:71:CS4612', 'Android:71:CS4612', 'Android:186:CS4322', 'Android:187:CS4322', 'SQL:214:IT4733', 'SQL:234:CSE3153', 'SQL:357:IT4423', 'SQL:383:CYBR4423', 'SQL:508:CYBR3153']"
+    },
+    {
+        "id": "1372",
+        "job_title": "Lead Engineer",
+        "keyword_names": "JavaScript, Web Services, Python, Linux, Android, iOS, API, APIs, Web Services",
+        "related_courses": "['Python:21:CS4742', 'Python:357:IT4423', 'Python:383:CYBR4423', 'Linux:356:IT4423', 'Linux:357:IT4423', 'Linux:382:CYBR4423', 'Linux:383:CYBR4423', 'Android:71:CS4612', 'Android:186:CS4322', 'Android:187:CS4322', 'iOS:71:CS4612', 'API:270:CS4722', 'API:271:CS4722', 'API:632:IT4403', 'APIs:632:IT4403']"
+    },
+    {
+        "id": "1373",
+        "job_title": "Software Development Lead",
+        "keyword_names": "JavaScript, Web Services, Python",
+        "related_courses": "['Python:21:CS4742', 'Python:357:IT4423', 'Python:383:CYBR4423']"
+    },
+    {
+        "id": "1374",
+        "job_title": "Lead Java Developer",
+        "keyword_names": "JavaScript, Web Services, Python, Linux, Unix, HTTP, TCP/IP",
+        "related_courses": "['Python:21:CS4742', 'Python:357:IT4423', 'Python:383:CYBR4423', 'Linux:356:IT4423', 'Linux:357:IT4423', 'Linux:382:CYBR4423', 'Linux:383:CYBR4423', 'Unix:356:IT4423', 'Unix:382:CYBR4423', 'HTTP:596:CYBR4323', 'TCP/IP:355:IT4423', 'TCP/IP:381:CYBR4423']"
+    },
+    {
+        "id": "1375",
+        "job_title": "Tech Artist",
+        "keyword_names": "Python, SQL",
+        "related_courses": "['Python:21:CS4742', 'Python:357:IT4423', 'Python:383:CYBR4423', 'SQL:214:IT4733', 'SQL:234:CSE3153', 'SQL:357:IT4423', 'SQL:383:CYBR4423', 'SQL:508:CYBR3153']"
+    },
+    {
+        "id": "1376",
+        "job_title": "Generalist Artist",
+        "keyword_names": "Python",
+        "related_courses": "['Python:21:CS4742', 'Python:357:IT4423', 'Python:383:CYBR4423']"
+    },
+    {
+        "id": "1386",
+        "job_title": "Firmware Engineer",
+        "keyword_names": "Python, SAS, Linux",
+        "related_courses": "['Python:21:CS4742', 'Python:357:IT4423', 'Python:383:CYBR4423', 'SAS:205:STAT3130', 'SAS:501:STAT7220', 'Linux:356:IT4423', 'Linux:357:IT4423', 'Linux:382:CYBR4423', 'Linux:383:CYBR4423']"
+    },
+    {
+        "id": "1390",
+        "job_title": "Test Developer",
+        "keyword_names": "Android",
+        "related_courses": "['Android:71:CS4612', 'Android:186:CS4322', 'Android:187:CS4322']"
+    },
+    {
+        "id": "1391",
+        "job_title": "QA Test Automation",
+        "keyword_names": "Android",
+        "related_courses": "['Android:71:CS4612', 'Android:186:CS4322', 'Android:187:CS4322']"
+    },
+    {
+        "id": "1392",
+        "job_title": "QA Software Engineer",
+        "keyword_names": "Android",
+        "related_courses": "['Android:71:CS4612', 'Android:186:CS4322', 'Android:187:CS4322']"
+    },
+    {
+        "id": "1393",
+        "job_title": "QA Automation",
+        "keyword_names": "Android",
+        "related_courses": "['Android:71:CS4612', 'Android:186:CS4322', 'Android:187:CS4322']"
+    },
+    {
+        "id": "1394",
+        "job_title": "Software Testing Engineer",
+        "keyword_names": "Android",
+        "related_courses": "['Android:71:CS4612', 'Android:186:CS4322', 'Android:187:CS4322']"
+    },
+    {
+        "id": "1401",
+        "job_title": "Software Programmer",
+        "keyword_names": "AI, Linux, Unix, SQL, MySQL, Python",
+        "related_courses": "['AI:171:STAT7140', 'AI:655:CS3642', 'AI:657:CS3642', 'Linux:356:IT4423', 'Linux:357:IT4423', 'Linux:382:CYBR4423', 'Linux:383:CYBR4423', 'Unix:356:IT4423', 'Unix:382:CYBR4423', 'SQL:214:IT4733', 'SQL:234:CSE3153', 'SQL:357:IT4423', 'SQL:383:CYBR4423', 'SQL:508:CYBR3153', 'MySQL:357:IT4423', 'MySQL:383:CYBR4423', 'Python:21:CS4742', 'Python:357:IT4423', 'Python:383:CYBR4423']"
+    },
+    {
+        "id": "1403",
+        "job_title": "Network Engineer",
+        "keyword_names": "IoT",
+        "related_courses": "['IoT:277:IT4893', 'IoT:279:IT4893', 'IoT:280:IT4893', 'IoT:281:IT4893', 'IoT:469:CYBR4893', 'IoT:471:CYBR4893', 'IoT:472:CYBR4893', 'IoT:473:CYBR4893']"
+    },
+    {
+        "id": "1407",
+        "job_title": "Data Analysis",
+        "keyword_names": "Python, SQL, SAS",
+        "related_courses": "['Python:21:CS4742', 'Python:357:IT4423', 'Python:383:CYBR4423', 'SQL:214:IT4733', 'SQL:234:CSE3153', 'SQL:357:IT4423', 'SQL:383:CYBR4423', 'SQL:508:CYBR3153', 'SAS:205:STAT3130', 'SAS:501:STAT7220']"
+    },
+    {
+        "id": "1416",
+        "job_title": "Software Test Engineer",
+        "keyword_names": "Linux, Python, Unix",
+        "related_courses": "['Linux:356:IT4423', 'Linux:357:IT4423', 'Linux:382:CYBR4423', 'Linux:383:CYBR4423', 'Python:21:CS4742', 'Python:357:IT4423', 'Python:383:CYBR4423', 'Unix:356:IT4423', 'Unix:382:CYBR4423']"
+    },
+    {
+        "id": "1420",
+        "job_title": "Design Engineer",
+        "keyword_names": "CPU",
+        "related_courses": "['CPU:173:CYBR3123', 'CPU:346:CS3503', 'CPU:512:IT3123']"
+    },
+    {
+        "id": "1428",
+        "job_title": "Server Engineer",
+        "keyword_names": "SQL",
+        "related_courses": "['SQL:214:IT4733', 'SQL:234:CSE3153', 'SQL:357:IT4423', 'SQL:383:CYBR4423', 'SQL:508:CYBR3153']"
+    },
+    {
+        "id": "1429",
+        "job_title": "Server Developer",
+        "keyword_names": "SQL",
+        "related_courses": "['SQL:214:IT4733', 'SQL:234:CSE3153', 'SQL:357:IT4423', 'SQL:383:CYBR4423', 'SQL:508:CYBR3153']"
+    },
+    {
+        "id": "1437",
+        "job_title": "Program Management",
+        "keyword_names": "Android",
+        "related_courses": "['Android:71:CS4612', 'Android:186:CS4322', 'Android:187:CS4322']"
+    },
+    {
+        "id": "1450",
+        "job_title": "Big Data Analyst",
+        "keyword_names": "SQL",
+        "related_courses": "['SQL:214:IT4733', 'SQL:234:CSE3153', 'SQL:357:IT4423', 'SQL:383:CYBR4423', 'SQL:508:CYBR3153']"
+    },
+    {
+        "id": "1471",
+        "job_title": "Sr Software Engineer",
+        "keyword_names": "Linux, Unix, JavaScript, Python, SQL, HTML, CSS, Linux, Unix, MySQL",
+        "related_courses": "['Python:21:CS4742', 'Python:357:IT4423', 'Python:383:CYBR4423', 'SQL:214:IT4733', 'SQL:234:CSE3153', 'SQL:357:IT4423', 'SQL:383:CYBR4423', 'SQL:508:CYBR3153', 'Linux:356:IT4423', 'Linux:357:IT4423', 'Linux:382:CYBR4423', 'Linux:383:CYBR4423', 'Unix:356:IT4423', 'Unix:382:CYBR4423', 'MySQL:357:IT4423', 'MySQL:383:CYBR4423']"
+    },
+    {
+        "id": "1478",
+        "job_title": "Data Migration Consultant",
+        "keyword_names": "SQL",
+        "related_courses": "['SQL:214:IT4733', 'SQL:234:CSE3153', 'SQL:357:IT4423', 'SQL:383:CYBR4423', 'SQL:508:CYBR3153']"
+    },
+    {
+        "id": "1500",
+        "job_title": "Campaign Manager",
+        "keyword_names": "SQL",
+        "related_courses": "['SQL:214:IT4733', 'SQL:234:CSE3153', 'SQL:357:IT4423', 'SQL:383:CYBR4423', 'SQL:508:CYBR3153']"
+    },
+    {
+        "id": "1514",
+        "job_title": "System Administrator",
+        "keyword_names": "Python, Linux, Unix, MySQL",
+        "related_courses": "['Python:21:CS4742', 'Python:357:IT4423', 'Python:383:CYBR4423', 'Linux:356:IT4423', 'Linux:357:IT4423', 'Linux:382:CYBR4423', 'Linux:383:CYBR4423', 'Unix:356:IT4423', 'Unix:382:CYBR4423', 'MySQL:357:IT4423', 'MySQL:383:CYBR4423']"
+    },
+    {
+        "id": "1525",
+        "job_title": "Software Development",
+        "keyword_names": "UNIX, Linux, iOS, Android, SQL, MySQL, Python, Unix, HTML, CSS, Web Services, Agile, JavaScript, Graphical User Interface, NoSQL, Cloud Computing, OO",
+        "related_courses": "['UNIX:527:CS4512', 'UNIX:529:CS4512', 'Linux:356:IT4423', 'Linux:357:IT4423', 'Linux:382:CYBR4423', 'Linux:383:CYBR4423', 'iOS:71:CS4612', 'Android:71:CS4612', 'Android:186:CS4322', 'Android:187:CS4322', 'SQL:214:IT4733', 'SQL:234:CSE3153', 'SQL:357:IT4423', 'SQL:383:CYBR4423', 'SQL:508:CYBR3153', 'MySQL:357:IT4423', 'MySQL:383:CYBR4423', 'Python:21:CS4742', 'Python:357:IT4423', 'Python:383:CYBR4423', 'Unix:356:IT4423', 'Unix:382:CYBR4423', 'Graphical User Interface:340:CSE1322', 'Graphical User Interface:409:CSE1322', 'NoSQL:214:IT4733', 'Cloud Computing:588:CS4524', 'OO:64:SWE4743', 'OO:65:SWE4743', 'OO:325:SWE3683']"
+    },
+    {
+        "id": "1527",
+        "job_title": "Hadoop Technology Lead",
+        "keyword_names": "Python",
+        "related_courses": "['Python:21:CS4742', 'Python:357:IT4423', 'Python:383:CYBR4423']"
+    },
+    {
+        "id": "1528",
+        "job_title": "Big Data Solutions Architect",
+        "keyword_names": "Python",
+        "related_courses": "['Python:21:CS4742', 'Python:357:IT4423', 'Python:383:CYBR4423']"
+    },
+    {
+        "id": "1543",
+        "job_title": "Hadoop Developer",
+        "keyword_names": "Python",
+        "related_courses": "['Python:21:CS4742', 'Python:357:IT4423', 'Python:383:CYBR4423']"
+    },
+    {
+        "id": "1549",
+        "job_title": "IOS Engineer",
+        "keyword_names": "Android, SQL",
+        "related_courses": "['Android:71:CS4612', 'Android:186:CS4322', 'Android:187:CS4322', 'SQL:214:IT4733', 'SQL:234:CSE3153', 'SQL:357:IT4423', 'SQL:383:CYBR4423', 'SQL:508:CYBR3153']"
+    },
+    {
+        "id": "1565",
+        "job_title": "Javascript Engineering Lead",
+        "keyword_names": "JavaScript, OpenGL",
+        "related_courses": "['OpenGL:271:CS4722']"
+    },
+    {
+        "id": "1566",
+        "job_title": "Lead UI",
+        "keyword_names": "JavaScript, OpenGL",
+        "related_courses": "['OpenGL:271:CS4722']"
+    },
+    {
+        "id": "1567",
+        "job_title": "Lead User Interface",
+        "keyword_names": "JavaScript, OpenGL",
+        "related_courses": "['OpenGL:271:CS4722']"
+    },
+    {
+        "id": "1619",
+        "job_title": "Electrical Engineer",
+        "keyword_names": "Hardware",
+        "related_courses": "['Hardware:173:CYBR3123', 'Hardware:252:CSE3203', 'Hardware:256:CYBR3210', 'Hardware:512:IT3123']"
+    },
+    {
+        "id": "1622",
+        "job_title": "NLP Engineer",
+        "keyword_names": "Python",
+        "related_courses": "['Python:21:CS4742', 'Python:357:IT4423', 'Python:383:CYBR4423']"
+    },
+    {
+        "id": "1623",
+        "job_title": "NLP Software Engineer",
+        "keyword_names": "Python",
+        "related_courses": "['Python:21:CS4742', 'Python:357:IT4423', 'Python:383:CYBR4423']"
+    },
+    {
+        "id": "1624",
+        "job_title": "NLP Research Engineer",
+        "keyword_names": "Python",
+        "related_courses": "['Python:21:CS4742', 'Python:357:IT4423', 'Python:383:CYBR4423']"
+    },
+    {
+        "id": "1677",
+        "job_title": "Chief Information Officer",
+        "keyword_names": "IT",
+        "related_courses": "['IT:49:IT3423', 'IT:52:IT4683', 'IT:53:IT4683', 'IT:55:IT4683', 'IT:56:IT4683', 'IT:57:IT4683', 'IT:58:IT4683', 'IT:59:CYBR4883', 'IT:179:IT3003', 'IT:319:CYBR3423', 'IT:361:IT4883', 'IT:474:IT4673', 'IT:546:IT3503', 'IT:582:IT4983', 'IT:583:IT4983', 'IT:648:IT4723', 'IT:649:IT4723']"
+    },
+    {
+        "id": "1682",
+        "job_title": "Automation Engineer",
+        "keyword_names": "Python, JavaScript, Unix, Linux, Python",
+        "related_courses": "['Python:21:CS4742', 'Python:357:IT4423', 'Python:383:CYBR4423', 'Unix:356:IT4423', 'Unix:382:CYBR4423']"
+    },
+    {
+        "id": "1691",
+        "job_title": "Performance Engineer",
+        "keyword_names": "Python, Linux, Unix, JavaScript, CPU",
+        "related_courses": "['Python:21:CS4742', 'Python:357:IT4423', 'Python:383:CYBR4423', 'Linux:356:IT4423', 'Linux:357:IT4423', 'Linux:382:CYBR4423', 'Linux:383:CYBR4423', 'Unix:356:IT4423', 'Unix:382:CYBR4423', 'CPU:173:CYBR3123', 'CPU:346:CS3503', 'CPU:512:IT3123']"
+    },
+    {
+        "id": "1714",
+        "job_title": "Senior Marketing Manager",
+        "keyword_names": "IT",
+        "related_courses": "['IT:49:IT3423', 'IT:52:IT4683', 'IT:53:IT4683', 'IT:55:IT4683', 'IT:56:IT4683', 'IT:57:IT4683', 'IT:58:IT4683', 'IT:59:CYBR4883', 'IT:179:IT3003', 'IT:319:CYBR3423', 'IT:361:IT4883', 'IT:474:IT4673', 'IT:546:IT3503', 'IT:582:IT4983', 'IT:583:IT4983', 'IT:648:IT4723', 'IT:649:IT4723']"
+    },
+    {
+        "id": "1715",
+        "job_title": "Android Software Engineer",
+        "keyword_names": "Android, MVC",
+        "related_courses": "['Android:71:CS4612', 'Android:186:CS4322', 'Android:187:CS4322', 'MVC:535:CS4720']"
+    },
+    {
+        "id": "1716",
+        "job_title": "Android Developer",
+        "keyword_names": "Android, Linux, MVC, Agile",
+        "related_courses": "['Android:71:CS4612', 'Android:186:CS4322', 'Android:187:CS4322', 'Linux:356:IT4423', 'Linux:357:IT4423', 'Linux:382:CYBR4423', 'Linux:383:CYBR4423', 'MVC:535:CS4720']"
+    },
+    {
+        "id": "1746",
+        "job_title": "Android Programmer",
+        "keyword_names": "Android",
+        "related_courses": "['Android:71:CS4612', 'Android:186:CS4322', 'Android:187:CS4322']"
+    },
+    {
+        "id": "1747",
+        "job_title": "Android Develop",
+        "keyword_names": "Android",
+        "related_courses": "['Android:71:CS4612', 'Android:186:CS4322', 'Android:187:CS4322']"
+    },
+    {
+        "id": "1758",
+        "job_title": "Security Engineer",
+        "keyword_names": "Python, Android, Incident Response, Linux, Python, TCP/IP",
+        "related_courses": "['Python:21:CS4742', 'Python:357:IT4423', 'Python:383:CYBR4423', 'Incident Response:74:CYBR3100', 'Incident Response:387:CYBR4350', 'Incident Response:502:CYBR4853', 'Incident Response:598:CYBR4330', 'Incident Response:667:IT4853', 'Linux:356:IT4423', 'Linux:357:IT4423', 'Linux:382:CYBR4423', 'Linux:383:CYBR4423', 'TCP/IP:355:IT4423', 'TCP/IP:381:CYBR4423']"
+    },
+    {
+        "id": "1762",
+        "job_title": "Network Security Engineer",
+        "keyword_names": "TCP/IP",
+        "related_courses": "['TCP/IP:355:IT4423', 'TCP/IP:381:CYBR4423']"
+    },
+    {
+        "id": "1763",
+        "job_title": "Information Security Engineer",
+        "keyword_names": "Python",
+        "related_courses": "['Python:21:CS4742', 'Python:357:IT4423', 'Python:383:CYBR4423']"
+    },
+    {
+        "id": "1767",
+        "job_title": "Application Security Engineer",
+        "keyword_names": "Python",
+        "related_courses": "['Python:21:CS4742', 'Python:357:IT4423', 'Python:383:CYBR4423']"
+    },
+    {
+        "id": "1770",
+        "job_title": "Reliability Engineer",
+        "keyword_names": "Linux, Unix, Python, JavaScript",
+        "related_courses": "['Linux:356:IT4423', 'Linux:357:IT4423', 'Linux:382:CYBR4423', 'Linux:383:CYBR4423', 'Unix:356:IT4423', 'Unix:382:CYBR4423', 'Python:21:CS4742', 'Python:357:IT4423', 'Python:383:CYBR4423']"
+    },
+    {
+        "id": "1780",
+        "job_title": "Systems Performance Engineer",
+        "keyword_names": "Linux, Unix, Python, JavaScript",
+        "related_courses": "['Linux:356:IT4423', 'Linux:357:IT4423', 'Linux:382:CYBR4423', 'Linux:383:CYBR4423', 'Unix:356:IT4423', 'Unix:382:CYBR4423', 'Python:21:CS4742', 'Python:357:IT4423', 'Python:383:CYBR4423']"
+    },
+    {
+        "id": "1781",
+        "job_title": "Software Performance Engineer",
+        "keyword_names": "Linux, Unix, Python, JavaScript",
+        "related_courses": "['Linux:356:IT4423', 'Linux:357:IT4423', 'Linux:382:CYBR4423', 'Linux:383:CYBR4423', 'Unix:356:IT4423', 'Unix:382:CYBR4423', 'Python:21:CS4742', 'Python:357:IT4423', 'Python:383:CYBR4423']"
+    },
+    {
+        "id": "1785",
+        "job_title": "Operations Manager",
+        "keyword_names": "IT",
+        "related_courses": "['IT:49:IT3423', 'IT:52:IT4683', 'IT:53:IT4683', 'IT:55:IT4683', 'IT:56:IT4683', 'IT:57:IT4683', 'IT:58:IT4683', 'IT:59:CYBR4883', 'IT:179:IT3003', 'IT:319:CYBR3423', 'IT:361:IT4883', 'IT:474:IT4673', 'IT:546:IT3503', 'IT:582:IT4983', 'IT:583:IT4983', 'IT:648:IT4723', 'IT:649:IT4723']"
+    },
+    {
+        "id": "1788",
+        "job_title": "IOS Developer",
+        "keyword_names": "iOS, SQL",
+        "related_courses": "['iOS:71:CS4612', 'SQL:214:IT4733', 'SQL:234:CSE3153', 'SQL:357:IT4423', 'SQL:383:CYBR4423', 'SQL:508:CYBR3153']"
+    },
+    {
+        "id": "1790",
+        "job_title": "Iphone Engineer",
+        "keyword_names": "iOS, SQL",
+        "related_courses": "['iOS:71:CS4612', 'SQL:214:IT4733', 'SQL:234:CSE3153', 'SQL:357:IT4423', 'SQL:383:CYBR4423', 'SQL:508:CYBR3153']"
+    },
+    {
+        "id": "1791",
+        "job_title": "Iphone Developer",
+        "keyword_names": "iOS, SQL",
+        "related_courses": "['iOS:71:CS4612', 'SQL:214:IT4733', 'SQL:234:CSE3153', 'SQL:357:IT4423', 'SQL:383:CYBR4423', 'SQL:508:CYBR3153']"
+    },
+    {
+        "id": "1807",
+        "job_title": "Software Application",
+        "keyword_names": "iOS, Android, SQL, MySQL",
+        "related_courses": "['iOS:71:CS4612', 'Android:71:CS4612', 'Android:186:CS4322', 'Android:187:CS4322', 'SQL:214:IT4733', 'SQL:234:CSE3153', 'SQL:357:IT4423', 'SQL:383:CYBR4423', 'SQL:508:CYBR3153', 'MySQL:357:IT4423', 'MySQL:383:CYBR4423']"
+    },
+    {
+        "id": "1808",
+        "job_title": "Mobile Application",
+        "keyword_names": "iOS, Android, SQL, MySQL",
+        "related_courses": "['iOS:71:CS4612', 'Android:71:CS4612', 'Android:186:CS4322', 'Android:187:CS4322', 'SQL:214:IT4733', 'SQL:234:CSE3153', 'SQL:357:IT4423', 'SQL:383:CYBR4423', 'SQL:508:CYBR3153', 'MySQL:357:IT4423', 'MySQL:383:CYBR4423']"
+    },
+    {
+        "id": "1815",
+        "job_title": "Mobile Development",
+        "keyword_names": "iOS, Android",
+        "related_courses": "['iOS:71:CS4612', 'Android:71:CS4612', 'Android:186:CS4322', 'Android:187:CS4322']"
+    },
+    {
+        "id": "1834",
+        "job_title": "Senior Java Engineer",
+        "keyword_names": "Linux, Unix, HTTP, TCP/IP",
+        "related_courses": "['Linux:356:IT4423', 'Linux:357:IT4423', 'Linux:382:CYBR4423', 'Linux:383:CYBR4423', 'Unix:356:IT4423', 'Unix:382:CYBR4423', 'HTTP:596:CYBR4323', 'TCP/IP:355:IT4423', 'TCP/IP:381:CYBR4423']"
+    },
+    {
+        "id": "1835",
+        "job_title": "Senior Java Developer",
+        "keyword_names": "Linux, Unix, HTTP, TCP/IP",
+        "related_courses": "['Linux:356:IT4423', 'Linux:357:IT4423', 'Linux:382:CYBR4423', 'Linux:383:CYBR4423', 'Unix:356:IT4423', 'Unix:382:CYBR4423', 'HTTP:596:CYBR4323', 'TCP/IP:355:IT4423', 'TCP/IP:381:CYBR4423']"
+    },
+    {
+        "id": "1852",
+        "job_title": "Core Engineer",
+        "keyword_names": "AI",
+        "related_courses": "['AI:171:STAT7140', 'AI:655:CS3642', 'AI:657:CS3642']"
+    },
+    {
+        "id": "1853",
+        "job_title": "Software Engineer Media",
+        "keyword_names": "OpenGL",
+        "related_courses": "['OpenGL:271:CS4722']"
+    },
+    {
+        "id": "1857",
+        "job_title": "Software Engineering Manager",
+        "keyword_names": "Agile, Linux, Unix, iOS, Android, HTML, CSS, Linux, Unix, Agile, SDLC, Web Services, Hardware, Python",
+        "related_courses": "['iOS:71:CS4612', 'Android:71:CS4612', 'Android:186:CS4322', 'Android:187:CS4322', 'Linux:356:IT4423', 'Linux:357:IT4423', 'Linux:382:CYBR4423', 'Linux:383:CYBR4423', 'Unix:356:IT4423', 'Unix:382:CYBR4423', 'SDLC:439:SWE3633', 'Hardware:396:CS4514', 'Python:21:CS4742', 'Python:357:IT4423', 'Python:383:CYBR4423']"
+    },
+    {
+        "id": "1858",
+        "job_title": "Software Development Manager",
+        "keyword_names": "Agile, iOS, Android, HTML, CSS, JavaScript, Linux, UNIX, AJAX, MySQL, Unix, Agile, SDLC, Python, Web Services, API",
+        "related_courses": "['iOS:71:CS4612', 'Android:71:CS4612', 'Android:186:CS4322', 'Android:187:CS4322', 'Linux:356:IT4423', 'Linux:357:IT4423', 'Linux:382:CYBR4423', 'Linux:383:CYBR4423', 'UNIX:527:CS4512', 'UNIX:529:CS4512', 'MySQL:357:IT4423', 'MySQL:383:CYBR4423', 'Unix:356:IT4423', 'Unix:382:CYBR4423', 'SDLC:439:SWE3633', 'API:270:CS4722', 'API:271:CS4722', 'API:632:IT4403']"
+    },
+    {
+        "id": "1915",
+        "job_title": "Software Engineering",
+        "keyword_names": "Android, Python",
+        "related_courses": "['Python:21:CS4742', 'Python:357:IT4423', 'Python:383:CYBR4423']"
+    },
+    {
+        "id": "1949",
+        "job_title": "Mobile Writer",
+        "keyword_names": "Android",
+        "related_courses": "['Android:71:CS4612', 'Android:186:CS4322', 'Android:187:CS4322']"
+    },
+    {
+        "id": "1950",
+        "job_title": "Mobile CopyWriter",
+        "keyword_names": "Android",
+        "related_courses": "['Android:71:CS4612', 'Android:186:CS4322', 'Android:187:CS4322']"
+    },
+    {
+        "id": "1954",
+        "job_title": "Senior Services Engineer",
+        "keyword_names": "SQL",
+        "related_courses": "['SQL:214:IT4733', 'SQL:234:CSE3153', 'SQL:357:IT4423', 'SQL:383:CYBR4423', 'SQL:508:CYBR3153']"
+    },
+    {
+        "id": "1955",
+        "job_title": "Member Technical Staff Engineer",
+        "keyword_names": "Python",
+        "related_courses": "['Python:21:CS4742', 'Python:357:IT4423', 'Python:383:CYBR4423']"
+    },
+    {
+        "id": "1957",
+        "job_title": "Services Engineering Manager",
+        "keyword_names": "Web Services, SQL",
+        "related_courses": "['SQL:214:IT4733', 'SQL:234:CSE3153', 'SQL:357:IT4423', 'SQL:383:CYBR4423', 'SQL:508:CYBR3153']"
+    },
+    {
+        "id": "1962",
+        "job_title": "Senior Backend Engineer",
+        "keyword_names": "Python, CSS, Python",
+        "related_courses": "['Python:21:CS4742', 'Python:357:IT4423', 'Python:383:CYBR4423']"
+    },
+    {
+        "id": "1971",
+        "job_title": "Android OS",
+        "keyword_names": "Android, MVC",
+        "related_courses": "['Android:71:CS4612', 'Android:186:CS4322', 'Android:187:CS4322', 'MVC:535:CS4720']"
+    },
+    {
+        "id": "1972",
+        "job_title": "Software Engineer Android",
+        "keyword_names": "Android, MVC",
+        "related_courses": "['Android:71:CS4612', 'Android:186:CS4322', 'Android:187:CS4322', 'MVC:535:CS4720']"
+    },
+    {
+        "id": "1980",
+        "job_title": "Director Data Engineering",
+        "keyword_names": "NoSQL",
+        "related_courses": "['NoSQL:214:IT4733']"
+    },
+    {
+        "id": "2011",
+        "job_title": "Media Planner",
+        "keyword_names": "SQL",
+        "related_courses": "['SQL:214:IT4733', 'SQL:234:CSE3153', 'SQL:357:IT4423', 'SQL:383:CYBR4423', 'SQL:508:CYBR3153']"
+    },
+    {
+        "id": "2029",
+        "job_title": "Software Architect Development Lead",
+        "keyword_names": "Linux",
+        "related_courses": "['Linux:356:IT4423', 'Linux:357:IT4423', 'Linux:382:CYBR4423', 'Linux:383:CYBR4423']"
+    },
+    {
+        "id": "2030",
+        "job_title": "Lead Cloud Engineer",
+        "keyword_names": "Linux",
+        "related_courses": "['Linux:356:IT4423', 'Linux:357:IT4423', 'Linux:382:CYBR4423', 'Linux:383:CYBR4423']"
+    },
+    {
+        "id": "2031",
+        "job_title": "Principal Server Side Engineer",
+        "keyword_names": "Linux",
+        "related_courses": "['Linux:356:IT4423', 'Linux:357:IT4423', 'Linux:382:CYBR4423', 'Linux:383:CYBR4423']"
+    },
+    {
+        "id": "2032",
+        "job_title": "Principal Member Technical Staff",
+        "keyword_names": "Linux",
+        "related_courses": "['Linux:356:IT4423', 'Linux:357:IT4423', 'Linux:382:CYBR4423', 'Linux:383:CYBR4423']"
+    },
+    {
+        "id": "2034",
+        "job_title": "Senior Platform Engineer",
+        "keyword_names": "Linux",
+        "related_courses": "['Linux:356:IT4423', 'Linux:357:IT4423', 'Linux:382:CYBR4423', 'Linux:383:CYBR4423']"
+    },
+    {
+        "id": "2035",
+        "job_title": "Principal Platform Engineer",
+        "keyword_names": "Linux",
+        "related_courses": "['Linux:356:IT4423', 'Linux:357:IT4423', 'Linux:382:CYBR4423', 'Linux:383:CYBR4423']"
+    },
+    {
+        "id": "2043",
+        "job_title": "Data Center Operations Engineer",
+        "keyword_names": "Unix, Linux",
+        "related_courses": "['Unix:356:IT4423', 'Unix:382:CYBR4423']"
+    },
+    {
+        "id": "2044",
+        "job_title": "Data Center Engineer",
+        "keyword_names": "Unix, Linux, Cloud Computing, Linux, TCP/IP",
+        "related_courses": "['Unix:356:IT4423', 'Unix:382:CYBR4423', 'Cloud Computing:588:CS4524', 'Linux:356:IT4423', 'Linux:357:IT4423', 'Linux:382:CYBR4423', 'Linux:383:CYBR4423', 'TCP/IP:355:IT4423', 'TCP/IP:381:CYBR4423']"
+    },
+    {
+        "id": "2072",
+        "job_title": "Systems Support Engineer",
+        "keyword_names": "Linux",
+        "related_courses": "['Linux:356:IT4423', 'Linux:357:IT4423', 'Linux:382:CYBR4423', 'Linux:383:CYBR4423']"
+    },
+    {
+        "id": "2073",
+        "job_title": "Support Engineer",
+        "keyword_names": "Linux",
+        "related_courses": "['Linux:356:IT4423', 'Linux:357:IT4423', 'Linux:382:CYBR4423', 'Linux:383:CYBR4423']"
+    },
+    {
+        "id": "2079",
+        "job_title": "Desktop Support Engineer",
+        "keyword_names": "Linux",
+        "related_courses": "['Linux:356:IT4423', 'Linux:357:IT4423', 'Linux:382:CYBR4423', 'Linux:383:CYBR4423']"
+    },
+    {
+        "id": "2080",
+        "job_title": "Systems Support",
+        "keyword_names": "Linux",
+        "related_courses": "['Linux:356:IT4423', 'Linux:357:IT4423', 'Linux:382:CYBR4423', 'Linux:383:CYBR4423']"
+    },
+    {
+        "id": "2081",
+        "job_title": "Information Technology Support",
+        "keyword_names": "Linux",
+        "related_courses": "['Linux:356:IT4423', 'Linux:357:IT4423', 'Linux:382:CYBR4423', 'Linux:383:CYBR4423']"
+    },
+    {
+        "id": "2083",
+        "job_title": "IT Help Desk",
+        "keyword_names": "Linux, Linux, Unix, IT",
+        "related_courses": "['Linux:356:IT4423', 'Linux:357:IT4423', 'Linux:382:CYBR4423', 'Linux:383:CYBR4423', 'IT:49:IT3423', 'IT:52:IT4683', 'IT:53:IT4683', 'IT:55:IT4683', 'IT:56:IT4683', 'IT:57:IT4683', 'IT:58:IT4683', 'IT:59:CYBR4883', 'IT:179:IT3003', 'IT:319:CYBR3423', 'IT:361:IT4883', 'IT:474:IT4673', 'IT:546:IT3503', 'IT:582:IT4983', 'IT:583:IT4983', 'IT:648:IT4723', 'IT:649:IT4723']"
+    },
+    {
+        "id": "2084",
+        "job_title": "IT Support Specialist",
+        "keyword_names": "Linux",
+        "related_courses": "['Linux:356:IT4423', 'Linux:357:IT4423', 'Linux:382:CYBR4423', 'Linux:383:CYBR4423']"
+    },
+    {
+        "id": "2085",
+        "job_title": "Help Desk",
+        "keyword_names": "Linux, Hardware",
+        "related_courses": "['Linux:356:IT4423', 'Linux:357:IT4423', 'Linux:382:CYBR4423', 'Linux:383:CYBR4423', 'Hardware:396:CS4514']"
+    },
+    {
+        "id": "2086",
+        "job_title": "Technical Support",
+        "keyword_names": "Linux",
+        "related_courses": "['Linux:356:IT4423', 'Linux:357:IT4423', 'Linux:382:CYBR4423', 'Linux:383:CYBR4423']"
+    },
+    {
+        "id": "2087",
+        "job_title": "Desktop Support Specialist",
+        "keyword_names": "Linux",
+        "related_courses": "['Linux:356:IT4423', 'Linux:357:IT4423', 'Linux:382:CYBR4423', 'Linux:383:CYBR4423']"
+    },
+    {
+        "id": "2088",
+        "job_title": "IT Support Technician",
+        "keyword_names": "Linux",
+        "related_courses": "['Linux:356:IT4423', 'Linux:357:IT4423', 'Linux:382:CYBR4423', 'Linux:383:CYBR4423']"
+    },
+    {
+        "id": "2089",
+        "job_title": "Help Desk Support",
+        "keyword_names": "Linux",
+        "related_courses": "['Linux:356:IT4423', 'Linux:357:IT4423', 'Linux:382:CYBR4423', 'Linux:383:CYBR4423']"
+    },
+    {
+        "id": "2090",
+        "job_title": "Desktop Support Technician",
+        "keyword_names": "Linux",
+        "related_courses": "['Linux:356:IT4423', 'Linux:357:IT4423', 'Linux:382:CYBR4423', 'Linux:383:CYBR4423']"
+    },
+    {
+        "id": "2097",
+        "job_title": "Second Line Support",
+        "keyword_names": "Linux",
+        "related_courses": "['Linux:356:IT4423', 'Linux:357:IT4423', 'Linux:382:CYBR4423', 'Linux:383:CYBR4423']"
+    },
+    {
+        "id": "2099",
+        "job_title": "Help Desk Engineer",
+        "keyword_names": "Linux",
+        "related_courses": "['Linux:356:IT4423', 'Linux:357:IT4423', 'Linux:382:CYBR4423', 'Linux:383:CYBR4423']"
+    },
+    {
+        "id": "2105",
+        "job_title": "Media Manager",
+        "keyword_names": "SQL",
+        "related_courses": "['SQL:214:IT4733', 'SQL:234:CSE3153', 'SQL:357:IT4423', 'SQL:383:CYBR4423', 'SQL:508:CYBR3153']"
+    },
+    {
+        "id": "2107",
+        "job_title": "Quality Analyst",
+        "keyword_names": "Python, API, APIs, iOS, Android, SQL",
+        "related_courses": "['Python:21:CS4742', 'Python:357:IT4423', 'Python:383:CYBR4423', 'API:270:CS4722', 'API:271:CS4722', 'API:632:IT4403', 'APIs:632:IT4403', 'iOS:71:CS4612', 'Android:71:CS4612', 'Android:186:CS4322', 'Android:187:CS4322', 'SQL:214:IT4733', 'SQL:234:CSE3153', 'SQL:357:IT4423', 'SQL:383:CYBR4423', 'SQL:508:CYBR3153']"
+    },
+    {
+        "id": "2186",
+        "job_title": "Quality Engineering",
+        "keyword_names": "Linux, Python, Unix",
+        "related_courses": "['Linux:356:IT4423', 'Linux:357:IT4423', 'Linux:382:CYBR4423', 'Linux:383:CYBR4423', 'Python:21:CS4742', 'Python:357:IT4423', 'Python:383:CYBR4423', 'Unix:356:IT4423', 'Unix:382:CYBR4423']"
+    },
+    {
+        "id": "2194",
+        "job_title": "FrontEnd Architect",
+        "keyword_names": "HTML, CSS, MVC",
+        "related_courses": "['MVC:535:CS4720']"
+    },
+    {
+        "id": "2205",
+        "job_title": "Developer Programs Engineer",
+        "keyword_names": "API",
+        "related_courses": "['API:270:CS4722', 'API:271:CS4722', 'API:632:IT4403']"
+    },
+    {
+        "id": "2206",
+        "job_title": "Programs Engineer",
+        "keyword_names": "API",
+        "related_courses": "['API:270:CS4722', 'API:271:CS4722', 'API:632:IT4403']"
+    },
+    {
+        "id": "2221",
+        "job_title": "Database Administrator",
+        "keyword_names": "MySQL, Python, Linux, Unix",
+        "related_courses": "['MySQL:357:IT4423', 'MySQL:383:CYBR4423']"
+    },
+    {
+        "id": "2231",
+        "job_title": "Senior Mobile Applications Developer",
+        "keyword_names": "SQL",
+        "related_courses": "['SQL:214:IT4733', 'SQL:234:CSE3153', 'SQL:357:IT4423', 'SQL:383:CYBR4423', 'SQL:508:CYBR3153']"
+    },
+    {
+        "id": "2232",
+        "job_title": "Senior Mobile Applications",
+        "keyword_names": "SQL",
+        "related_courses": "['SQL:214:IT4733', 'SQL:234:CSE3153', 'SQL:357:IT4423', 'SQL:383:CYBR4423', 'SQL:508:CYBR3153']"
+    },
+    {
+        "id": "2233",
+        "job_title": "Senior Applications Developer",
+        "keyword_names": "SQL",
+        "related_courses": "['SQL:214:IT4733', 'SQL:234:CSE3153', 'SQL:357:IT4423', 'SQL:383:CYBR4423', 'SQL:508:CYBR3153']"
+    },
+    {
+        "id": "2234",
+        "job_title": "Mobile Applications Developer",
+        "keyword_names": "SQL, Android",
+        "related_courses": "['SQL:214:IT4733', 'SQL:234:CSE3153', 'SQL:357:IT4423', 'SQL:383:CYBR4423', 'SQL:508:CYBR3153', 'Android:71:CS4612', 'Android:186:CS4322', 'Android:187:CS4322']"
+    },
+    {
+        "id": "2235",
+        "job_title": "Mobile Applications",
+        "keyword_names": "SQL",
+        "related_courses": "['SQL:214:IT4733', 'SQL:234:CSE3153', 'SQL:357:IT4423', 'SQL:383:CYBR4423', 'SQL:508:CYBR3153']"
+    },
+    {
+        "id": "2296",
+        "job_title": "Biostatistics Consultan",
+        "keyword_names": "SAS, SQL",
+        "related_courses": "['SAS:205:STAT3130', 'SAS:501:STAT7220', 'SQL:214:IT4733', 'SQL:234:CSE3153', 'SQL:357:IT4423', 'SQL:383:CYBR4423', 'SQL:508:CYBR3153']"
+    },
+    {
+        "id": "2302",
+        "job_title": "Statistical Analyst",
+        "keyword_names": "SAS, SQL",
+        "related_courses": "['SAS:205:STAT3130', 'SAS:501:STAT7220', 'SQL:214:IT4733', 'SQL:234:CSE3153', 'SQL:357:IT4423', 'SQL:383:CYBR4423', 'SQL:508:CYBR3153']"
+    },
+    {
+        "id": "2303",
+        "job_title": "Stat Programmer",
+        "keyword_names": "SAS, SQL",
+        "related_courses": "['SAS:205:STAT3130', 'SAS:501:STAT7220', 'SQL:214:IT4733', 'SQL:234:CSE3153', 'SQL:357:IT4423', 'SQL:383:CYBR4423', 'SQL:508:CYBR3153']"
+    },
+    {
+        "id": "2307",
+        "job_title": "Supply Chain Business",
+        "keyword_names": "SQL",
+        "related_courses": "['SQL:214:IT4733', 'SQL:234:CSE3153', 'SQL:357:IT4423', 'SQL:383:CYBR4423', 'SQL:508:CYBR3153']"
+    },
+    {
+        "id": "2310",
+        "job_title": "Validation Engineer",
+        "keyword_names": "SDLC, Linux",
+        "related_courses": "['SDLC:439:SWE3633', 'Linux:356:IT4423', 'Linux:357:IT4423', 'Linux:382:CYBR4423', 'Linux:383:CYBR4423']"
+    },
+    {
+        "id": "2343",
+        "job_title": "Firmware Development Engineer",
+        "keyword_names": "Python, SAS",
+        "related_courses": "['Python:21:CS4742', 'Python:357:IT4423', 'Python:383:CYBR4423', 'SAS:205:STAT3130', 'SAS:501:STAT7220']"
+    },
+    {
+        "id": "2344",
+        "job_title": "Development Engineer",
+        "keyword_names": "Python, SAS",
+        "related_courses": "['Python:21:CS4742', 'Python:357:IT4423', 'Python:383:CYBR4423', 'SAS:205:STAT3130', 'SAS:501:STAT7220']"
+    },
+    {
+        "id": "2345",
+        "job_title": "Embedded Software",
+        "keyword_names": "Python, SAS",
+        "related_courses": "['Python:21:CS4742', 'Python:357:IT4423', 'Python:383:CYBR4423', 'SAS:205:STAT3130', 'SAS:501:STAT7220']"
+    },
+    {
+        "id": "2346",
+        "job_title": "Enterprise Account Manager",
+        "keyword_names": "IT",
+        "related_courses": "['IT:49:IT3423', 'IT:52:IT4683', 'IT:53:IT4683', 'IT:55:IT4683', 'IT:56:IT4683', 'IT:57:IT4683', 'IT:58:IT4683', 'IT:59:CYBR4883', 'IT:179:IT3003', 'IT:319:CYBR3423', 'IT:361:IT4883', 'IT:474:IT4673', 'IT:546:IT3503', 'IT:582:IT4983', 'IT:583:IT4983', 'IT:648:IT4723', 'IT:649:IT4723']"
+    },
+    {
+        "id": "2378",
+        "job_title": "Product Design Manager",
+        "keyword_names": "CSS, HTML, JavaScript, iOS, Android",
+        "related_courses": "['iOS:71:CS4612', 'Android:71:CS4612', 'Android:186:CS4322', 'Android:187:CS4322']"
+    },
+    {
+        "id": "2383",
+        "job_title": "Human Resources Business Partner",
+        "keyword_names": "Change Management",
+        "related_courses": "['Change Management:141:CYBR4810']"
+    },
+    {
+        "id": "2401",
+        "job_title": "DevOps Developer",
+        "keyword_names": "Linux",
+        "related_courses": "['Linux:356:IT4423', 'Linux:357:IT4423', 'Linux:382:CYBR4423', 'Linux:383:CYBR4423']"
+    },
+    {
+        "id": "2408",
+        "job_title": "Verification Engineer",
+        "keyword_names": "CPU",
+        "related_courses": "['CPU:173:CYBR3123', 'CPU:346:CS3503', 'CPU:512:IT3123']"
+    },
+    {
+        "id": "2419",
+        "job_title": "Systems Engineering",
+        "keyword_names": "TCP/IP, Linux, Unix",
+        "related_courses": "['TCP/IP:355:IT4423', 'TCP/IP:381:CYBR4423', 'Linux:356:IT4423', 'Linux:357:IT4423', 'Linux:382:CYBR4423', 'Linux:383:CYBR4423', 'Unix:356:IT4423', 'Unix:382:CYBR4423']"
+    },
+    {
+        "id": "2493",
+        "job_title": "Incident Response Manager",
+        "keyword_names": "Incident Response",
+        "related_courses": "['Incident Response:139:CYBR4810', 'Incident Response:603:CYBR4330']"
+    },
+    {
+        "id": "2509",
+        "job_title": "Character Technical Artist",
+        "keyword_names": "Python",
+        "related_courses": "['Python:21:CS4742', 'Python:357:IT4423', 'Python:383:CYBR4423']"
+    },
+    {
+        "id": "2535",
+        "job_title": "Character Artist",
+        "keyword_names": "Python",
+        "related_courses": "['Python:21:CS4742', 'Python:357:IT4423', 'Python:383:CYBR4423']"
+    },
+    {
+        "id": "2536",
+        "job_title": "Technical Animation",
+        "keyword_names": "Python",
+        "related_courses": "['Python:21:CS4742', 'Python:357:IT4423', 'Python:383:CYBR4423']"
+    },
+    {
+        "id": "2537",
+        "job_title": "Technical Animator",
+        "keyword_names": "Python",
+        "related_courses": "['Python:21:CS4742', 'Python:357:IT4423', 'Python:383:CYBR4423']"
+    },
+    {
+        "id": "2580",
+        "job_title": "Lead Program Manager",
+        "keyword_names": "IaaS",
+        "related_courses": "['IaaS:589:CS4524']"
+    },
+    {
+        "id": "2597",
+        "job_title": "Technology Lead",
+        "keyword_names": "UDP, API, APIs, IaaS",
+        "related_courses": "['UDP:519:CS4504', 'UDP:597:CYBR4323', 'API:270:CS4722', 'API:271:CS4722', 'API:632:IT4403', 'APIs:632:IT4403', 'IaaS:589:CS4524']"
+    },
+    {
+        "id": "2608",
+        "job_title": "Java UI Developer",
+        "keyword_names": "HTML, CSS, Web Services, Python",
+        "related_courses": "['Python:21:CS4742', 'Python:357:IT4423', 'Python:383:CYBR4423']"
+    },
+    {
+        "id": "2666",
+        "job_title": "Senior MicroStrategy Developer",
+        "keyword_names": "SQL",
+        "related_courses": "['SQL:214:IT4733', 'SQL:234:CSE3153', 'SQL:357:IT4423', 'SQL:383:CYBR4423', 'SQL:508:CYBR3153']"
+    },
+    {
+        "id": "2667",
+        "job_title": "MicroStrategy Engineer",
+        "keyword_names": "SQL",
+        "related_courses": "['SQL:214:IT4733', 'SQL:234:CSE3153', 'SQL:357:IT4423', 'SQL:383:CYBR4423', 'SQL:508:CYBR3153']"
+    },
+    {
+        "id": "2727",
+        "job_title": "Software Quality Assurance Consultant",
+        "keyword_names": "Agile, SDLC",
+        "related_courses": "['SDLC:439:SWE3633']"
+    },
+    {
+        "id": "2728",
+        "job_title": "Process Consultant",
+        "keyword_names": "Agile, SDLC",
+        "related_courses": "['SDLC:439:SWE3633']"
+    },
+    {
+        "id": "2729",
+        "job_title": "QA Consultant",
+        "keyword_names": "Agile, SDLC",
+        "related_courses": "['SDLC:439:SWE3633']"
+    },
+    {
+        "id": "2730",
+        "job_title": "SQA Auditor",
+        "keyword_names": "Agile, SDLC",
+        "related_courses": "['SDLC:439:SWE3633']"
+    },
+    {
+        "id": "2731",
+        "job_title": "IT Auditor",
+        "keyword_names": "Agile, SDLC",
+        "related_courses": "['SDLC:439:SWE3633']"
+    },
+    {
+        "id": "2738",
+        "job_title": "Inside Sales Representative",
+        "keyword_names": "IT",
+        "related_courses": "['IT:49:IT3423', 'IT:52:IT4683', 'IT:53:IT4683', 'IT:55:IT4683', 'IT:56:IT4683', 'IT:57:IT4683', 'IT:58:IT4683', 'IT:59:CYBR4883', 'IT:179:IT3003', 'IT:319:CYBR3423', 'IT:361:IT4883', 'IT:474:IT4673', 'IT:546:IT3503', 'IT:582:IT4983', 'IT:583:IT4983', 'IT:648:IT4723', 'IT:649:IT4723']"
+    },
+    {
+        "id": "2757",
+        "job_title": "Sr Software Development Engineer",
+        "keyword_names": "Android, Agile",
+        "related_courses": "['Android:71:CS4612', 'Android:186:CS4322', 'Android:187:CS4322']"
+    },
+    {
+        "id": "2758",
+        "job_title": "Senior Software Development Engineer",
+        "keyword_names": "Android, Agile",
+        "related_courses": "['Android:71:CS4612', 'Android:186:CS4322', 'Android:187:CS4322']"
+    },
+    {
+        "id": "2759",
+        "job_title": "Sr Software Development Developer",
+        "keyword_names": "Android, Agile",
+        "related_courses": "['Android:71:CS4612', 'Android:186:CS4322', 'Android:187:CS4322']"
+    },
+    {
+        "id": "2760",
+        "job_title": "Senior Software Development Developer",
+        "keyword_names": "Android, Agile",
+        "related_courses": "['Android:71:CS4612', 'Android:186:CS4322', 'Android:187:CS4322']"
+    },
+    {
+        "id": "2761",
+        "job_title": "Sr Android Eningeer",
+        "keyword_names": "Android, Agile",
+        "related_courses": "['Android:71:CS4612', 'Android:186:CS4322', 'Android:187:CS4322']"
+    },
+    {
+        "id": "2762",
+        "job_title": "Sr Android Developer",
+        "keyword_names": "Android, Agile",
+        "related_courses": "['Android:71:CS4612', 'Android:186:CS4322', 'Android:187:CS4322']"
+    },
+    {
+        "id": "2763",
+        "job_title": "Escalation Engineer",
+        "keyword_names": "Linux, Unix, TCP/IP",
+        "related_courses": "['Unix:356:IT4423', 'Unix:382:CYBR4423', 'TCP/IP:355:IT4423', 'TCP/IP:381:CYBR4423']"
+    },
+    {
+        "id": "2767",
+        "job_title": "Andriod Manager",
+        "keyword_names": "iOS",
+        "related_courses": "['iOS:71:CS4612']"
+    },
+    {
+        "id": "2769",
+        "job_title": "Mobile Manager",
+        "keyword_names": "iOS, Android",
+        "related_courses": "['iOS:71:CS4612', 'Android:71:CS4612', 'Android:186:CS4322', 'Android:187:CS4322']"
+    },
+    {
+        "id": "2770",
+        "job_title": "Software Engineer Manager",
+        "keyword_names": "iOS, Android, HTML, CSS, JavaScript, Linux, UNIX, AJAX, MySQL",
+        "related_courses": "['iOS:71:CS4612', 'Android:71:CS4612', 'Android:186:CS4322', 'Android:187:CS4322', 'Linux:356:IT4423', 'Linux:357:IT4423', 'Linux:382:CYBR4423', 'Linux:383:CYBR4423', 'UNIX:527:CS4512', 'UNIX:529:CS4512', 'MySQL:357:IT4423', 'MySQL:383:CYBR4423']"
+    },
+    {
+        "id": "2772",
+        "job_title": "Software Developer Manager",
+        "keyword_names": "iOS, Android",
+        "related_courses": "['iOS:71:CS4612', 'Android:71:CS4612', 'Android:186:CS4322', 'Android:187:CS4322']"
+    },
+    {
+        "id": "2775",
+        "job_title": "Software Enginner",
+        "keyword_names": "Graphical User Interface, Agile",
+        "related_courses": "['Graphical User Interface:340:CSE1322', 'Graphical User Interface:409:CSE1322']"
+    },
+    {
+        "id": "2796",
+        "job_title": "Android Manager",
+        "keyword_names": "iOS, Android",
+        "related_courses": "['iOS:71:CS4612', 'Android:71:CS4612', 'Android:186:CS4322', 'Android:187:CS4322']"
+    },
+    {
+        "id": "2799",
+        "job_title": "Mobile Engineering Manager",
+        "keyword_names": "iOS, Android, Python, UNIX, Linux",
+        "related_courses": "['iOS:71:CS4612', 'Android:71:CS4612', 'Android:186:CS4322', 'Android:187:CS4322', 'UNIX:527:CS4512', 'UNIX:529:CS4512', 'Linux:356:IT4423', 'Linux:357:IT4423', 'Linux:382:CYBR4423', 'Linux:383:CYBR4423']"
+    },
+    {
+        "id": "2800",
+        "job_title": "Application Architect",
+        "keyword_names": "MVC, Agile",
+        "related_courses": "['MVC:535:CS4720']"
+    },
+    {
+        "id": "2801",
+        "job_title": "Tool Engineer",
+        "keyword_names": "Python",
+        "related_courses": "['Python:21:CS4742', 'Python:357:IT4423', 'Python:383:CYBR4423']"
+    },
+    {
+        "id": "2804",
+        "job_title": "Senior Engineering Manager",
+        "keyword_names": "iOS, Android, Python, UNIX, SDLC, Linux, Hardware",
+        "related_courses": "['iOS:71:CS4612', 'Android:71:CS4612', 'Android:186:CS4322', 'Android:187:CS4322', 'UNIX:527:CS4512', 'UNIX:529:CS4512', 'SDLC:439:SWE3633', 'Linux:356:IT4423', 'Linux:357:IT4423', 'Linux:382:CYBR4423', 'Linux:383:CYBR4423', 'Hardware:396:CS4514']"
+    },
+    {
+        "id": "2806",
+        "job_title": "Android Engineering Manager",
+        "keyword_names": "iOS, Android",
+        "related_courses": "['iOS:71:CS4612', 'Android:71:CS4612', 'Android:186:CS4322', 'Android:187:CS4322']"
+    },
+    {
+        "id": "2807",
+        "job_title": "Engineering Manager Android",
+        "keyword_names": "iOS, Android",
+        "related_courses": "['iOS:71:CS4612', 'Android:71:CS4612', 'Android:186:CS4322', 'Android:187:CS4322']"
+    },
+    {
+        "id": "2833",
+        "job_title": "Dev Ops Engineer",
+        "keyword_names": "MySQL, Linux, Python",
+        "related_courses": "['MySQL:357:IT4423', 'MySQL:383:CYBR4423', 'Linux:356:IT4423', 'Linux:357:IT4423', 'Linux:382:CYBR4423', 'Linux:383:CYBR4423', 'Python:21:CS4742', 'Python:357:IT4423', 'Python:383:CYBR4423']"
+    },
+    {
+        "id": "2885",
+        "job_title": "Software Manager",
+        "keyword_names": "HTML, CSS, JavaScript, Linux, UNIX, AJAX, MySQL, Android, Unix, SQL, Agile, NoSQL, SDLC, Web Services, Hardware, Agile",
+        "related_courses": "['Linux:356:IT4423', 'Linux:357:IT4423', 'Linux:382:CYBR4423', 'Linux:383:CYBR4423', 'UNIX:527:CS4512', 'UNIX:529:CS4512', 'MySQL:357:IT4423', 'MySQL:383:CYBR4423', 'Android:71:CS4612', 'Android:186:CS4322', 'Android:187:CS4322', 'Unix:356:IT4423', 'Unix:382:CYBR4423', 'SQL:214:IT4733', 'SQL:234:CSE3153', 'SQL:357:IT4423', 'SQL:383:CYBR4423', 'SQL:508:CYBR3153', 'NoSQL:214:IT4733', 'SDLC:439:SWE3633', 'Hardware:396:CS4514']"
+    },
+    {
+        "id": "2886",
+        "job_title": "Developer Manager",
+        "keyword_names": "HTML, CSS, JavaScript, Linux, UNIX, AJAX, MySQL, Android",
+        "related_courses": "['Linux:356:IT4423', 'Linux:357:IT4423', 'Linux:382:CYBR4423', 'Linux:383:CYBR4423', 'UNIX:527:CS4512', 'UNIX:529:CS4512', 'MySQL:357:IT4423', 'MySQL:383:CYBR4423', 'Android:71:CS4612', 'Android:186:CS4322', 'Android:187:CS4322']"
+    },
+    {
+        "id": "2887",
+        "job_title": "SW Manager",
+        "keyword_names": "HTML, CSS, JavaScript, Linux, UNIX, AJAX, MySQL, Android, Unix, Agile, Web Services",
+        "related_courses": "['Linux:356:IT4423', 'Linux:357:IT4423', 'Linux:382:CYBR4423', 'Linux:383:CYBR4423', 'UNIX:527:CS4512', 'UNIX:529:CS4512', 'MySQL:357:IT4423', 'MySQL:383:CYBR4423', 'Android:71:CS4612', 'Android:186:CS4322', 'Android:187:CS4322', 'Unix:356:IT4423', 'Unix:382:CYBR4423']"
+    },
+    {
+        "id": "2888",
+        "job_title": "Engineer Manager",
+        "keyword_names": "HTML, CSS, JavaScript, Linux, UNIX, AJAX, MySQL, Android, API",
+        "related_courses": "['Linux:356:IT4423', 'Linux:357:IT4423', 'Linux:382:CYBR4423', 'Linux:383:CYBR4423', 'UNIX:527:CS4512', 'UNIX:529:CS4512', 'MySQL:357:IT4423', 'MySQL:383:CYBR4423', 'Android:71:CS4612', 'Android:186:CS4322', 'Android:187:CS4322', 'API:270:CS4722', 'API:271:CS4722', 'API:632:IT4403']"
+    },
+    {
+        "id": "2890",
+        "job_title": "VP Software",
+        "keyword_names": "Linux, Unix, SQL",
+        "related_courses": "['Linux:356:IT4423', 'Linux:357:IT4423', 'Linux:382:CYBR4423', 'Linux:383:CYBR4423', 'Unix:356:IT4423', 'Unix:382:CYBR4423', 'SQL:214:IT4733', 'SQL:234:CSE3153', 'SQL:357:IT4423', 'SQL:383:CYBR4423', 'SQL:508:CYBR3153']"
+    },
+    {
+        "id": "2891",
+        "job_title": "Vice President Software",
+        "keyword_names": "Linux, Unix, SQL",
+        "related_courses": "['Linux:356:IT4423', 'Linux:357:IT4423', 'Linux:382:CYBR4423', 'Linux:383:CYBR4423', 'Unix:356:IT4423', 'Unix:382:CYBR4423', 'SQL:214:IT4733', 'SQL:234:CSE3153', 'SQL:357:IT4423', 'SQL:383:CYBR4423', 'SQL:508:CYBR3153']"
+    },
+    {
+        "id": "2892",
+        "job_title": "VP Engineer",
+        "keyword_names": "Linux, Unix, SQL",
+        "related_courses": "['Linux:356:IT4423', 'Linux:357:IT4423', 'Linux:382:CYBR4423', 'Linux:383:CYBR4423', 'Unix:356:IT4423', 'Unix:382:CYBR4423', 'SQL:214:IT4733', 'SQL:234:CSE3153', 'SQL:357:IT4423', 'SQL:383:CYBR4423', 'SQL:508:CYBR3153']"
+    },
+    {
+        "id": "2893",
+        "job_title": "Vice President Engineer",
+        "keyword_names": "Linux, Unix, SQL",
+        "related_courses": "['Linux:356:IT4423', 'Linux:357:IT4423', 'Linux:382:CYBR4423', 'Linux:383:CYBR4423', 'Unix:356:IT4423', 'Unix:382:CYBR4423', 'SQL:214:IT4733', 'SQL:234:CSE3153', 'SQL:357:IT4423', 'SQL:383:CYBR4423', 'SQL:508:CYBR3153']"
+    },
+    {
+        "id": "2894",
+        "job_title": "Senior Software Engineer Manager",
+        "keyword_names": "Linux, Unix, SQL",
+        "related_courses": "['Linux:356:IT4423', 'Linux:357:IT4423', 'Linux:382:CYBR4423', 'Linux:383:CYBR4423', 'Unix:356:IT4423', 'Unix:382:CYBR4423', 'SQL:214:IT4733', 'SQL:234:CSE3153', 'SQL:357:IT4423', 'SQL:383:CYBR4423', 'SQL:508:CYBR3153']"
+    },
+    {
+        "id": "2895",
+        "job_title": "Senior Software Manager",
+        "keyword_names": "Linux, Unix, SQL, MySQL, NoSQL, SDLC",
+        "related_courses": "['Linux:356:IT4423', 'Linux:357:IT4423', 'Linux:382:CYBR4423', 'Linux:383:CYBR4423', 'Unix:356:IT4423', 'Unix:382:CYBR4423', 'SQL:214:IT4733', 'SQL:234:CSE3153', 'SQL:357:IT4423', 'SQL:383:CYBR4423', 'SQL:508:CYBR3153', 'MySQL:357:IT4423', 'MySQL:383:CYBR4423', 'NoSQL:214:IT4733', 'SDLC:439:SWE3633']"
+    },
+    {
+        "id": "2899",
+        "job_title": "Senior Software Engineering Manager",
+        "keyword_names": "Linux, Unix, SQL, MySQL, NoSQL, SDLC",
+        "related_courses": "['Linux:356:IT4423', 'Linux:357:IT4423', 'Linux:382:CYBR4423', 'Linux:383:CYBR4423', 'Unix:356:IT4423', 'Unix:382:CYBR4423', 'SQL:214:IT4733', 'SQL:234:CSE3153', 'SQL:357:IT4423', 'SQL:383:CYBR4423', 'SQL:508:CYBR3153', 'MySQL:357:IT4423', 'MySQL:383:CYBR4423', 'NoSQL:214:IT4733', 'SDLC:439:SWE3633']"
+    },
+    {
+        "id": "2900",
+        "job_title": "Director Software Development",
+        "keyword_names": "Linux, Unix, SQL, MySQL, NoSQL, SDLC",
+        "related_courses": "['Linux:356:IT4423', 'Linux:357:IT4423', 'Linux:382:CYBR4423', 'Linux:383:CYBR4423', 'Unix:356:IT4423', 'Unix:382:CYBR4423', 'SQL:214:IT4733', 'SQL:234:CSE3153', 'SQL:357:IT4423', 'SQL:383:CYBR4423', 'SQL:508:CYBR3153', 'MySQL:357:IT4423', 'MySQL:383:CYBR4423', 'NoSQL:214:IT4733', 'SDLC:439:SWE3633']"
+    },
+    {
+        "id": "2901",
+        "job_title": "Director Software Engineering",
+        "keyword_names": "Linux, Unix, SQL, MySQL, NoSQL, SDLC",
+        "related_courses": "['Linux:356:IT4423', 'Linux:357:IT4423', 'Linux:382:CYBR4423', 'Linux:383:CYBR4423', 'Unix:356:IT4423', 'Unix:382:CYBR4423', 'SQL:214:IT4733', 'SQL:234:CSE3153', 'SQL:357:IT4423', 'SQL:383:CYBR4423', 'SQL:508:CYBR3153', 'MySQL:357:IT4423', 'MySQL:383:CYBR4423', 'NoSQL:214:IT4733', 'SDLC:439:SWE3633']"
+    },
+    {
+        "id": "2902",
+        "job_title": "Vice President Software Engineering",
+        "keyword_names": "Linux, Unix, SQL, MySQL, NoSQL, SDLC",
+        "related_courses": "['Linux:356:IT4423', 'Linux:357:IT4423', 'Linux:382:CYBR4423', 'Linux:383:CYBR4423', 'Unix:356:IT4423', 'Unix:382:CYBR4423', 'SQL:214:IT4733', 'SQL:234:CSE3153', 'SQL:357:IT4423', 'SQL:383:CYBR4423', 'SQL:508:CYBR3153', 'MySQL:357:IT4423', 'MySQL:383:CYBR4423', 'NoSQL:214:IT4733', 'SDLC:439:SWE3633']"
+    },
+    {
+        "id": "2903",
+        "job_title": "Vice President Software Development",
+        "keyword_names": "Linux, Unix, SQL, MySQL, NoSQL, SDLC",
+        "related_courses": "['Linux:356:IT4423', 'Linux:357:IT4423', 'Linux:382:CYBR4423', 'Linux:383:CYBR4423', 'Unix:356:IT4423', 'Unix:382:CYBR4423', 'SQL:214:IT4733', 'SQL:234:CSE3153', 'SQL:357:IT4423', 'SQL:383:CYBR4423', 'SQL:508:CYBR3153', 'MySQL:357:IT4423', 'MySQL:383:CYBR4423', 'NoSQL:214:IT4733', 'SDLC:439:SWE3633']"
+    },
+    {
+        "id": "2911",
+        "job_title": "VP Engineering",
+        "keyword_names": "Linux, Unix, SQL",
+        "related_courses": "['Linux:356:IT4423', 'Linux:357:IT4423', 'Linux:382:CYBR4423', 'Linux:383:CYBR4423', 'Unix:356:IT4423', 'Unix:382:CYBR4423', 'SQL:214:IT4733', 'SQL:234:CSE3153', 'SQL:357:IT4423', 'SQL:383:CYBR4423', 'SQL:508:CYBR3153']"
+    },
+    {
+        "id": "2912",
+        "job_title": "Vice President Engineering",
+        "keyword_names": "Linux, Unix, SQL, MySQL, NoSQL, SDLC",
+        "related_courses": "['Linux:356:IT4423', 'Linux:357:IT4423', 'Linux:382:CYBR4423', 'Linux:383:CYBR4423', 'Unix:356:IT4423', 'Unix:382:CYBR4423', 'SQL:214:IT4733', 'SQL:234:CSE3153', 'SQL:357:IT4423', 'SQL:383:CYBR4423', 'SQL:508:CYBR3153', 'MySQL:357:IT4423', 'MySQL:383:CYBR4423', 'NoSQL:214:IT4733', 'SDLC:439:SWE3633']"
+    },
+    {
+        "id": "2918",
+        "job_title": "Sr Software Development Manager",
+        "keyword_names": "Linux, UNIX, MySQL, SQL, NoSQL",
+        "related_courses": "['Linux:356:IT4423', 'Linux:357:IT4423', 'Linux:382:CYBR4423', 'Linux:383:CYBR4423', 'UNIX:527:CS4512', 'UNIX:529:CS4512', 'MySQL:357:IT4423', 'MySQL:383:CYBR4423', 'SQL:214:IT4733', 'SQL:234:CSE3153', 'SQL:357:IT4423', 'SQL:383:CYBR4423', 'SQL:508:CYBR3153', 'NoSQL:214:IT4733']"
+    },
+    {
+        "id": "2919",
+        "job_title": "Sr Software Manager",
+        "keyword_names": "Linux, UNIX, MySQL, SQL, NoSQL",
+        "related_courses": "['Linux:356:IT4423', 'Linux:357:IT4423', 'Linux:382:CYBR4423', 'Linux:383:CYBR4423', 'UNIX:527:CS4512', 'UNIX:529:CS4512', 'MySQL:357:IT4423', 'MySQL:383:CYBR4423', 'SQL:214:IT4733', 'SQL:234:CSE3153', 'SQL:357:IT4423', 'SQL:383:CYBR4423', 'SQL:508:CYBR3153', 'NoSQL:214:IT4733']"
+    },
+    {
+        "id": "2920",
+        "job_title": "Sr SW Manager",
+        "keyword_names": "Linux, UNIX, MySQL, SQL, NoSQL",
+        "related_courses": "['Linux:356:IT4423', 'Linux:357:IT4423', 'Linux:382:CYBR4423', 'Linux:383:CYBR4423', 'UNIX:527:CS4512', 'UNIX:529:CS4512', 'MySQL:357:IT4423', 'MySQL:383:CYBR4423', 'SQL:214:IT4733', 'SQL:234:CSE3153', 'SQL:357:IT4423', 'SQL:383:CYBR4423', 'SQL:508:CYBR3153', 'NoSQL:214:IT4733']"
+    },
+    {
+        "id": "2921",
+        "job_title": "Sr Software Engineering Manager",
+        "keyword_names": "Linux, UNIX, MySQL, SQL, NoSQL",
+        "related_courses": "['Linux:356:IT4423', 'Linux:357:IT4423', 'Linux:382:CYBR4423', 'Linux:383:CYBR4423', 'UNIX:527:CS4512', 'UNIX:529:CS4512', 'MySQL:357:IT4423', 'MySQL:383:CYBR4423', 'SQL:214:IT4733', 'SQL:234:CSE3153', 'SQL:357:IT4423', 'SQL:383:CYBR4423', 'SQL:508:CYBR3153', 'NoSQL:214:IT4733']"
+    },
+    {
+        "id": "2922",
+        "job_title": "Sr Engineering Manager",
+        "keyword_names": "Linux, UNIX, MySQL, SQL, NoSQL",
+        "related_courses": "['Linux:356:IT4423', 'Linux:357:IT4423', 'Linux:382:CYBR4423', 'Linux:383:CYBR4423', 'UNIX:527:CS4512', 'UNIX:529:CS4512', 'MySQL:357:IT4423', 'MySQL:383:CYBR4423', 'SQL:214:IT4733', 'SQL:234:CSE3153', 'SQL:357:IT4423', 'SQL:383:CYBR4423', 'SQL:508:CYBR3153', 'NoSQL:214:IT4733']"
+    },
+    {
+        "id": "2923",
+        "job_title": "Software Development Director",
+        "keyword_names": "Linux, UNIX, MySQL, SQL, NoSQL",
+        "related_courses": "['Linux:356:IT4423', 'Linux:357:IT4423', 'Linux:382:CYBR4423', 'Linux:383:CYBR4423', 'UNIX:527:CS4512', 'UNIX:529:CS4512', 'MySQL:357:IT4423', 'MySQL:383:CYBR4423', 'SQL:214:IT4733', 'SQL:234:CSE3153', 'SQL:357:IT4423', 'SQL:383:CYBR4423', 'SQL:508:CYBR3153', 'NoSQL:214:IT4733']"
+    },
+    {
+        "id": "2924",
+        "job_title": "Software Director",
+        "keyword_names": "Linux, UNIX, MySQL, SQL, NoSQL",
+        "related_courses": "['Linux:356:IT4423', 'Linux:357:IT4423', 'Linux:382:CYBR4423', 'Linux:383:CYBR4423', 'UNIX:527:CS4512', 'UNIX:529:CS4512', 'MySQL:357:IT4423', 'MySQL:383:CYBR4423', 'SQL:214:IT4733', 'SQL:234:CSE3153', 'SQL:357:IT4423', 'SQL:383:CYBR4423', 'SQL:508:CYBR3153', 'NoSQL:214:IT4733']"
+    },
+    {
+        "id": "2926",
+        "job_title": "Chief Technology Officer",
+        "keyword_names": "Linux, UNIX, MySQL, SQL, NoSQL",
+        "related_courses": "['Linux:356:IT4423', 'Linux:357:IT4423', 'Linux:382:CYBR4423', 'Linux:383:CYBR4423', 'UNIX:527:CS4512', 'UNIX:529:CS4512', 'MySQL:357:IT4423', 'MySQL:383:CYBR4423', 'SQL:214:IT4733', 'SQL:234:CSE3153', 'SQL:357:IT4423', 'SQL:383:CYBR4423', 'SQL:508:CYBR3153', 'NoSQL:214:IT4733']"
+    },
+    {
+        "id": "2961",
+        "job_title": "Software Engineeer Manager",
+        "keyword_names": "Python, UNIX, SDLC, Linux",
+        "related_courses": "['UNIX:527:CS4512', 'UNIX:529:CS4512', 'SDLC:439:SWE3633', 'Linux:356:IT4423', 'Linux:357:IT4423', 'Linux:382:CYBR4423', 'Linux:383:CYBR4423']"
+    },
+    {
+        "id": "2968",
+        "job_title": "Senior Software Development Manager",
+        "keyword_names": "Python, UNIX, Linux",
+        "related_courses": "['UNIX:527:CS4512', 'UNIX:529:CS4512', 'Linux:356:IT4423', 'Linux:357:IT4423', 'Linux:382:CYBR4423', 'Linux:383:CYBR4423']"
+    },
+    {
+        "id": "2979",
+        "job_title": "Biostatistics Consultant",
+        "keyword_names": "SQL",
+        "related_courses": "['SQL:214:IT4733', 'SQL:234:CSE3153', 'SQL:357:IT4423', 'SQL:383:CYBR4423', 'SQL:508:CYBR3153']"
+    },
+    {
+        "id": "2980",
+        "job_title": "Principal Statistician",
+        "keyword_names": "SQL, SAS, UNIX",
+        "related_courses": "['SQL:214:IT4733', 'SQL:234:CSE3153', 'SQL:357:IT4423', 'SQL:383:CYBR4423', 'SQL:508:CYBR3153', 'SAS:205:STAT3130', 'SAS:501:STAT7220', 'UNIX:527:CS4512', 'UNIX:529:CS4512']"
+    },
+    {
+        "id": "2982",
+        "job_title": "Senior UX Designer",
+        "keyword_names": "HTML, JavaScript, CSS, Android",
+        "related_courses": "['Android:71:CS4612', 'Android:186:CS4322', 'Android:187:CS4322']"
+    },
+    {
+        "id": "3008",
+        "job_title": "Senior DevOps Engineer",
+        "keyword_names": "Linux, Python",
+        "related_courses": "['Linux:356:IT4423', 'Linux:357:IT4423', 'Linux:382:CYBR4423', 'Linux:383:CYBR4423', 'Python:21:CS4742', 'Python:357:IT4423', 'Python:383:CYBR4423']"
+    },
+    {
+        "id": "3017",
+        "job_title": "Senior Development Lead",
+        "keyword_names": "SDLC",
+        "related_courses": "['SDLC:439:SWE3633']"
+    },
+    {
+        "id": "3019",
+        "job_title": "Jee Developer",
+        "keyword_names": "Linux, Unix",
+        "related_courses": "['Linux:356:IT4423', 'Linux:357:IT4423', 'Linux:382:CYBR4423', 'Linux:383:CYBR4423', 'Unix:356:IT4423', 'Unix:382:CYBR4423']"
+    },
+    {
+        "id": "3021",
+        "job_title": "Level Designer",
+        "keyword_names": "OpenCV, Python, Unix",
+        "related_courses": "['OpenCV:210:CS4732']"
+    },
+    {
+        "id": "3032",
+        "job_title": "Technical Project Management",
+        "keyword_names": "Android",
+        "related_courses": "['Android:71:CS4612', 'Android:186:CS4322', 'Android:187:CS4322']"
+    },
+    {
+        "id": "3043",
+        "job_title": "Distributed Systems Software Engineer",
+        "keyword_names": "Cloud Computing",
+        "related_courses": "['Cloud Computing:588:CS4524']"
+    },
+    {
+        "id": "3044",
+        "job_title": "Systems Architecture",
+        "keyword_names": "Cloud Computing",
+        "related_courses": "['Cloud Computing:588:CS4524']"
+    },
+    {
+        "id": "3081",
+        "job_title": "Design Integrator",
+        "keyword_names": "HTML, CSS, Android, iOS",
+        "related_courses": "['Android:71:CS4612', 'Android:186:CS4322', 'Android:187:CS4322', 'iOS:71:CS4612']"
+    },
+    {
+        "id": "3142",
+        "job_title": "Systems Designer",
+        "keyword_names": "AI",
+        "related_courses": "['AI:171:STAT7140', 'AI:655:CS3642', 'AI:657:CS3642']"
+    },
+    {
+        "id": "3179",
+        "job_title": "Development Expert",
+        "keyword_names": "DBMS, MySQL, SQL",
+        "related_courses": "['DBMS:538:CS3410', 'MySQL:357:IT4423', 'MySQL:383:CYBR4423', 'SQL:214:IT4733', 'SQL:234:CSE3153', 'SQL:357:IT4423', 'SQL:383:CYBR4423', 'SQL:508:CYBR3153']"
+    },
+    {
+        "id": "3181",
+        "job_title": "Senior Staff Research Engineer",
+        "keyword_names": "DBMS, MySQL, SQL",
+        "related_courses": "['DBMS:538:CS3410', 'MySQL:357:IT4423', 'MySQL:383:CYBR4423', 'SQL:214:IT4733', 'SQL:234:CSE3153', 'SQL:357:IT4423', 'SQL:383:CYBR4423', 'SQL:508:CYBR3153']"
+    },
+    {
+        "id": "3184",
+        "job_title": "Media Buyer",
+        "keyword_names": "SQL",
+        "related_courses": "['SQL:214:IT4733', 'SQL:234:CSE3153', 'SQL:357:IT4423', 'SQL:383:CYBR4423', 'SQL:508:CYBR3153']"
+    },
+    {
+        "id": "3185",
+        "job_title": "Client Solutions Manager",
+        "keyword_names": "SQL",
+        "related_courses": "['SQL:214:IT4733', 'SQL:234:CSE3153', 'SQL:357:IT4423', 'SQL:383:CYBR4423', 'SQL:508:CYBR3153']"
+    },
+    {
+        "id": "3186",
+        "job_title": "Client Solutions Analyst",
+        "keyword_names": "SQL",
+        "related_courses": "['SQL:214:IT4733', 'SQL:234:CSE3153', 'SQL:357:IT4423', 'SQL:383:CYBR4423', 'SQL:508:CYBR3153']"
+    },
+    {
+        "id": "3192",
+        "job_title": "Core Systems Engineer",
+        "keyword_names": "AI",
+        "related_courses": "['AI:171:STAT7140', 'AI:655:CS3642', 'AI:657:CS3642']"
+    },
+    {
+        "id": "3193",
+        "job_title": "Sofware Engineer",
+        "keyword_names": "AI",
+        "related_courses": "['AI:171:STAT7140', 'AI:655:CS3642', 'AI:657:CS3642']"
+    },
+    {
+        "id": "3213",
+        "job_title": "QA Test",
+        "keyword_names": "Python",
+        "related_courses": "['Python:21:CS4742', 'Python:357:IT4423', 'Python:383:CYBR4423']"
+    },
+    {
+        "id": "3247",
+        "job_title": "SW Engineer",
+        "keyword_names": "Android, Linux, Linux, JavaScript, Unix",
+        "related_courses": "['Android:71:CS4612', 'Android:186:CS4322', 'Android:187:CS4322', 'Linux:356:IT4423', 'Linux:357:IT4423', 'Linux:382:CYBR4423', 'Linux:383:CYBR4423', 'Unix:356:IT4423', 'Unix:382:CYBR4423']"
+    },
+    {
+        "id": "3283",
+        "job_title": "Safety Data Manager",
+        "keyword_names": "SDLC",
+        "related_courses": "['SDLC:439:SWE3633']"
+    },
+    {
+        "id": "3285",
+        "job_title": "Machine Learning",
+        "keyword_names": "SAS, Python",
+        "related_courses": "['SAS:205:STAT3130', 'SAS:501:STAT7220', 'Python:21:CS4742', 'Python:357:IT4423', 'Python:383:CYBR4423']"
+    },
+    {
+        "id": "3302",
+        "job_title": "Business Intelligence Engineer",
+        "keyword_names": "SQL, UNIX, Unix, Linux",
+        "related_courses": "['SQL:214:IT4733', 'SQL:234:CSE3153', 'SQL:357:IT4423', 'SQL:383:CYBR4423', 'SQL:508:CYBR3153', 'UNIX:527:CS4512', 'UNIX:529:CS4512', 'Unix:356:IT4423', 'Unix:382:CYBR4423', 'Linux:356:IT4423', 'Linux:357:IT4423', 'Linux:382:CYBR4423', 'Linux:383:CYBR4423']"
+    },
+    {
+        "id": "3348",
+        "job_title": "IT Manager",
+        "keyword_names": "IT, Agile",
+        "related_courses": "['IT:49:IT3423', 'IT:52:IT4683', 'IT:53:IT4683', 'IT:55:IT4683', 'IT:56:IT4683', 'IT:57:IT4683', 'IT:58:IT4683', 'IT:59:CYBR4883', 'IT:179:IT3003', 'IT:319:CYBR3423', 'IT:361:IT4883', 'IT:474:IT4673', 'IT:546:IT3503', 'IT:582:IT4983', 'IT:583:IT4983', 'IT:648:IT4723', 'IT:649:IT4723']"
+    },
+    {
+        "id": "3363",
+        "job_title": "Business Intelligence Developer",
+        "keyword_names": "SQL",
+        "related_courses": "['SQL:214:IT4733', 'SQL:234:CSE3153', 'SQL:357:IT4423', 'SQL:383:CYBR4423', 'SQL:508:CYBR3153']"
+    },
+    {
+        "id": "3364",
+        "job_title": "BI Developer",
+        "keyword_names": "SQL",
+        "related_courses": "['SQL:214:IT4733', 'SQL:234:CSE3153', 'SQL:357:IT4423', 'SQL:383:CYBR4423', 'SQL:508:CYBR3153']"
+    },
+    {
+        "id": "3372",
+        "job_title": "CPU Architect",
+        "keyword_names": "CPU",
+        "related_courses": "['CPU:173:CYBR3123', 'CPU:346:CS3503', 'CPU:512:IT3123']"
+    },
+    {
+        "id": "3373",
+        "job_title": "CPU Performance Architect",
+        "keyword_names": "CPU",
+        "related_courses": "['CPU:173:CYBR3123', 'CPU:346:CS3503', 'CPU:512:IT3123']"
+    },
+    {
+        "id": "3391",
+        "job_title": "Operations Centre Shift Lead",
+        "keyword_names": "Linux",
+        "related_courses": "['Linux:356:IT4423', 'Linux:357:IT4423', 'Linux:382:CYBR4423', 'Linux:383:CYBR4423']"
+    },
+    {
+        "id": "3392",
+        "job_title": "Application Support Engineer",
+        "keyword_names": "SQL",
+        "related_courses": "['SQL:214:IT4733', 'SQL:234:CSE3153', 'SQL:357:IT4423', 'SQL:383:CYBR4423', 'SQL:508:CYBR3153']"
+    },
+    {
+        "id": "3411",
+        "job_title": "Validation Test Engineer",
+        "keyword_names": "SDLC",
+        "related_courses": "['SDLC:439:SWE3633']"
+    },
+    {
+        "id": "3418",
+        "job_title": "Systems Validation",
+        "keyword_names": "SDLC",
+        "related_courses": "['SDLC:439:SWE3633']"
+    },
+    {
+        "id": "3419",
+        "job_title": "CSV Specialist",
+        "keyword_names": "SDLC",
+        "related_courses": "['SDLC:439:SWE3633']"
+    },
+    {
+        "id": "3434",
+        "job_title": "Sales Research Analyst",
+        "keyword_names": "SQL",
+        "related_courses": "['SQL:214:IT4733', 'SQL:234:CSE3153', 'SQL:357:IT4423', 'SQL:383:CYBR4423', 'SQL:508:CYBR3153']"
+    },
+    {
+        "id": "3435",
+        "job_title": "Research Analyst",
+        "keyword_names": "SQL",
+        "related_courses": "['SQL:214:IT4733', 'SQL:234:CSE3153', 'SQL:357:IT4423', 'SQL:383:CYBR4423', 'SQL:508:CYBR3153']"
+    },
+    {
+        "id": "3474",
+        "job_title": "Systems Administrator",
+        "keyword_names": "Unix, Linux, MySQL",
+        "related_courses": "['MySQL:357:IT4423', 'MySQL:383:CYBR4423']"
+    },
+    {
+        "id": "3485",
+        "job_title": "Full Stack",
+        "keyword_names": "JavaScript, HTML, CSS, SQL, MySQL, Python",
+        "related_courses": "['SQL:214:IT4733', 'SQL:234:CSE3153', 'SQL:357:IT4423', 'SQL:383:CYBR4423', 'SQL:508:CYBR3153', 'MySQL:357:IT4423', 'MySQL:383:CYBR4423', 'Python:21:CS4742', 'Python:357:IT4423', 'Python:383:CYBR4423']"
+    },
+    {
+        "id": "3501",
+        "job_title": "Mobile Systems Architect",
+        "keyword_names": "SQL, NoSQL",
+        "related_courses": "['SQL:214:IT4733', 'SQL:234:CSE3153', 'SQL:357:IT4423', 'SQL:383:CYBR4423', 'SQL:508:CYBR3153', 'NoSQL:214:IT4733']"
+    },
+    {
+        "id": "3502",
+        "job_title": "Power Architect",
+        "keyword_names": "SQL, NoSQL",
+        "related_courses": "['SQL:214:IT4733', 'SQL:234:CSE3153', 'SQL:357:IT4423', 'SQL:383:CYBR4423', 'SQL:508:CYBR3153', 'NoSQL:214:IT4733']"
+    },
+    {
+        "id": "3536",
+        "job_title": "Enterprise Sales Manager",
+        "keyword_names": "IT",
+        "related_courses": "['IT:49:IT3423', 'IT:52:IT4683', 'IT:53:IT4683', 'IT:55:IT4683', 'IT:56:IT4683', 'IT:57:IT4683', 'IT:58:IT4683', 'IT:59:CYBR4883', 'IT:179:IT3003', 'IT:319:CYBR3423', 'IT:361:IT4883', 'IT:474:IT4673', 'IT:546:IT3503', 'IT:582:IT4983', 'IT:583:IT4983', 'IT:648:IT4723', 'IT:649:IT4723']"
+    },
+    {
+        "id": "3537",
+        "job_title": "Team Lead Software Engineer",
+        "keyword_names": "Cloud Computing, OO, Python",
+        "related_courses": "['Cloud Computing:588:CS4524', 'OO:64:SWE4743', 'OO:65:SWE4743', 'OO:325:SWE3683', 'Python:21:CS4742', 'Python:357:IT4423', 'Python:383:CYBR4423']"
+    },
+    {
+        "id": "3567",
+        "job_title": "Tools Engineer",
+        "keyword_names": "Python",
+        "related_courses": "['Python:21:CS4742', 'Python:357:IT4423', 'Python:383:CYBR4423']"
+    },
+    {
+        "id": "3581",
+        "job_title": "Senior Software Development",
+        "keyword_names": "Linux, Unix, TCP/IP",
+        "related_courses": "['Linux:356:IT4423', 'Linux:357:IT4423', 'Linux:382:CYBR4423', 'Linux:383:CYBR4423', 'Unix:356:IT4423', 'Unix:382:CYBR4423', 'TCP/IP:355:IT4423', 'TCP/IP:381:CYBR4423']"
+    },
+    {
+        "id": "3584",
+        "job_title": "Wireless Test Engineer",
+        "keyword_names": "TCP/IP, HTTP, UDP, FTP, Python",
+        "related_courses": "['TCP/IP:355:IT4423', 'TCP/IP:381:CYBR4423', 'HTTP:596:CYBR4323', 'UDP:519:CS4504', 'UDP:597:CYBR4323', 'FTP:355:IT4423', 'FTP:381:CYBR4423', 'Python:21:CS4742', 'Python:357:IT4423', 'Python:383:CYBR4423']"
+    },
+    {
+        "id": "3588",
+        "job_title": "Automation Test Engineer",
+        "keyword_names": "Linux, Python, Unix",
+        "related_courses": "['Linux:356:IT4423', 'Linux:357:IT4423', 'Linux:382:CYBR4423', 'Linux:383:CYBR4423', 'Python:21:CS4742', 'Python:357:IT4423', 'Python:383:CYBR4423', 'Unix:356:IT4423', 'Unix:382:CYBR4423']"
+    },
+    {
+        "id": "3589",
+        "job_title": "Software Quality Engineering",
+        "keyword_names": "Linux, Python, Unix",
+        "related_courses": "['Linux:356:IT4423', 'Linux:357:IT4423', 'Linux:382:CYBR4423', 'Linux:383:CYBR4423', 'Python:21:CS4742', 'Python:357:IT4423', 'Python:383:CYBR4423', 'Unix:356:IT4423', 'Unix:382:CYBR4423']"
+    },
+    {
+        "id": "3590",
+        "job_title": "Software Engineering QA",
+        "keyword_names": "Linux, Python, Unix",
+        "related_courses": "['Linux:356:IT4423', 'Linux:357:IT4423', 'Linux:382:CYBR4423', 'Linux:383:CYBR4423', 'Python:21:CS4742', 'Python:357:IT4423', 'Python:383:CYBR4423', 'Unix:356:IT4423', 'Unix:382:CYBR4423']"
+    },
+    {
+        "id": "3591",
+        "job_title": "QA Automation Lead",
+        "keyword_names": "Linux, Python, Unix",
+        "related_courses": "['Linux:356:IT4423', 'Linux:357:IT4423', 'Linux:382:CYBR4423', 'Linux:383:CYBR4423', 'Python:21:CS4742', 'Python:357:IT4423', 'Python:383:CYBR4423', 'Unix:356:IT4423', 'Unix:382:CYBR4423']"
+    },
+    {
+        "id": "3592",
+        "job_title": "Staff Software Test Engineer",
+        "keyword_names": "Linux, Python, Unix",
+        "related_courses": "['Linux:356:IT4423', 'Linux:357:IT4423', 'Linux:382:CYBR4423', 'Linux:383:CYBR4423', 'Python:21:CS4742', 'Python:357:IT4423', 'Python:383:CYBR4423', 'Unix:356:IT4423', 'Unix:382:CYBR4423']"
+    },
+    {
+        "id": "3593",
+        "job_title": "Software Development Engineer Test",
+        "keyword_names": "Linux, Python, Unix",
+        "related_courses": "['Linux:356:IT4423', 'Linux:357:IT4423', 'Linux:382:CYBR4423', 'Linux:383:CYBR4423', 'Python:21:CS4742', 'Python:357:IT4423', 'Python:383:CYBR4423', 'Unix:356:IT4423', 'Unix:382:CYBR4423']"
+    },
+    {
+        "id": "3609",
+        "job_title": "Desktop Technician",
+        "keyword_names": "Hardware",
+        "related_courses": "['Hardware:396:CS4514']"
+    },
+    {
+        "id": "3611",
+        "job_title": "Deskside Support",
+        "keyword_names": "Hardware",
+        "related_courses": "['Hardware:396:CS4514']"
+    },
+    {
+        "id": "3612",
+        "job_title": "IT Support",
+        "keyword_names": "Hardware, Linux, Unix, IT",
+        "related_courses": "['Hardware:396:CS4514', 'IT:49:IT3423', 'IT:52:IT4683', 'IT:53:IT4683', 'IT:55:IT4683', 'IT:56:IT4683', 'IT:57:IT4683', 'IT:58:IT4683', 'IT:59:CYBR4883', 'IT:179:IT3003', 'IT:319:CYBR3423', 'IT:361:IT4883', 'IT:474:IT4673', 'IT:546:IT3503', 'IT:582:IT4983', 'IT:583:IT4983', 'IT:648:IT4723', 'IT:649:IT4723']"
+    },
+    {
+        "id": "3638",
+        "job_title": "Chief Architect",
+        "keyword_names": "Android, iOS, HTML",
+        "related_courses": "['iOS:71:CS4612']"
+    },
+    {
+        "id": "3645",
+        "job_title": "Software Development Test Engineer",
+        "keyword_names": "OO, Python",
+        "related_courses": "['OO:64:SWE4743', 'OO:65:SWE4743', 'OO:325:SWE3683', 'Python:21:CS4742', 'Python:357:IT4423', 'Python:383:CYBR4423']"
+    },
+    {
+        "id": "3687",
+        "job_title": "Market Researcher",
+        "keyword_names": "SDLC, IoT",
+        "related_courses": "['SDLC:439:SWE3633', 'IoT:277:IT4893', 'IoT:279:IT4893', 'IoT:280:IT4893', 'IoT:281:IT4893', 'IoT:469:CYBR4893', 'IoT:471:CYBR4893', 'IoT:472:CYBR4893', 'IoT:473:CYBR4893']"
+    },
+    {
+        "id": "3704",
+        "job_title": "Inside Sales Account Manager",
+        "keyword_names": "IT",
+        "related_courses": "['IT:49:IT3423', 'IT:52:IT4683', 'IT:53:IT4683', 'IT:55:IT4683', 'IT:56:IT4683', 'IT:57:IT4683', 'IT:58:IT4683', 'IT:59:CYBR4883', 'IT:179:IT3003', 'IT:319:CYBR3423', 'IT:361:IT4883', 'IT:474:IT4673', 'IT:546:IT3503', 'IT:582:IT4983', 'IT:583:IT4983', 'IT:648:IT4723', 'IT:649:IT4723']"
+    },
+    {
+        "id": "3724",
+        "job_title": "UNIX System Engineer",
+        "keyword_names": "Unix, Linux",
+        "related_courses": "['Unix:356:IT4423', 'Unix:382:CYBR4423', 'Linux:356:IT4423', 'Linux:357:IT4423', 'Linux:382:CYBR4423', 'Linux:383:CYBR4423']"
+    },
+    {
+        "id": "3752",
+        "job_title": "Software Arhitecure",
+        "keyword_names": "Android, iOS",
+        "related_courses": "['iOS:71:CS4612']"
+    },
+    {
+        "id": "3753",
+        "job_title": "System Arhitecure",
+        "keyword_names": "Android, iOS",
+        "related_courses": "['iOS:71:CS4612']"
+    },
+    {
+        "id": "3776",
+        "job_title": "Principal SWE Server",
+        "keyword_names": "MySQL, Linux",
+        "related_courses": "['MySQL:357:IT4423', 'MySQL:383:CYBR4423']"
+    },
+    {
+        "id": "3848",
+        "job_title": "Incident Response Engineer",
+        "keyword_names": "Incident Response",
+        "related_courses": "['Incident Response:74:CYBR3100', 'Incident Response:387:CYBR4350', 'Incident Response:502:CYBR4853', 'Incident Response:598:CYBR4330', 'Incident Response:667:IT4853']"
+    },
+    {
+        "id": "3854",
+        "job_title": "Biostat Programmer",
+        "keyword_names": "SAS",
+        "related_courses": "['SAS:205:STAT3130', 'SAS:501:STAT7220']"
+    },
+    {
+        "id": "3855",
+        "job_title": "Biostatis Programmer",
+        "keyword_names": "SAS",
+        "related_courses": "['SAS:205:STAT3130', 'SAS:501:STAT7220']"
+    },
+    {
+        "id": "3878",
+        "job_title": "Data Software Engineer",
+        "keyword_names": "SQL",
+        "related_courses": "['SQL:214:IT4733', 'SQL:234:CSE3153', 'SQL:357:IT4423', 'SQL:383:CYBR4423', 'SQL:508:CYBR3153']"
+    },
+    {
+        "id": "3881",
+        "job_title": "Linux Development Engineer",
+        "keyword_names": "Linux, Unix",
+        "related_courses": "['Linux:356:IT4423', 'Linux:357:IT4423', 'Linux:382:CYBR4423', 'Linux:383:CYBR4423', 'Unix:356:IT4423', 'Unix:382:CYBR4423']"
+    },
+    {
+        "id": "3889",
+        "job_title": "Product Engineering Manager",
+        "keyword_names": "Hardware",
+        "related_courses": "['Hardware:396:CS4514']"
+    },
+    {
+        "id": "3897",
+        "job_title": "Statistical Programming",
+        "keyword_names": "SAS",
+        "related_courses": "['SAS:205:STAT3130', 'SAS:501:STAT7220']"
+    },
+    {
+        "id": "3904",
+        "job_title": "Mobile API Developer",
+        "keyword_names": "API, APIs",
+        "related_courses": "['API:270:CS4722', 'API:271:CS4722', 'API:632:IT4403', 'APIs:632:IT4403']"
+    },
+    {
+        "id": "3952",
+        "job_title": "Javascript App Developer",
+        "keyword_names": "iOS, Android",
+        "related_courses": "['iOS:71:CS4612', 'Android:71:CS4612', 'Android:186:CS4322', 'Android:187:CS4322']"
+    },
+    {
+        "id": "3961",
+        "job_title": "Technical Sales Engineer",
+        "keyword_names": "IT",
+        "related_courses": "['IT:49:IT3423', 'IT:52:IT4683', 'IT:53:IT4683', 'IT:55:IT4683', 'IT:56:IT4683', 'IT:57:IT4683', 'IT:58:IT4683', 'IT:59:CYBR4883', 'IT:179:IT3003', 'IT:319:CYBR3423', 'IT:361:IT4883', 'IT:474:IT4673', 'IT:546:IT3503', 'IT:582:IT4983', 'IT:583:IT4983', 'IT:648:IT4723', 'IT:649:IT4723']"
+    },
+    {
+        "id": "3982",
+        "job_title": "Clinical Application Specialist",
+        "keyword_names": "SAS",
+        "related_courses": "['SAS:205:STAT3130', 'SAS:501:STAT7220']"
+    },
+    {
+        "id": "3984",
+        "job_title": "Compute Solutions Engineer",
+        "keyword_names": "Hardware, TCP/IP, Linux, Android, Python",
+        "related_courses": "['Hardware:173:CYBR3123', 'Hardware:252:CSE3203', 'Hardware:256:CYBR3210', 'Hardware:512:IT3123', 'TCP/IP:355:IT4423', 'TCP/IP:381:CYBR4423', 'Linux:356:IT4423', 'Linux:357:IT4423', 'Linux:382:CYBR4423', 'Linux:383:CYBR4423', 'Android:71:CS4612', 'Android:186:CS4322', 'Android:187:CS4322', 'Python:21:CS4742', 'Python:357:IT4423', 'Python:383:CYBR4423']"
+    },
+    {
+        "id": "3994",
+        "job_title": "Salesforce Developer",
+        "keyword_names": "OO, SQL, MySQL",
+        "related_courses": "['OO:64:SWE4743', 'OO:65:SWE4743', 'OO:325:SWE3683', 'SQL:214:IT4733', 'SQL:234:CSE3153', 'SQL:357:IT4423', 'SQL:383:CYBR4423', 'SQL:508:CYBR3153', 'MySQL:357:IT4423', 'MySQL:383:CYBR4423']"
+    },
+    {
+        "id": "4005",
+        "job_title": "AI Animator",
+        "keyword_names": "AI",
+        "related_courses": "['AI:171:STAT7140', 'AI:655:CS3642', 'AI:657:CS3642']"
+    },
+    {
+        "id": "4006",
+        "job_title": "Senior AI Animator",
+        "keyword_names": "AI",
+        "related_courses": "['AI:171:STAT7140', 'AI:655:CS3642', 'AI:657:CS3642']"
+    },
+    {
+        "id": "4007",
+        "job_title": "Senior Animator",
+        "keyword_names": "AI",
+        "related_courses": "['AI:171:STAT7140', 'AI:655:CS3642', 'AI:657:CS3642']"
+    },
+    {
+        "id": "4052",
+        "job_title": "Compiler QA Engineer",
+        "keyword_names": "Python",
+        "related_courses": "['Python:21:CS4742', 'Python:357:IT4423', 'Python:383:CYBR4423']"
+    },
+    {
+        "id": "4076",
+        "job_title": "Computer Vision",
+        "keyword_names": "OpenCV",
+        "related_courses": "['OpenCV:210:CS4732']"
+    },
+    {
+        "id": "4091",
+        "job_title": "Senior System Engineer",
+        "keyword_names": "Linux, Unix",
+        "related_courses": "['Linux:356:IT4423', 'Linux:357:IT4423', 'Linux:382:CYBR4423', 'Linux:383:CYBR4423', 'Unix:356:IT4423', 'Unix:382:CYBR4423']"
+    },
+    {
+        "id": "4093",
+        "job_title": "System Developer",
+        "keyword_names": "Linux, Unix",
+        "related_courses": "['Linux:356:IT4423', 'Linux:357:IT4423', 'Linux:382:CYBR4423', 'Linux:383:CYBR4423', 'Unix:356:IT4423', 'Unix:382:CYBR4423']"
+    },
+    {
+        "id": "4094",
+        "job_title": "Linux Developer",
+        "keyword_names": "Linux, Unix",
+        "related_courses": "['Linux:356:IT4423', 'Linux:357:IT4423', 'Linux:382:CYBR4423', 'Linux:383:CYBR4423', 'Unix:356:IT4423', 'Unix:382:CYBR4423']"
+    },
+    {
+        "id": "4095",
+        "job_title": "Linux Engineer",
+        "keyword_names": "Linux, Unix",
+        "related_courses": "['Linux:356:IT4423', 'Linux:357:IT4423', 'Linux:382:CYBR4423', 'Linux:383:CYBR4423', 'Unix:356:IT4423', 'Unix:382:CYBR4423']"
+    },
+    {
+        "id": "4096",
+        "job_title": "Infrastructure Automation Engineer",
+        "keyword_names": "Python, SQL, Linux, Unix",
+        "related_courses": "['Python:21:CS4742', 'Python:357:IT4423', 'Python:383:CYBR4423', 'SQL:214:IT4733', 'SQL:234:CSE3153', 'SQL:357:IT4423', 'SQL:383:CYBR4423', 'SQL:508:CYBR3153', 'Unix:356:IT4423', 'Unix:382:CYBR4423']"
+    },
+    {
+        "id": "4102",
+        "job_title": "Digital Experience Analyst",
+        "keyword_names": "SQL",
+        "related_courses": "['SQL:214:IT4733', 'SQL:234:CSE3153', 'SQL:357:IT4423', 'SQL:383:CYBR4423', 'SQL:508:CYBR3153']"
+    },
+    {
+        "id": "4103",
+        "job_title": "Digital Analyst",
+        "keyword_names": "SQL",
+        "related_courses": "['SQL:214:IT4733', 'SQL:234:CSE3153', 'SQL:357:IT4423', 'SQL:383:CYBR4423', 'SQL:508:CYBR3153']"
+    },
+    {
+        "id": "4104",
+        "job_title": "Web Analyst",
+        "keyword_names": "SQL",
+        "related_courses": "['SQL:214:IT4733', 'SQL:234:CSE3153', 'SQL:357:IT4423', 'SQL:383:CYBR4423', 'SQL:508:CYBR3153']"
+    },
+    {
+        "id": "4114",
+        "job_title": "Application Engineer Manager",
+        "keyword_names": "API",
+        "related_courses": "['API:270:CS4722', 'API:271:CS4722', 'API:632:IT4403']"
+    },
+    {
+        "id": "4115",
+        "job_title": "Application Manager",
+        "keyword_names": "API",
+        "related_courses": "['API:270:CS4722', 'API:271:CS4722', 'API:632:IT4403']"
+    },
+    {
+        "id": "4140",
+        "job_title": "Big Data Developers",
+        "keyword_names": "SQL",
+        "related_courses": "['SQL:214:IT4733', 'SQL:234:CSE3153', 'SQL:357:IT4423', 'SQL:383:CYBR4423', 'SQL:508:CYBR3153']"
+    },
+    {
+        "id": "4143",
+        "job_title": "Mobile Software Engineer",
+        "keyword_names": "Android",
+        "related_courses": "['Android:71:CS4612', 'Android:186:CS4322', 'Android:187:CS4322']"
+    },
+    {
+        "id": "4158",
+        "job_title": "Site Reliability",
+        "keyword_names": "Python, Python",
+        "related_courses": "['Python:21:CS4742', 'Python:357:IT4423', 'Python:383:CYBR4423']"
+    },
+    {
+        "id": "4201",
+        "job_title": "Software Development Engineers",
+        "keyword_names": "OO",
+        "related_courses": "['OO:64:SWE4743', 'OO:65:SWE4743', 'OO:325:SWE3683']"
+    },
+    {
+        "id": "4202",
+        "job_title": "Senior Software Development Engineers",
+        "keyword_names": "OO",
+        "related_courses": "['OO:64:SWE4743', 'OO:65:SWE4743', 'OO:325:SWE3683']"
+    },
+    {
+        "id": "4239",
+        "job_title": "Unix Administrator",
+        "keyword_names": "Linux, Unix, Python",
+        "related_courses": "['Linux:356:IT4423', 'Linux:357:IT4423', 'Linux:382:CYBR4423', 'Linux:383:CYBR4423', 'Unix:356:IT4423', 'Unix:382:CYBR4423', 'Python:21:CS4742', 'Python:357:IT4423', 'Python:383:CYBR4423']"
+    },
+    {
+        "id": "4240",
+        "job_title": "Field Marketing Manager",
+        "keyword_names": "IT",
+        "related_courses": "['IT:49:IT3423', 'IT:52:IT4683', 'IT:53:IT4683', 'IT:55:IT4683', 'IT:56:IT4683', 'IT:57:IT4683', 'IT:58:IT4683', 'IT:59:CYBR4883', 'IT:179:IT3003', 'IT:319:CYBR3423', 'IT:361:IT4883', 'IT:474:IT4673', 'IT:546:IT3503', 'IT:582:IT4983', 'IT:583:IT4983', 'IT:648:IT4723', 'IT:649:IT4723']"
+    },
+    {
+        "id": "4241",
+        "job_title": "Sales Marketing Manager",
+        "keyword_names": "IT",
+        "related_courses": "['IT:49:IT3423', 'IT:52:IT4683', 'IT:53:IT4683', 'IT:55:IT4683', 'IT:56:IT4683', 'IT:57:IT4683', 'IT:58:IT4683', 'IT:59:CYBR4883', 'IT:179:IT3003', 'IT:319:CYBR3423', 'IT:361:IT4883', 'IT:474:IT4673', 'IT:546:IT3503', 'IT:582:IT4983', 'IT:583:IT4983', 'IT:648:IT4723', 'IT:649:IT4723']"
+    },
+    {
+        "id": "4243",
+        "job_title": "Channel Marketing Manager",
+        "keyword_names": "IT",
+        "related_courses": "['IT:49:IT3423', 'IT:52:IT4683', 'IT:53:IT4683', 'IT:55:IT4683', 'IT:56:IT4683', 'IT:57:IT4683', 'IT:58:IT4683', 'IT:59:CYBR4883', 'IT:179:IT3003', 'IT:319:CYBR3423', 'IT:361:IT4883', 'IT:474:IT4673', 'IT:546:IT3503', 'IT:582:IT4983', 'IT:583:IT4983', 'IT:648:IT4723', 'IT:649:IT4723']"
+    },
+    {
+        "id": "4244",
+        "job_title": "Lead Project Manager",
+        "keyword_names": "SDLC",
+        "related_courses": "['SDLC:439:SWE3633']"
+    },
+    {
+        "id": "4250",
+        "job_title": "Test Czar",
+        "keyword_names": "Linux, Unix, Python",
+        "related_courses": "['Linux:356:IT4423', 'Linux:357:IT4423', 'Linux:382:CYBR4423', 'Linux:383:CYBR4423', 'Unix:356:IT4423', 'Unix:382:CYBR4423', 'Python:21:CS4742', 'Python:357:IT4423', 'Python:383:CYBR4423']"
+    },
+    {
+        "id": "4259",
+        "job_title": "Inside Channel Account Manager",
+        "keyword_names": "IT",
+        "related_courses": "['IT:49:IT3423', 'IT:52:IT4683', 'IT:53:IT4683', 'IT:55:IT4683', 'IT:56:IT4683', 'IT:57:IT4683', 'IT:58:IT4683', 'IT:59:CYBR4883', 'IT:179:IT3003', 'IT:319:CYBR3423', 'IT:361:IT4883', 'IT:474:IT4673', 'IT:546:IT3503', 'IT:582:IT4983', 'IT:583:IT4983', 'IT:648:IT4723', 'IT:649:IT4723']"
+    },
+    {
+        "id": "4263",
+        "job_title": "Bioinformatics Software Engineer",
+        "keyword_names": "Python, SQL",
+        "related_courses": "['Python:21:CS4742', 'Python:357:IT4423', 'Python:383:CYBR4423', 'SQL:214:IT4733', 'SQL:234:CSE3153', 'SQL:357:IT4423', 'SQL:383:CYBR4423', 'SQL:508:CYBR3153']"
+    },
+    {
+        "id": "4264",
+        "job_title": "Bioinformatics Engineer",
+        "keyword_names": "Python, SQL",
+        "related_courses": "['Python:21:CS4742', 'Python:357:IT4423', 'Python:383:CYBR4423', 'SQL:214:IT4733', 'SQL:234:CSE3153', 'SQL:357:IT4423', 'SQL:383:CYBR4423', 'SQL:508:CYBR3153']"
+    },
+    {
+        "id": "4265",
+        "job_title": "Computational Biologist",
+        "keyword_names": "Python, SQL",
+        "related_courses": "['Python:21:CS4742', 'Python:357:IT4423', 'Python:383:CYBR4423', 'SQL:214:IT4733', 'SQL:234:CSE3153', 'SQL:357:IT4423', 'SQL:383:CYBR4423', 'SQL:508:CYBR3153']"
+    },
+    {
+        "id": "4309",
+        "job_title": "Visual Design Manager",
+        "keyword_names": "CSS, HTML, JavaScript, iOS, Android",
+        "related_courses": "['iOS:71:CS4612', 'Android:71:CS4612', 'Android:186:CS4322', 'Android:187:CS4322']"
+    },
+    {
+        "id": "4335",
+        "job_title": "Database Developer",
+        "keyword_names": "SQL",
+        "related_courses": "['SQL:214:IT4733', 'SQL:234:CSE3153', 'SQL:357:IT4423', 'SQL:383:CYBR4423', 'SQL:508:CYBR3153']"
+    },
+    {
+        "id": "4389",
+        "job_title": "Web Development Engineer",
+        "keyword_names": "OO",
+        "related_courses": "['OO:64:SWE4743', 'OO:65:SWE4743', 'OO:325:SWE3683']"
+    },
+    {
+        "id": "4390",
+        "job_title": "Front End Web Developer",
+        "keyword_names": "OO",
+        "related_courses": "['OO:64:SWE4743', 'OO:65:SWE4743', 'OO:325:SWE3683']"
+    },
+    {
+        "id": "4431",
+        "job_title": "HCM Developer",
+        "keyword_names": "SQL",
+        "related_courses": "['SQL:214:IT4733', 'SQL:234:CSE3153', 'SQL:357:IT4423', 'SQL:383:CYBR4423', 'SQL:508:CYBR3153']"
+    },
+    {
+        "id": "4432",
+        "job_title": "Human Capital Management Developer",
+        "keyword_names": "SQL",
+        "related_courses": "['SQL:214:IT4733', 'SQL:234:CSE3153', 'SQL:357:IT4423', 'SQL:383:CYBR4423', 'SQL:508:CYBR3153']"
+    },
+    {
+        "id": "4434",
+        "job_title": "HRMS Developer",
+        "keyword_names": "SQL",
+        "related_courses": "['SQL:214:IT4733', 'SQL:234:CSE3153', 'SQL:357:IT4423', 'SQL:383:CYBR4423', 'SQL:508:CYBR3153']"
+    },
+    {
+        "id": "4442",
+        "job_title": "Lead Java Engineer",
+        "keyword_names": "Linux, Unix, HTTP, TCP/IP",
+        "related_courses": "['Linux:356:IT4423', 'Linux:357:IT4423', 'Linux:382:CYBR4423', 'Linux:383:CYBR4423', 'Unix:356:IT4423', 'Unix:382:CYBR4423', 'HTTP:596:CYBR4323', 'TCP/IP:355:IT4423', 'TCP/IP:381:CYBR4423']"
+    },
+    {
+        "id": "4443",
+        "job_title": "Gameplay Designer",
+        "keyword_names": "AI",
+        "related_courses": "['AI:171:STAT7140', 'AI:655:CS3642', 'AI:657:CS3642']"
+    },
+    {
+        "id": "4444",
+        "job_title": "Mechanical Designer",
+        "keyword_names": "AI",
+        "related_courses": "['AI:171:STAT7140', 'AI:655:CS3642', 'AI:657:CS3642']"
+    },
+    {
+        "id": "4445",
+        "job_title": "AI Designer",
+        "keyword_names": "AI",
+        "related_courses": "['AI:171:STAT7140', 'AI:655:CS3642', 'AI:657:CS3642']"
+    },
+    {
+        "id": "4448",
+        "job_title": "Product Data Analyst",
+        "keyword_names": "SQL",
+        "related_courses": "['SQL:214:IT4733', 'SQL:234:CSE3153', 'SQL:357:IT4423', 'SQL:383:CYBR4423', 'SQL:508:CYBR3153']"
+    },
+    {
+        "id": "4466",
+        "job_title": "Technical Support Lead",
+        "keyword_names": "SQL",
+        "related_courses": "['SQL:214:IT4733', 'SQL:234:CSE3153', 'SQL:357:IT4423', 'SQL:383:CYBR4423', 'SQL:508:CYBR3153']"
+    },
+    {
+        "id": "4487",
+        "job_title": "QC Lab Controls",
+        "keyword_names": "API, APIs",
+        "related_courses": "['API:270:CS4722', 'API:271:CS4722', 'API:632:IT4403', 'APIs:632:IT4403']"
+    },
+    {
+        "id": "4562",
+        "job_title": "Market Research",
+        "keyword_names": "SDLC, IoT",
+        "related_courses": "['SDLC:439:SWE3633', 'IoT:277:IT4893', 'IoT:279:IT4893', 'IoT:280:IT4893', 'IoT:281:IT4893', 'IoT:469:CYBR4893', 'IoT:471:CYBR4893', 'IoT:472:CYBR4893', 'IoT:473:CYBR4893']"
+    },
+    {
+        "id": "4572",
+        "job_title": "Incident Response",
+        "keyword_names": "Incident Response",
+        "related_courses": "['Incident Response:74:CYBR3100', 'Incident Response:387:CYBR4350', 'Incident Response:502:CYBR4853', 'Incident Response:598:CYBR4330', 'Incident Response:667:IT4853']"
+    },
+    {
+        "id": "4585",
+        "job_title": "Senior Biostatistician",
+        "keyword_names": "SAS",
+        "related_courses": "['SAS:205:STAT3130', 'SAS:501:STAT7220']"
+    },
+    {
+        "id": "4586",
+        "job_title": "Senior Biostatistics",
+        "keyword_names": "SAS",
+        "related_courses": "['SAS:205:STAT3130', 'SAS:501:STAT7220']"
+    },
+    {
+        "id": "4587",
+        "job_title": "Principal Biostatistician",
+        "keyword_names": "SAS",
+        "related_courses": "['SAS:205:STAT3130', 'SAS:501:STAT7220']"
+    },
+    {
+        "id": "4588",
+        "job_title": "Pricipal Biostatistics",
+        "keyword_names": "SAS",
+        "related_courses": "['SAS:205:STAT3130', 'SAS:501:STAT7220']"
+    },
+    {
+        "id": "4604",
+        "job_title": "Fullstack Engineer",
+        "keyword_names": "SQL, HTML, CSS, JavaScript",
+        "related_courses": "['SQL:214:IT4733', 'SQL:234:CSE3153', 'SQL:357:IT4423', 'SQL:383:CYBR4423', 'SQL:508:CYBR3153']"
+    },
+    {
+        "id": "4620",
+        "job_title": "Site Reliability Engineering",
+        "keyword_names": "UDP, API, APIs, IaaS",
+        "related_courses": "['UDP:519:CS4504', 'UDP:597:CYBR4323', 'API:270:CS4722', 'API:271:CS4722', 'API:632:IT4403', 'APIs:632:IT4403', 'IaaS:589:CS4524']"
+    },
+    {
+        "id": "4638",
+        "job_title": "Design Technologist",
+        "keyword_names": "HTML, CSS, Python",
+        "related_courses": "['Python:21:CS4742', 'Python:357:IT4423', 'Python:383:CYBR4423']"
+    },
+    {
+        "id": "4640",
+        "job_title": "Sr Biostatistician",
+        "keyword_names": "SAS",
+        "related_courses": "['SAS:205:STAT3130', 'SAS:501:STAT7220']"
+    },
+    {
+        "id": "4661",
+        "job_title": "Salesforce Administration",
+        "keyword_names": "MySQL",
+        "related_courses": "['MySQL:357:IT4423', 'MySQL:383:CYBR4423']"
+    },
+    {
+        "id": "4662",
+        "job_title": "Cloud Operations",
+        "keyword_names": "MySQL",
+        "related_courses": "['MySQL:357:IT4423', 'MySQL:383:CYBR4423']"
+    },
+    {
+        "id": "4700",
+        "job_title": "Oracle DBA",
+        "keyword_names": "SQL",
+        "related_courses": "['SQL:214:IT4733', 'SQL:234:CSE3153', 'SQL:357:IT4423', 'SQL:383:CYBR4423', 'SQL:508:CYBR3153']"
+    },
+    {
+        "id": "4784",
+        "job_title": "Data Management Associate",
+        "keyword_names": "SAS",
+        "related_courses": "['SAS:205:STAT3130', 'SAS:501:STAT7220']"
+    },
+    {
+        "id": "4794",
+        "job_title": "Market Analyst",
+        "keyword_names": "SAS",
+        "related_courses": "['SAS:205:STAT3130', 'SAS:501:STAT7220']"
+    },
+    {
+        "id": "4801",
+        "job_title": "Business Intelligence Specialist",
+        "keyword_names": "SQL",
+        "related_courses": "['SQL:214:IT4733', 'SQL:234:CSE3153', 'SQL:357:IT4423', 'SQL:383:CYBR4423', 'SQL:508:CYBR3153']"
+    },
+    {
+        "id": "4823",
+        "job_title": "ARGUS Business Analyst",
+        "keyword_names": "SQL",
+        "related_courses": "['SQL:214:IT4733', 'SQL:234:CSE3153', 'SQL:357:IT4423', 'SQL:383:CYBR4423', 'SQL:508:CYBR3153']"
+    },
+    {
+        "id": "4826",
+        "job_title": "Safety Analyst",
+        "keyword_names": "SQL",
+        "related_courses": "['SQL:214:IT4733', 'SQL:234:CSE3153', 'SQL:357:IT4423', 'SQL:383:CYBR4423', 'SQL:508:CYBR3153']"
+    },
+    {
+        "id": "4828",
+        "job_title": "Business Intelligence Solution Architect",
+        "keyword_names": "SQL",
+        "related_courses": "['SQL:214:IT4733', 'SQL:234:CSE3153', 'SQL:357:IT4423', 'SQL:383:CYBR4423', 'SQL:508:CYBR3153']"
+    },
+    {
+        "id": "4843",
+        "job_title": "Systems Developer",
+        "keyword_names": "SQL, Python, Linux",
+        "related_courses": "['SQL:214:IT4733', 'SQL:234:CSE3153', 'SQL:357:IT4423', 'SQL:383:CYBR4423', 'SQL:508:CYBR3153', 'Python:21:CS4742', 'Python:357:IT4423', 'Python:383:CYBR4423', 'Linux:356:IT4423', 'Linux:357:IT4423', 'Linux:382:CYBR4423', 'Linux:383:CYBR4423']"
+    },
+    {
+        "id": "4908",
+        "job_title": "SQL Developer",
+        "keyword_names": "SQL",
+        "related_courses": "['SQL:214:IT4733', 'SQL:234:CSE3153', 'SQL:357:IT4423', 'SQL:383:CYBR4423', 'SQL:508:CYBR3153']"
+    },
+    {
+        "id": "4913",
+        "job_title": "Software Configuration Management",
+        "keyword_names": "Linux",
+        "related_courses": "['Linux:356:IT4423', 'Linux:357:IT4423', 'Linux:382:CYBR4423', 'Linux:383:CYBR4423']"
+    },
+    {
+        "id": "4915",
+        "job_title": "Build Release Engineer",
+        "keyword_names": "Linux, Python, Unix, Android",
+        "related_courses": "['Linux:356:IT4423', 'Linux:357:IT4423', 'Linux:382:CYBR4423', 'Linux:383:CYBR4423', 'Python:21:CS4742', 'Python:357:IT4423', 'Python:383:CYBR4423', 'Unix:356:IT4423', 'Unix:382:CYBR4423']"
+    },
+    {
+        "id": "4916",
+        "job_title": "Build Engineer",
+        "keyword_names": "Linux",
+        "related_courses": "['Linux:356:IT4423', 'Linux:357:IT4423', 'Linux:382:CYBR4423', 'Linux:383:CYBR4423']"
+    },
+    {
+        "id": "4989",
+        "job_title": "Lead Animation Engineer",
+        "keyword_names": "AI",
+        "related_courses": "['AI:171:STAT7140', 'AI:655:CS3642', 'AI:657:CS3642']"
+    },
+    {
+        "id": "4990",
+        "job_title": "Lead AI Engineer",
+        "keyword_names": "AI",
+        "related_courses": "['AI:171:STAT7140', 'AI:655:CS3642', 'AI:657:CS3642']"
+    },
+    {
+        "id": "5001",
+        "job_title": "Linux Administrator",
+        "keyword_names": "Linux, Unix",
+        "related_courses": "['Linux:356:IT4423', 'Linux:357:IT4423', 'Linux:382:CYBR4423', 'Linux:383:CYBR4423', 'Unix:356:IT4423', 'Unix:382:CYBR4423']"
+    },
+    {
+        "id": "5006",
+        "job_title": "Inside Sales Engineer",
+        "keyword_names": "IT",
+        "related_courses": "['IT:49:IT3423', 'IT:52:IT4683', 'IT:53:IT4683', 'IT:55:IT4683', 'IT:56:IT4683', 'IT:57:IT4683', 'IT:58:IT4683', 'IT:59:CYBR4883', 'IT:179:IT3003', 'IT:319:CYBR3423', 'IT:361:IT4883', 'IT:474:IT4673', 'IT:546:IT3503', 'IT:582:IT4983', 'IT:583:IT4983', 'IT:648:IT4723', 'IT:649:IT4723']"
+    },
+    {
+        "id": "5022",
+        "job_title": "UX Specialist",
+        "keyword_names": "iOS, Android",
+        "related_courses": "['iOS:71:CS4612', 'Android:71:CS4612', 'Android:186:CS4322', 'Android:187:CS4322']"
+    },
+    {
+        "id": "5027",
+        "job_title": "Data Architect",
+        "keyword_names": "SAS",
+        "related_courses": "['SAS:205:STAT3130', 'SAS:501:STAT7220']"
+    },
+    {
+        "id": "5031",
+        "job_title": "Office Administrator",
+        "keyword_names": "IT",
+        "related_courses": "['IT:49:IT3423', 'IT:52:IT4683', 'IT:53:IT4683', 'IT:55:IT4683', 'IT:56:IT4683', 'IT:57:IT4683', 'IT:58:IT4683', 'IT:59:CYBR4883', 'IT:179:IT3003', 'IT:319:CYBR3423', 'IT:361:IT4883', 'IT:474:IT4673', 'IT:546:IT3503', 'IT:582:IT4983', 'IT:583:IT4983', 'IT:648:IT4723', 'IT:649:IT4723']"
+    },
+    {
+        "id": "5036",
+        "job_title": "Associate Operations Manager",
+        "keyword_names": "IT",
+        "related_courses": "['IT:49:IT3423', 'IT:52:IT4683', 'IT:53:IT4683', 'IT:55:IT4683', 'IT:56:IT4683', 'IT:57:IT4683', 'IT:58:IT4683', 'IT:59:CYBR4883', 'IT:179:IT3003', 'IT:319:CYBR3423', 'IT:361:IT4883', 'IT:474:IT4673', 'IT:546:IT3503', 'IT:582:IT4983', 'IT:583:IT4983', 'IT:648:IT4723', 'IT:649:IT4723']"
+    },
+    {
+        "id": "5037",
+        "job_title": "Associate Project Manager",
+        "keyword_names": "IT",
+        "related_courses": "['IT:49:IT3423', 'IT:52:IT4683', 'IT:53:IT4683', 'IT:55:IT4683', 'IT:56:IT4683', 'IT:57:IT4683', 'IT:58:IT4683', 'IT:59:CYBR4883', 'IT:179:IT3003', 'IT:319:CYBR3423', 'IT:361:IT4883', 'IT:474:IT4673', 'IT:546:IT3503', 'IT:582:IT4983', 'IT:583:IT4983', 'IT:648:IT4723', 'IT:649:IT4723']"
+    },
+    {
+        "id": "5038",
+        "job_title": "Office Manager",
+        "keyword_names": "IT",
+        "related_courses": "['IT:49:IT3423', 'IT:52:IT4683', 'IT:53:IT4683', 'IT:55:IT4683', 'IT:56:IT4683', 'IT:57:IT4683', 'IT:58:IT4683', 'IT:59:CYBR4883', 'IT:179:IT3003', 'IT:319:CYBR3423', 'IT:361:IT4883', 'IT:474:IT4673', 'IT:546:IT3503', 'IT:582:IT4983', 'IT:583:IT4983', 'IT:648:IT4723', 'IT:649:IT4723']"
+    },
+    {
+        "id": "5043",
+        "job_title": "Ethernet Solution Sales Specialist",
+        "keyword_names": "Cloud Computing",
+        "related_courses": "['Cloud Computing:588:CS4524']"
+    },
+    {
+        "id": "5063",
+        "job_title": "Infrastructure Engineering",
+        "keyword_names": "Python",
+        "related_courses": "['Python:21:CS4742', 'Python:357:IT4423', 'Python:383:CYBR4423']"
+    },
+    {
+        "id": "5064",
+        "job_title": "Production Operations",
+        "keyword_names": "Python",
+        "related_courses": "['Python:21:CS4742', 'Python:357:IT4423', 'Python:383:CYBR4423']"
+    },
+    {
+        "id": "5093",
+        "job_title": "Senior Software",
+        "keyword_names": "Linux, Linux, JavaScript, Unix",
+        "related_courses": "['Linux:356:IT4423', 'Linux:357:IT4423', 'Linux:382:CYBR4423', 'Linux:383:CYBR4423', 'Unix:356:IT4423', 'Unix:382:CYBR4423']"
+    },
+    {
+        "id": "5117",
+        "job_title": "Build Release Mobile Engineer",
+        "keyword_names": "Linux, Python, Unix, Android",
+        "related_courses": "['Linux:356:IT4423', 'Linux:357:IT4423', 'Linux:382:CYBR4423', 'Linux:383:CYBR4423', 'Python:21:CS4742', 'Python:357:IT4423', 'Python:383:CYBR4423', 'Unix:356:IT4423', 'Unix:382:CYBR4423']"
+    },
+    {
+        "id": "5119",
+        "job_title": "Infrastructure Engineers",
+        "keyword_names": "Unix",
+        "related_courses": "['Unix:356:IT4423', 'Unix:382:CYBR4423']"
+    },
+    {
+        "id": "5140",
+        "job_title": "Operational Excellence Manager",
+        "keyword_names": "Lean Six Sigma",
+        "related_courses": "['Lean Six Sigma:169:STAT7140', 'Lean Six Sigma:172:STAT7140']"
+    },
+    {
+        "id": "5141",
+        "job_title": "OE Manager",
+        "keyword_names": "Lean Six Sigma",
+        "related_courses": "['Lean Six Sigma:169:STAT7140', 'Lean Six Sigma:172:STAT7140']"
+    },
+    {
+        "id": "5142",
+        "job_title": "Operational Excellence Senior Manager",
+        "keyword_names": "Lean Six Sigma",
+        "related_courses": "['Lean Six Sigma:169:STAT7140', 'Lean Six Sigma:172:STAT7140']"
+    },
+    {
+        "id": "5143",
+        "job_title": "OE Senior Manager",
+        "keyword_names": "Lean Six Sigma",
+        "related_courses": "['Lean Six Sigma:169:STAT7140', 'Lean Six Sigma:172:STAT7140']"
+    },
+    {
+        "id": "5144",
+        "job_title": "Manager Operational Excellence",
+        "keyword_names": "Lean Six Sigma",
+        "related_courses": "['Lean Six Sigma:169:STAT7140', 'Lean Six Sigma:172:STAT7140']"
+    },
+    {
+        "id": "5145",
+        "job_title": "Senior Manager Operational Excellence",
+        "keyword_names": "Lean Six Sigma",
+        "related_courses": "['Lean Six Sigma:169:STAT7140', 'Lean Six Sigma:172:STAT7140']"
+    },
+    {
+        "id": "5158",
+        "job_title": "Client Side Support",
+        "keyword_names": "Linux, Unix, IT",
+        "related_courses": "['IT:49:IT3423', 'IT:52:IT4683', 'IT:53:IT4683', 'IT:55:IT4683', 'IT:56:IT4683', 'IT:57:IT4683', 'IT:58:IT4683', 'IT:59:CYBR4883', 'IT:179:IT3003', 'IT:319:CYBR3423', 'IT:361:IT4883', 'IT:474:IT4673', 'IT:546:IT3503', 'IT:582:IT4983', 'IT:583:IT4983', 'IT:648:IT4723', 'IT:649:IT4723']"
+    },
+    {
+        "id": "5159",
+        "job_title": "IT Generalist",
+        "keyword_names": "Linux, Unix, IT",
+        "related_courses": "['IT:49:IT3423', 'IT:52:IT4683', 'IT:53:IT4683', 'IT:55:IT4683', 'IT:56:IT4683', 'IT:57:IT4683', 'IT:58:IT4683', 'IT:59:CYBR4883', 'IT:179:IT3003', 'IT:319:CYBR3423', 'IT:361:IT4883', 'IT:474:IT4673', 'IT:546:IT3503', 'IT:582:IT4983', 'IT:583:IT4983', 'IT:648:IT4723', 'IT:649:IT4723']"
+    },
+    {
+        "id": "5160",
+        "job_title": "IT Administrator",
+        "keyword_names": "Linux, Unix, IT",
+        "related_courses": "['IT:49:IT3423', 'IT:52:IT4683', 'IT:53:IT4683', 'IT:55:IT4683', 'IT:56:IT4683', 'IT:57:IT4683', 'IT:58:IT4683', 'IT:59:CYBR4883', 'IT:179:IT3003', 'IT:319:CYBR3423', 'IT:361:IT4883', 'IT:474:IT4673', 'IT:546:IT3503', 'IT:582:IT4983', 'IT:583:IT4983', 'IT:648:IT4723', 'IT:649:IT4723']"
+    },
+    {
+        "id": "5184",
+        "job_title": "Design Verification Engineer",
+        "keyword_names": "CPU",
+        "related_courses": "['CPU:173:CYBR3123', 'CPU:346:CS3503', 'CPU:512:IT3123']"
+    },
+    {
+        "id": "5185",
+        "job_title": "CPU Verification Engineer",
+        "keyword_names": "CPU",
+        "related_courses": "['CPU:173:CYBR3123', 'CPU:346:CS3503', 'CPU:512:IT3123']"
+    },
+    {
+        "id": "5188",
+        "job_title": "Design Verification",
+        "keyword_names": "CPU",
+        "related_courses": "['CPU:173:CYBR3123', 'CPU:346:CS3503', 'CPU:512:IT3123']"
+    },
+    {
+        "id": "5189",
+        "job_title": "Design Verify",
+        "keyword_names": "CPU",
+        "related_courses": "['CPU:173:CYBR3123', 'CPU:346:CS3503', 'CPU:512:IT3123']"
+    },
+    {
+        "id": "5215",
+        "job_title": "Data Scientis",
+        "keyword_names": "Python, SQL",
+        "related_courses": "['Python:21:CS4742', 'Python:357:IT4423', 'Python:383:CYBR4423', 'SQL:214:IT4733', 'SQL:234:CSE3153', 'SQL:357:IT4423', 'SQL:383:CYBR4423', 'SQL:508:CYBR3153']"
+    },
+    {
+        "id": "5221",
+        "job_title": "Lead Engineering",
+        "keyword_names": "Python, Web Services",
+        "related_courses": "['Python:21:CS4742', 'Python:357:IT4423', 'Python:383:CYBR4423']"
+    },
+    {
+        "id": "5255",
+        "job_title": "CPU Performance Engineer",
+        "keyword_names": "CPU",
+        "related_courses": "['CPU:173:CYBR3123', 'CPU:346:CS3503', 'CPU:512:IT3123']"
+    },
+    {
+        "id": "5269",
+        "job_title": "Senior SWE",
+        "keyword_names": "Python",
+        "related_courses": "['Python:21:CS4742', 'Python:357:IT4423', 'Python:383:CYBR4423']"
+    },
+    {
+        "id": "5271",
+        "job_title": "Linux System Administrator",
+        "keyword_names": "Linux, Unix",
+        "related_courses": "['Linux:356:IT4423', 'Linux:357:IT4423', 'Linux:382:CYBR4423', 'Linux:383:CYBR4423', 'Unix:356:IT4423', 'Unix:382:CYBR4423']"
+    },
+    {
+        "id": "5272",
+        "job_title": "Linux System Admin",
+        "keyword_names": "Linux, Unix",
+        "related_courses": "['Linux:356:IT4423', 'Linux:357:IT4423', 'Linux:382:CYBR4423', 'Linux:383:CYBR4423', 'Unix:356:IT4423', 'Unix:382:CYBR4423']"
+    },
+    {
+        "id": "5273",
+        "job_title": "System Admin",
+        "keyword_names": "Linux, Unix",
+        "related_courses": "['Linux:356:IT4423', 'Linux:357:IT4423', 'Linux:382:CYBR4423', 'Linux:383:CYBR4423', 'Unix:356:IT4423', 'Unix:382:CYBR4423']"
+    },
+    {
+        "id": "5275",
+        "job_title": "Senior Software Engineering",
+        "keyword_names": "Python",
+        "related_courses": "['Python:21:CS4742', 'Python:357:IT4423', 'Python:383:CYBR4423']"
+    },
+    {
+        "id": "5288",
+        "job_title": "IT Director",
+        "keyword_names": "IT, Agile",
+        "related_courses": "['IT:49:IT3423', 'IT:52:IT4683', 'IT:53:IT4683', 'IT:55:IT4683', 'IT:56:IT4683', 'IT:57:IT4683', 'IT:58:IT4683', 'IT:59:CYBR4883', 'IT:179:IT3003', 'IT:319:CYBR3423', 'IT:361:IT4883', 'IT:474:IT4673', 'IT:546:IT3503', 'IT:582:IT4983', 'IT:583:IT4983', 'IT:648:IT4723', 'IT:649:IT4723']"
+    },
+    {
+        "id": "5289",
+        "job_title": "CSV Manager",
+        "keyword_names": "IT",
+        "related_courses": "['IT:49:IT3423', 'IT:52:IT4683', 'IT:53:IT4683', 'IT:55:IT4683', 'IT:56:IT4683', 'IT:57:IT4683', 'IT:58:IT4683', 'IT:59:CYBR4883', 'IT:179:IT3003', 'IT:319:CYBR3423', 'IT:361:IT4883', 'IT:474:IT4673', 'IT:546:IT3503', 'IT:582:IT4983', 'IT:583:IT4983', 'IT:648:IT4723', 'IT:649:IT4723']"
+    },
+    {
+        "id": "5296",
+        "job_title": "Big Data Scientist",
+        "keyword_names": "Python, SQL",
+        "related_courses": "['Python:21:CS4742', 'Python:357:IT4423', 'Python:383:CYBR4423', 'SQL:214:IT4733', 'SQL:234:CSE3153', 'SQL:357:IT4423', 'SQL:383:CYBR4423', 'SQL:508:CYBR3153']"
+    },
+    {
+        "id": "5297",
+        "job_title": "Senior Big Data Scientist",
+        "keyword_names": "Python, SQL",
+        "related_courses": "['Python:21:CS4742', 'Python:357:IT4423', 'Python:383:CYBR4423', 'SQL:214:IT4733', 'SQL:234:CSE3153', 'SQL:357:IT4423', 'SQL:383:CYBR4423', 'SQL:508:CYBR3153']"
+    },
+    {
+        "id": "5302",
+        "job_title": "Big Data Science",
+        "keyword_names": "Python, SQL",
+        "related_courses": "['Python:21:CS4742', 'Python:357:IT4423', 'Python:383:CYBR4423', 'SQL:214:IT4733', 'SQL:234:CSE3153', 'SQL:357:IT4423', 'SQL:383:CYBR4423', 'SQL:508:CYBR3153']"
+    },
+    {
+        "id": "5308",
+        "job_title": "Senior SQL Developer",
+        "keyword_names": "SQL",
+        "related_courses": "['SQL:214:IT4733', 'SQL:234:CSE3153', 'SQL:357:IT4423', 'SQL:383:CYBR4423', 'SQL:508:CYBR3153']"
+    },
+    {
+        "id": "5313",
+        "job_title": "Embedded Software Engineer",
+        "keyword_names": "Linux, Unix",
+        "related_courses": "['Linux:356:IT4423', 'Linux:357:IT4423', 'Linux:382:CYBR4423', 'Linux:383:CYBR4423', 'Unix:356:IT4423', 'Unix:382:CYBR4423']"
+    },
+    {
+        "id": "5314",
+        "job_title": "Embedded Software Developer",
+        "keyword_names": "Linux, Unix",
+        "related_courses": "['Linux:356:IT4423', 'Linux:357:IT4423', 'Linux:382:CYBR4423', 'Linux:383:CYBR4423', 'Unix:356:IT4423', 'Unix:382:CYBR4423']"
+    },
+    {
+        "id": "5316",
+        "job_title": "Linux Driver Developer",
+        "keyword_names": "Linux, Unix",
+        "related_courses": "['Linux:356:IT4423', 'Linux:357:IT4423', 'Linux:382:CYBR4423', 'Linux:383:CYBR4423', 'Unix:356:IT4423', 'Unix:382:CYBR4423']"
+    },
+    {
+        "id": "5320",
+        "job_title": "Campaign Analyst",
+        "keyword_names": "SQL",
+        "related_courses": "['SQL:214:IT4733', 'SQL:234:CSE3153', 'SQL:357:IT4423', 'SQL:383:CYBR4423', 'SQL:508:CYBR3153']"
+    },
+    {
+        "id": "5322",
+        "job_title": "Insight Analyst",
+        "keyword_names": "SQL, SAS",
+        "related_courses": "['SQL:214:IT4733', 'SQL:234:CSE3153', 'SQL:357:IT4423', 'SQL:383:CYBR4423', 'SQL:508:CYBR3153', 'SAS:205:STAT3130', 'SAS:501:STAT7220']"
+    },
+    {
+        "id": "5398",
+        "job_title": "Recruitment Lead",
+        "keyword_names": "IT, Change Management, Python",
+        "related_courses": "['IT:49:IT3423', 'IT:52:IT4683', 'IT:53:IT4683', 'IT:55:IT4683', 'IT:56:IT4683', 'IT:57:IT4683', 'IT:58:IT4683', 'IT:59:CYBR4883', 'IT:179:IT3003', 'IT:319:CYBR3423', 'IT:361:IT4883', 'IT:474:IT4673', 'IT:546:IT3503', 'IT:582:IT4983', 'IT:583:IT4983', 'IT:648:IT4723', 'IT:649:IT4723', 'Change Management:141:CYBR4810', 'Python:21:CS4742', 'Python:357:IT4423', 'Python:383:CYBR4423']"
+    },
+    {
+        "id": "5399",
+        "job_title": "Recruitment Manager",
+        "keyword_names": "IT, Change Management, Python",
+        "related_courses": "['IT:49:IT3423', 'IT:52:IT4683', 'IT:53:IT4683', 'IT:55:IT4683', 'IT:56:IT4683', 'IT:57:IT4683', 'IT:58:IT4683', 'IT:59:CYBR4883', 'IT:179:IT3003', 'IT:319:CYBR3423', 'IT:361:IT4883', 'IT:474:IT4673', 'IT:546:IT3503', 'IT:582:IT4983', 'IT:583:IT4983', 'IT:648:IT4723', 'IT:649:IT4723', 'Change Management:141:CYBR4810', 'Python:21:CS4742', 'Python:357:IT4423', 'Python:383:CYBR4423']"
+    },
+    {
+        "id": "5400",
+        "job_title": "Practice Manager",
+        "keyword_names": "IT, Change Management, Python",
+        "related_courses": "['IT:49:IT3423', 'IT:52:IT4683', 'IT:53:IT4683', 'IT:55:IT4683', 'IT:56:IT4683', 'IT:57:IT4683', 'IT:58:IT4683', 'IT:59:CYBR4883', 'IT:179:IT3003', 'IT:319:CYBR3423', 'IT:361:IT4883', 'IT:474:IT4673', 'IT:546:IT3503', 'IT:582:IT4983', 'IT:583:IT4983', 'IT:648:IT4723', 'IT:649:IT4723', 'Change Management:141:CYBR4810', 'Python:21:CS4742', 'Python:357:IT4423', 'Python:383:CYBR4423']"
+    },
+    {
+        "id": "5407",
+        "job_title": "Chief Information Security Officer",
+        "keyword_names": "IT",
+        "related_courses": "['IT:49:IT3423', 'IT:52:IT4683', 'IT:53:IT4683', 'IT:55:IT4683', 'IT:56:IT4683', 'IT:57:IT4683', 'IT:58:IT4683', 'IT:59:CYBR4883', 'IT:179:IT3003', 'IT:319:CYBR3423', 'IT:361:IT4883', 'IT:474:IT4673', 'IT:546:IT3503', 'IT:582:IT4983', 'IT:583:IT4983', 'IT:648:IT4723', 'IT:649:IT4723']"
+    },
+    {
+        "id": "5408",
+        "job_title": "Chief Security Officer",
+        "keyword_names": "IT",
+        "related_courses": "['IT:49:IT3423', 'IT:52:IT4683', 'IT:53:IT4683', 'IT:55:IT4683', 'IT:56:IT4683', 'IT:57:IT4683', 'IT:58:IT4683', 'IT:59:CYBR4883', 'IT:179:IT3003', 'IT:319:CYBR3423', 'IT:361:IT4883', 'IT:474:IT4673', 'IT:546:IT3503', 'IT:582:IT4983', 'IT:583:IT4983', 'IT:648:IT4723', 'IT:649:IT4723']"
+    },
+    {
+        "id": "5451",
+        "job_title": "Product Managment",
+        "keyword_names": "SQL, MySQL",
+        "related_courses": "['SQL:214:IT4733', 'SQL:234:CSE3153', 'SQL:357:IT4423', 'SQL:383:CYBR4423', 'SQL:508:CYBR3153', 'MySQL:357:IT4423', 'MySQL:383:CYBR4423']"
+    },
+    {
+        "id": "5499",
+        "job_title": "Sr DevOps Engineer",
+        "keyword_names": "Linux, Python",
+        "related_courses": "['Linux:356:IT4423', 'Linux:357:IT4423', 'Linux:382:CYBR4423', 'Linux:383:CYBR4423', 'Python:21:CS4742', 'Python:357:IT4423', 'Python:383:CYBR4423']"
+    },
+    {
+        "id": "5601",
+        "job_title": "Senior DevOPs",
+        "keyword_names": "Python",
+        "related_courses": "['Python:21:CS4742', 'Python:357:IT4423', 'Python:383:CYBR4423']"
+    },
+    {
+        "id": "5602",
+        "job_title": "DevOPs Engineer",
+        "keyword_names": "Python",
+        "related_courses": "['Python:21:CS4742', 'Python:357:IT4423', 'Python:383:CYBR4423']"
+    },
+    {
+        "id": "5606",
+        "job_title": "Support Account Manager",
+        "keyword_names": "TCP/IP",
+        "related_courses": "['TCP/IP:355:IT4423', 'TCP/IP:381:CYBR4423']"
+    },
+    {
+        "id": "5620",
+        "job_title": "Enterprise Web Lead",
+        "keyword_names": "MVC",
+        "related_courses": "['MVC:535:CS4720']"
+    },
+    {
+        "id": "5628",
+        "job_title": "Senior SW Engineer",
+        "keyword_names": "Linux, JavaScript, Unix",
+        "related_courses": "['Unix:356:IT4423', 'Unix:382:CYBR4423']"
+    },
+    {
+        "id": "5629",
+        "job_title": "Senior Staff Software Engineer",
+        "keyword_names": "Linux, JavaScript, Unix",
+        "related_courses": "['Unix:356:IT4423', 'Unix:382:CYBR4423']"
+    },
+    {
+        "id": "5638",
+        "job_title": "Senior QA Engineer",
+        "keyword_names": "Python, Python, Agile",
+        "related_courses": "['Python:21:CS4742', 'Python:357:IT4423', 'Python:383:CYBR4423']"
+    },
+    {
+        "id": "5639",
+        "job_title": "Senior Quality Assurance",
+        "keyword_names": "Python, Python, Agile",
+        "related_courses": "['Python:21:CS4742', 'Python:357:IT4423', 'Python:383:CYBR4423']"
+    },
+    {
+        "id": "5640",
+        "job_title": "Senior Quality Assurance Test",
+        "keyword_names": "Python, Python, Agile",
+        "related_courses": "['Python:21:CS4742', 'Python:357:IT4423', 'Python:383:CYBR4423']"
+    },
+    {
+        "id": "5641",
+        "job_title": "Quality Assurance Test",
+        "keyword_names": "Python, Python, Agile",
+        "related_courses": "['Python:21:CS4742', 'Python:357:IT4423', 'Python:383:CYBR4423']"
+    },
+    {
+        "id": "5642",
+        "job_title": "Senior Quality Engineer",
+        "keyword_names": "Python, Python, Agile",
+        "related_courses": "['Python:21:CS4742', 'Python:357:IT4423', 'Python:383:CYBR4423']"
+    }
+]

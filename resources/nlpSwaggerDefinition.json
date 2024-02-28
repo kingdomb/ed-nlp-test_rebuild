@@ -1,0 +1,178 @@
+{
+  "swagger": "2.0",
+  "info": {
+    "title": "NLP Recommender API Service for KSU-CRS Capstone Project",
+    "description": "This API service is crafted using Natural Language Processing (NLP) techniques to provide personalized course recommendations for KSU students.  \n\nSee the README for more details (sample Request body and API key): (http://localhost:3000/readme)\n\nSWE 7903 Capstone Project \nTeam 1 - Spring 2024",
+    "version": "1.0",
+    "contact": {
+      "name": "Bernard Major",
+      "email": "bernardmajor80@outlook.com"
+    }
+  },
+  "host": "localhost:3000",
+  "schemes": [
+    "http",
+    "https"
+  ],
+  "basePath": "/",
+  "securityDefinitions": {
+    "ApiKeyAuth": {
+      "type": "apiKey",
+      "in": "header",
+      "name": "X-API-Key"
+    }
+  },
+  "paths": {
+    "/recommend": {
+      "post": {
+        "summary": "Recommend courses based on student data",
+        "description": "Processes POST requests with student data and returns course recommendations.",
+        "consumes": [
+          "application/json"
+        ],
+        "produces": [
+          "application/json"
+        ],
+        "parameters": [
+          {
+            "in": "body",
+            "name": "student_data",
+            "description": "Student data for course recommendation",
+            "required": true,
+            "schema": {
+              "type": "object",
+              "properties": {
+                "Career goal": {
+                  "type": "string"
+                },
+                "Degree program": {
+                  "type": "string"
+                },
+                "CalculateByLearningGap": {
+                  "type": "boolean"
+                },
+                "Courses taken": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/definitions/Course"
+                  }
+                },
+                "Allowed subject": {
+                  "type": "array",
+                  "items": {
+                    "type": "string"
+                  }
+                }
+              },
+              "required": [
+                "Degree program",
+                "CalculateByLearningGap",
+                "Courses taken"
+              ]
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Course Recommendations",
+            "schema": {
+              "type": "array",
+              "items": {
+                "$ref": "#/definitions/Course"
+              }
+            }
+          },
+          "400": {
+            "description": "Bad Request - Input Validation Error",
+            "schema": {
+              "type": "object",
+              "properties": {
+                "error": {
+                  "type": "string"
+                }
+              }
+            }
+          },
+          "401": {
+            "description": "Unauthorized",
+            "schema": {
+              "type": "object",
+              "properties": {
+                "error": {
+                  "type": "string"
+                }
+              }
+            },
+            "examples": {
+              "application/json": {
+                "error": "Invalid API Key."
+              }
+            }
+          },
+          "429": {
+            "description": "Too Many Requests - The request has been rate-limited.",
+            "schema": {
+              "type": "object",
+              "properties": {
+                "error": {
+                  "type": "string"
+                }
+              }
+            },
+            "examples": {
+              "application/json": {
+                "error": "Too many requests, please try again later."
+              }
+            }
+          },
+          "500": {
+            "description": "Internal Server Error - A generic server-side error message.",
+            "schema": {
+              "type": "object",
+              "properties": {
+                "error": {
+                  "type": "string"
+                }
+              }
+            },
+            "examples": {
+              "application/json": {
+                "error": "An unexpected error has occurred. Please try again later."
+              }
+            }
+          }
+        },
+        "security": [
+          {
+            "ApiKeyAuth": []
+          }
+        ]
+      }
+    }
+  },
+  "definitions": {
+    "Course": {
+      "type": "object",
+      "properties": {
+        "Subject": {
+          "type": "string"
+        },
+        "Number": {
+          "type": "string"
+        },
+        "Course": {
+          "type": "string"
+        },
+        "Title": {
+          "type": "string"
+        },
+        "Description": {
+          "type": "string"
+        },
+        "Grade": {
+          "type": "string"
+        }
+      }
+    }
+  }
+}

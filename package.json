@@ -1,0 +1,53 @@
+{
+  "name": "ed-nlp-test_rebuild",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "jest",
+    "test:watch": "jest --watch",
+    "test:coverage": "jest --coverage"
+  },
+  "keywords": [],
+  "author": "bernard major",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "cors": "^2.8.5",
+    "crypto": "^1.0.1",
+    "csv-parse": "^5.5.3",
+    "csv-parser": "^3.0.0",
+    "express": "^4.18.2",
+    "express-rate-limit": "^7.1.5",
+    "fs": "0.0.1-security",
+    "js-yaml": "^4.1.0",
+    "markdown-it": "^14.0.0",
+    "mathjs": "^12.3.2",
+    "natural": "^6.10.4",
+    "swagger-jsdoc": "^6.2.8",
+    "swagger-ui-express": "^5.0.0"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0",
+    "jest-html-reporter": "^3.10.2",
+    "jest-junit": "^16.0.0",
+    "supertest": "^6.3.4"
+  },
+  "jest": {
+    "testEnvironment": "node",
+    "coveragePathIgnorePatterns": [
+      "/node_modules/"
+    ],
+    "verbose": true,
+    "reporters": [
+      "default",
+      [
+        "jest-html-reporter",
+        {
+          "outputPath": "./reports/test-report.html"
+        }
+      ]
+    ]
+  }
+}
