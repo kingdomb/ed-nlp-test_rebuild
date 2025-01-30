@@ -1,6 +1,8 @@
 # ed-nlp-test_rebuild
 # NLP Recommender API Service for College-Courses
 
+[LINK TO BEFORE AND AFTER SCREENSHOTS](https://example.com/path-to-your-screenshots)
+
 ## Introduction
 
 The engine is crafted using **`natural language processing (NLP)`** techniques, specifically through the TF-IDF vectorizer from the `natural` library, to analyze course descriptions and recommend courses based on a KSU student's academic profile. It's built on a Node.js backend, leveraging Express.js for handling HTTP requests and middleware functionality. 
